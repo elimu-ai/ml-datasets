@@ -13,6 +13,28 @@ You can expect the datasets in this repository to be updated once per day.
 > [!TIP]
 > Since datasets in this repository are continuously updated, you should also design your machine learning code to continulously train new versions of your model (e.g. once per night).
 
+## Code Usage
+
+Prerequisites:
+
+- Install [Python](https://www.python.org/)
+
+### Dependencies
+
+Install the Python dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run
+
+Download datasets:
+
+```bash
+python download_datasets.py
+```
+
 ---
 
 <p align="center">
