@@ -17,7 +17,13 @@ for language in languages:
 
     os.makedirs(f'lang-{language}', exist_ok=True)
 
-    # TODO: letter-sound learning events
+    letter_sound_learning_events_csv_url = f'http://{language.lower()}.elimu.ai/analytics/letter-sound-learning-event/list/letter-sound-learning-events.csv'
+    print(f'letter_sound_learning_events_csv_url: {letter_sound_learning_events_csv_url}')
+    letter_sound_learning_events_dataframe = pandas.read_csv(letter_sound_learning_events_csv_url)
+    print(f'letter_sound_learning_events_dataframe: \n{letter_sound_learning_events_dataframe}')
+    letter_sound_learning_events_file_path = f'lang-{language}/letter_sound-learning-events.csv'
+    print(f'letter_sound_learning_events_file_path: {letter_sound_learning_events_file_path}')
+    letter_sound_learning_events_dataframe.to_csv(letter_sound_learning_events_file_path, index=False)
 
     word_learning_events_csv_url = f'http://{language.lower()}.elimu.ai/analytics/word-learning-event/list/word-learning-events.csv'
     print(f'word_learning_events_csv_url: {word_learning_events_csv_url}')
