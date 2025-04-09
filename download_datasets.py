@@ -19,7 +19,13 @@ for language in languages:
 
     # TODO: letter-sound learning events
 
-    # TODO: word learning events
+    word_learning_events_csv_url = f'http://{language.lower()}.elimu.ai/analytics/word-learning-event/list/word-learning-events.csv'
+    print(f'word_learning_events_csv_url: {word_learning_events_csv_url}')
+    word_learning_events_dataframe = pandas.read_csv(word_learning_events_csv_url)
+    print(f'word_learning_events_dataframe: \n{word_learning_events_dataframe}')
+    word_learning_events_file_path = f'lang-{language}/word-learning-events.csv'
+    print(f'word_learning_events_file_path: {word_learning_events_file_path}')
+    word_learning_events_dataframe.to_csv(word_learning_events_file_path, index=False)
 
     # TODO: number learning events
     
