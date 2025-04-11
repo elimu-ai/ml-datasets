@@ -6,7 +6,7 @@
 
 For each supported language, learning events and assessment events are continuously uploaded from Android devices to the webapp database.
 
-And those datasets are then downloaded to this repository in a [daily cron job](.github/workflows/download-datasets-daily.yml).
+And those datasets are then downloaded to this repository in a [daily cron job](https://github.com/elimu-ai/ml-datasets/actions/workflows/download-datasets-daily.yml).
 
 ```mermaid
 flowchart
