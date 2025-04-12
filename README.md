@@ -2,10 +2,6 @@
 
 > Event datasets used for training machine learning models.
 
-> [!NOTE]
-> This repository only contains learning events and assessment events. If you are looking for _content_ datasets, see [webapp-lfs
-](https://github.com/elimu-ai/webapp-lfs).
-
 ## Data Sources
 
 For each supported language, learning events and assessment events are continuously uploaded from Android devices to the webapp database.
@@ -67,6 +63,10 @@ flowchart
 ## Machine Learning Operations (MLOps)
 
 When machine learning models are being trained with datasets collected from the elimu.ai Android apps, they should be fetching the data from this repository.
+
+> [!NOTE]
+> This repository only contains learning events and assessment events. If you are also looking for _content_ datasets, see [webapp-lfs
+](https://github.com/elimu-ai/webapp-lfs).
 
 ## Daily Updates
 
