@@ -43,10 +43,10 @@ for language in languages:
     print(f'storybook_learning_events_file_path: {storybook_learning_events_file_path}')
     storybook_learning_events_dataframe.to_csv(storybook_learning_events_file_path, index=False)
 
-    # video_learning_events_csv_url = f'http://{language.lower()}.elimu.ai/analytics/video-learning-event/list/video-learning-events.csv'
-    # print(f'video_learning_events_csv_url: {video_learning_events_csv_url}')
-    # video_learning_events_dataframe = pandas.read_csv(video_learning_events_csv_url)
-    # print(f'video_learning_events_dataframe: \n{video_learning_events_dataframe}')
-    # video_learning_events_file_path = f'lang-{language}/video-learning-events.csv'
-    # print(f'video_learning_events_file_path: {video_learning_events_file_path}')
-    # video_learning_events_dataframe.to_csv(video_learning_events_file_path, index=False)
+    video_learning_events_csv_url = f'http://{language.lower()}.elimu.ai/analytics/video-learning-event/list/video-learning-events.csv'
+    print(f'video_learning_events_csv_url: {video_learning_events_csv_url}')
+    video_learning_events_dataframe = pandas.read_csv(video_learning_events_csv_url)
+    print(f'video_learning_events_dataframe: \n{video_learning_events_dataframe}')
+    video_learning_events_file_path = f'lang-{language}/video-learning-events.csv'
+    print(f'video_learning_events_file_path: {video_learning_events_file_path}')
+    video_learning_events_dataframe.to_csv(video_learning_events_file_path, index=False)
