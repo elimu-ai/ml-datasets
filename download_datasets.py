@@ -6,7 +6,8 @@ languages = [
     'ENG',
     'HIN',
     'TGL',
-    'THA'
+    'THA',
+    'VIE'
 ]
 print(f'languages: {languages}')
 
