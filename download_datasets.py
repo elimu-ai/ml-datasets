@@ -26,7 +26,7 @@ for language in languages:
     print(f'students_file_path: {students_file_path}')
     students_dataframe.to_csv(students_file_path, index=False)
 
-    for index, student in students_dataframe.iterrows():
+    for _, student in students_dataframe.iterrows():
         print()
         print(f'student.id: {student.id}')
 
