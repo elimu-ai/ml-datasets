@@ -1,0 +1,13 @@
+id,timestamp,package_name,word_text,word_id,mastery_score,time_spent_ms,additional_data
+674,1745458797000,ai.elimu.kukariri.debug,mother,105,1.0,4008,
+675,1745458798000,ai.elimu.kukariri.debug,earth,704,1.0,1589,
+676,1745458800000,ai.elimu.kukariri.debug,food,86,1.0,1483,
+677,1745458801000,ai.elimu.kukariri.debug,house,188,1.0,1052,
+678,1745473238000,ai.elimu.kukariri.debug,mother,105,0.0,59690,
+679,1745473241000,ai.elimu.kukariri.debug,earth,704,1.0,2114,
+680,1745473413000,ai.elimu.kukariri.debug,mother,105,1.0,6988,
+681,1745473414000,ai.elimu.kukariri.debug,food,86,1.0,855,
+682,1746174282000,ai.elimu.kukariri.debug,mother,105,1.0,7429,
+683,1746192178000,ai.elimu.kukariri.debug,mother,105,0.0,1989,
+684,1746192179000,ai.elimu.kukariri.debug,said,48,1.0,1294,
+685,1746192188000,ai.elimu.kukariri.debug,earth,704,1.0,8568,
