@@ -39,6 +39,10 @@ jobs:
         git config user.name github-actions[bot]
         git config user.email 41898282+github-actions[bot]@users.noreply.github.com
 
+    - name: Git Generate Short Diffstat
+      run: |
+        git --no-pager diff --shortstat
+    
     - name: Git Commit
       run: |
         git add **/*.csv
