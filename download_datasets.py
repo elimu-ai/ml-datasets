@@ -66,7 +66,13 @@ for language in languages:
 
         # TODO: number assessment events
         
-        # TODO: number learning events
+        number_learning_events_csv_url = f'http://{language.lower()}.elimu.ai/analytics/students/{student.id}/number-learning-events.csv'
+        print(f'number_learning_events_csv_url: {number_learning_events_csv_url}')
+        number_learning_events_dataframe = pandas.read_csv(number_learning_events_csv_url)
+        print(f'number_learning_events_dataframe: \n{number_learning_events_dataframe}')
+        number_learning_events_file_path = f'lang-{language}/student-id-{student.id}/number-learning-events.csv'
+        print(f'number_learning_events_file_path: {number_learning_events_file_path}')
+        number_learning_events_dataframe.to_csv(number_learning_events_file_path, index=False)
         
         storybook_learning_events_csv_url = f'http://{language.lower()}.elimu.ai/analytics/students/{student.id}/storybook-learning-events.csv'
         print(f'storybook_learning_events_csv_url: {storybook_learning_events_csv_url}')

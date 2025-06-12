@@ -1,1 +1,1 @@
-id,timestamp,package_name,letter_sound_letters,letter_sound_sounds,letter_sound_id,mastery_score,time_spent_ms,additional_data
+id,timestamp,package_name,mastery_score,time_spent_ms,additional_data,letter_sound_letters,letter_sound_sounds,letter_sound_id
