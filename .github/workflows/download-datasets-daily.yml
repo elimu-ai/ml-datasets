@@ -3,6 +3,7 @@ name: Download datasets (daily)
 on:
   schedule:
     - cron: 20 23 * * *
+  workflow_dispatch:
 
 jobs:
   build:
