@@ -67,3 +67,8 @@ id,timestamp,package_name,word_text,word_id,learning_event_type,additional_data
 44653,1749799770,ai.elimu.vitabu,said,,WORD_PRESSED,
 44654,1749799828,ai.elimu.vitabu,the,,WORD_PRESSED,
 44655,1749820719,ai.elimu.vitabu,she,,WORD_PRESSED,
+44656,1749896143,ai.elimu.vitabu,yellow,,WORD_PRESSED,
+44657,1749896150,ai.elimu.vitabu,yellow,,WORD_PRESSED,
+44658,1749896164,ai.elimu.vitabu,yellow,,WORD_PRESSED,
+44659,1749896168,ai.elimu.vitabu,yellow,,WORD_PRESSED,
+44660,1749899779,ai.elimu.vitabu,with,,WORD_PRESSED,

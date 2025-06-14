@@ -392,3 +392,4 @@ id,timestamp,package_name,storybook_title,storybook_id,learning_event_type,addit
 908,1749891036,ai.elimu.vitabu.debug,ครอบครัวกลมเกลียว,21,STORYBOOK_COMPLETED,
 909,1749891082,ai.elimu.vitabu.debug,นิทานคำกลอน มดจอมขยัน,12,STORYBOOK_OPENED,
 910,1749891169,ai.elimu.vitabu.debug,นิทานคำกลอน มดจอมขยัน,12,STORYBOOK_COMPLETED,
+916,1749899907,ai.elimu.vitabu.debug,ขนหางของเจ้านกยูง,35,STORYBOOK_OPENED,
