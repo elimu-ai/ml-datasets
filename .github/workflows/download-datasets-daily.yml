@@ -42,10 +42,13 @@ jobs:
     - name: Git Generate Short Diffstat
       run: |
         git --no-pager diff --shortstat
+
+    - name: Git Dry Run
+      run: git add -n '**/*.csv'
     
     - name: Git Commit
       run: |
-        git add **/*.csv
+        git add '**/*.csv'
         git commit -m 'chore(ml): download datasets' --allow-empty
 
     - name: Git Pull
