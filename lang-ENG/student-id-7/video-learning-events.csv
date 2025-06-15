@@ -71,3 +71,5 @@ id,timestamp,package_name,video_title,video_id,learning_event_type,additional_da
 5807593,1749859604,ai.elimu.filamu,akili and me - letter i,33,VIDEO_COMPLETED,{'video_playback_position_ms': 39569}
 5807594,1749859668,ai.elimu.filamu,akili and me - letter c,3,VIDEO_OPENED,
 5807595,1749859720,ai.elimu.filamu,akili and me - letter c,3,VIDEO_COMPLETED,{'video_playback_position_ms': 14206}
+5807634,1749945732,ai.elimu.filamu,akili and me - the rectangle song,13,VIDEO_OPENED,
+5807635,1749945747,ai.elimu.filamu,akili and me - the rectangle song,13,VIDEO_COMPLETED,{'video_playback_position_ms': 53723}

@@ -393,3 +393,7 @@ id,timestamp,package_name,storybook_title,storybook_id,learning_event_type,addit
 909,1749891082,ai.elimu.vitabu.debug,นิทานคำกลอน มดจอมขยัน,12,STORYBOOK_OPENED,
 910,1749891169,ai.elimu.vitabu.debug,นิทานคำกลอน มดจอมขยัน,12,STORYBOOK_COMPLETED,
 916,1749899907,ai.elimu.vitabu.debug,ขนหางของเจ้านกยูง,35,STORYBOOK_OPENED,
+917,1749921282,ai.elimu.vitabu.debug,กาใจดี ไก่ใจดำ,43,STORYBOOK_OPENED,
+918,1749922325,ai.elimu.vitabu.debug,กาใจดี ไก่ใจดำ,43,STORYBOOK_COMPLETED,
+919,1749922336,ai.elimu.vitabu.debug,แย่เเล้ว!,41,STORYBOOK_OPENED,
+920,1750000480,ai.elimu.vitabu.debug,ครอบครัวกลมเกลียว,21,STORYBOOK_OPENED,

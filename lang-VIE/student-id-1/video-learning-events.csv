@@ -79,3 +79,29 @@ id,timestamp,package_name,video_title,video_id,learning_event_type,additional_da
 448703,1749864825,ai.elimu.filamu,piper,1,VIDEO_COMPLETED,{'video_playback_position_ms': 26720}
 448704,1749864881,ai.elimu.filamu,piper,1,VIDEO_OPENED,
 448705,1749864935,ai.elimu.filamu,piper,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19482}
+448736,1749955593,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448737,1749955636,ai.elimu.filamu,piper,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 27408}
+448738,1749955723,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448739,1749955748,ai.elimu.filamu,piper,1,VIDEO_COMPLETED,{'video_playback_position_ms': 27832}
+448740,1749955813,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448741,1749955848,ai.elimu.filamu,piper,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 48136}
+448742,1749955924,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448743,1749955938,ai.elimu.filamu,piper,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 52048}
+448744,1749956028,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448745,1749956069,ai.elimu.filamu,piper,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 38027}
+448746,1749956112,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448747,1749956120,ai.elimu.filamu,piper,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 46755}
+448748,1749956160,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448749,1749956171,ai.elimu.filamu,piper,1,VIDEO_COMPLETED,{'video_playback_position_ms': 57804}
+448750,1749956236,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448751,1749956288,ai.elimu.filamu,piper,1,VIDEO_COMPLETED,{'video_playback_position_ms': 20139}
+448752,1749956338,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448753,1749956392,ai.elimu.filamu,piper,1,VIDEO_COMPLETED,{'video_playback_position_ms': 41200}
+448754,1749956463,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448755,1749956500,ai.elimu.filamu,piper,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 57085}
+448756,1749956617,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448757,1749956652,ai.elimu.filamu,piper,1,VIDEO_COMPLETED,{'video_playback_position_ms': 35060}
+448758,1749956714,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448759,1749956725,ai.elimu.filamu,piper,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 4776}
+448760,1749956808,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448761,1749956850,ai.elimu.filamu,piper,1,VIDEO_COMPLETED,{'video_playback_position_ms': 44177}
