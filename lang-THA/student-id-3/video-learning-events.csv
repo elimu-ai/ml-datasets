@@ -61,3 +61,25 @@ id,timestamp,package_name,video_title,video_id,learning_event_type,additional_da
 1618,1749952733,ai.elimu.filamu,test sample video,1,VIDEO_COMPLETED,{'video_playback_position_ms': 7549}
 1619,1749952804,ai.elimu.filamu,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9,VIDEO_OPENED,
 1620,1749952859,ai.elimu.filamu,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9,VIDEO_COMPLETED,{'video_playback_position_ms': 5825}
+1681,1750035068,ai.elimu.filamu,test sample video,1,VIDEO_OPENED,
+1682,1750035106,ai.elimu.filamu,test sample video,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 24643}
+1683,1750035150,ai.elimu.filamu,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9,VIDEO_OPENED,
+1684,1750035179,ai.elimu.filamu,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 54165}
+1685,1750035203,ai.elimu.filamu,sample video 5 h264,5,VIDEO_OPENED,
+1686,1750035254,ai.elimu.filamu,sample video 5 h264,5,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 58516}
+1687,1750035364,ai.elimu.filamu,sample video 5 h264,5,VIDEO_OPENED,
+1688,1750035366,ai.elimu.filamu,sample video 5 h264,5,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 20268}
+1689,1750035481,ai.elimu.filamu,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9,VIDEO_OPENED,
+1690,1750035488,ai.elimu.filamu,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 37583}
+1691,1750035524,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_OPENED,
+1692,1750035533,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 38612}
+1693,1750035582,ai.elimu.filamu,sample video 5 h264,5,VIDEO_OPENED,
+1694,1750035626,ai.elimu.filamu,sample video 5 h264,5,VIDEO_COMPLETED,{'video_playback_position_ms': 1857}
+1695,1750035721,ai.elimu.filamu,test sample video,1,VIDEO_OPENED,
+1696,1750035776,ai.elimu.filamu,test sample video,1,VIDEO_COMPLETED,{'video_playback_position_ms': 16124}
+1697,1750035882,ai.elimu.filamu,sample video 7 - re-encodeed,7,VIDEO_OPENED,
+1698,1750035892,ai.elimu.filamu,sample video 7 - re-encodeed,7,VIDEO_COMPLETED,{'video_playback_position_ms': 59720}
+1699,1750035995,ai.elimu.filamu,sample video 7 - re-encodeed,7,VIDEO_OPENED,
+1700,1750036006,ai.elimu.filamu,sample video 7 - re-encodeed,7,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 32799}
+1701,1750036039,ai.elimu.filamu,test sample video,1,VIDEO_OPENED,
+1702,1750036074,ai.elimu.filamu,test sample video,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 59142}
