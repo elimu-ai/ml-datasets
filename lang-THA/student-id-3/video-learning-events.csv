@@ -83,3 +83,29 @@ id,timestamp,package_name,video_title,video_id,learning_event_type,additional_da
 1700,1750036006,ai.elimu.filamu,sample video 7 - re-encodeed,7,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 32799}
 1701,1750036039,ai.elimu.filamu,test sample video,1,VIDEO_OPENED,
 1702,1750036074,ai.elimu.filamu,test sample video,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 59142}
+1729,1750125693,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_OPENED,
+1730,1750125738,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 43250}
+1731,1750125845,ai.elimu.filamu,sample video 7 - re-encodeed,7,VIDEO_OPENED,
+1732,1750125886,ai.elimu.filamu,sample video 7 - re-encodeed,7,VIDEO_COMPLETED,{'video_playback_position_ms': 32769}
+1733,1750125966,ai.elimu.filamu,test sample video,1,VIDEO_OPENED,
+1734,1750126009,ai.elimu.filamu,test sample video,1,VIDEO_COMPLETED,{'video_playback_position_ms': 55356}
+1735,1750126041,ai.elimu.filamu,sample video 5 h264,5,VIDEO_OPENED,
+1736,1750126087,ai.elimu.filamu,sample video 5 h264,5,VIDEO_COMPLETED,{'video_playback_position_ms': 9749}
+1737,1750126106,ai.elimu.filamu,sample video 7 - re-encodeed,7,VIDEO_OPENED,
+1738,1750126115,ai.elimu.filamu,sample video 7 - re-encodeed,7,VIDEO_COMPLETED,{'video_playback_position_ms': 31919}
+1739,1750126217,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_OPENED,
+1740,1750126229,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_COMPLETED,{'video_playback_position_ms': 45013}
+1741,1750126339,ai.elimu.filamu,sample video 5 h264,5,VIDEO_OPENED,
+1742,1750126376,ai.elimu.filamu,sample video 5 h264,5,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 23810}
+1743,1750126428,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_OPENED,
+1744,1750126462,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_COMPLETED,{'video_playback_position_ms': 18239}
+1745,1750126559,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_OPENED,
+1746,1750126562,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_COMPLETED,{'video_playback_position_ms': 41294}
+1747,1750126637,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_OPENED,
+1748,1750126644,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 36828}
+1749,1750126696,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_OPENED,
+1750,1750126708,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_COMPLETED,{'video_playback_position_ms': 34262}
+1751,1750126770,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_OPENED,
+1752,1750126792,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 32903}
+1753,1750126826,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_OPENED,
+1754,1750126859,ai.elimu.filamu,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 10862}
