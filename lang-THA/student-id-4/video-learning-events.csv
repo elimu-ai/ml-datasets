@@ -37,3 +37,5 @@ id,timestamp,package_name,video_title,video_id,learning_event_type,additional_da
 1790,1750151469,ai.elimu.filamu.debug,,10,VIDEO_CLOSED_BEFORE_COMPLETION,
 1791,1750151472,ai.elimu.filamu.debug,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9,VIDEO_OPENED,
 1792,1750152808,ai.elimu.filamu.debug,,9,VIDEO_CLOSED_BEFORE_COMPLETION,
+1793,1750210660,ai.elimu.filamu.debug,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9,VIDEO_OPENED,
+1794,1750210668,ai.elimu.filamu.debug,,9,VIDEO_CLOSED_BEFORE_COMPLETION,

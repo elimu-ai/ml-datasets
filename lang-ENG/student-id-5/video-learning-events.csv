@@ -137,3 +137,41 @@ id,timestamp,package_name,video_title,video_id,learning_event_type,additional_da
 5807719,1750118327,ai.elimu.filamu,[test] a test video,44,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19390}
 5807720,1750118351,ai.elimu.filamu,akili and me - letter c,3,VIDEO_OPENED,
 5807721,1750118373,ai.elimu.filamu,akili and me - letter c,3,VIDEO_COMPLETED,{'video_playback_position_ms': 32999}
+5807777,1750202903,ai.elimu.filamu,[test] a test video,44,VIDEO_OPENED,
+5807778,1750202944,ai.elimu.filamu,[test] a test video,44,VIDEO_COMPLETED,{'video_playback_position_ms': 41678}
+5807779,1750203000,ai.elimu.filamu,[test] a test video,44,VIDEO_OPENED,
+5807780,1750203049,ai.elimu.filamu,[test] a test video,44,VIDEO_COMPLETED,{'video_playback_position_ms': 42360}
+5807781,1750203096,ai.elimu.filamu,akili and me - the rectangle song,13,VIDEO_OPENED,
+5807782,1750203153,ai.elimu.filamu,akili and me - the rectangle song,13,VIDEO_COMPLETED,{'video_playback_position_ms': 26916}
+5807783,1750203246,ai.elimu.filamu,akili and me - letter c,3,VIDEO_OPENED,
+5807784,1750203276,ai.elimu.filamu,akili and me - letter c,3,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 9914}
+5807785,1750203371,ai.elimu.filamu,akili and me - letter i,33,VIDEO_OPENED,
+5807786,1750203420,ai.elimu.filamu,akili and me - letter i,33,VIDEO_COMPLETED,{'video_playback_position_ms': 25077}
+5807787,1750203457,ai.elimu.filamu,akili and me - letter i,33,VIDEO_OPENED,
+5807788,1750203471,ai.elimu.filamu,akili and me - letter i,33,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 17183}
+5807789,1750203509,ai.elimu.filamu,[test] a test video,44,VIDEO_OPENED,
+5807790,1750203524,ai.elimu.filamu,[test] a test video,44,VIDEO_COMPLETED,{'video_playback_position_ms': 40313}
+5807791,1750203589,ai.elimu.filamu,akili and me - letter c,3,VIDEO_OPENED,
+5807792,1750203642,ai.elimu.filamu,akili and me - letter c,3,VIDEO_COMPLETED,{'video_playback_position_ms': 26551}
+5807793,1750203723,ai.elimu.filamu,akili and me - letter d,4,VIDEO_OPENED,
+5807794,1750203734,ai.elimu.filamu,akili and me - letter d,4,VIDEO_COMPLETED,{'video_playback_position_ms': 1600}
+5807795,1750203833,ai.elimu.filamu,akili and me - letter b,2,VIDEO_OPENED,
+5807796,1750203880,ai.elimu.filamu,akili and me - letter b,2,VIDEO_COMPLETED,{'video_playback_position_ms': 13160}
+5807797,1750203998,ai.elimu.filamu,akili and me - letter b,2,VIDEO_OPENED,
+5807798,1750204034,ai.elimu.filamu,akili and me - letter b,2,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 25540}
+5807799,1750204082,ai.elimu.filamu,[test] a test video,44,VIDEO_OPENED,
+5807800,1750204131,ai.elimu.filamu,[test] a test video,44,VIDEO_COMPLETED,{'video_playback_position_ms': 26141}
+5807801,1750204240,ai.elimu.filamu,akili and me - letter c,3,VIDEO_OPENED,
+5807802,1750204285,ai.elimu.filamu,akili and me - letter c,3,VIDEO_COMPLETED,{'video_playback_position_ms': 59034}
+5807803,1750204379,ai.elimu.filamu,akili and me - letter a,1,VIDEO_OPENED,
+5807804,1750204388,ai.elimu.filamu,akili and me - letter a,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 14853}
+5807805,1750204419,ai.elimu.filamu,akili and me - letter i,33,VIDEO_OPENED,
+5807806,1750204461,ai.elimu.filamu,akili and me - letter i,33,VIDEO_COMPLETED,{'video_playback_position_ms': 58009}
+5807807,1750204527,ai.elimu.filamu,akili and me - letter d,4,VIDEO_OPENED,
+5807808,1750204539,ai.elimu.filamu,akili and me - letter d,4,VIDEO_COMPLETED,{'video_playback_position_ms': 31501}
+5807809,1750204607,ai.elimu.filamu,akili and me - letter b,2,VIDEO_OPENED,
+5807810,1750204609,ai.elimu.filamu,akili and me - letter b,2,VIDEO_COMPLETED,{'video_playback_position_ms': 15067}
+5807811,1750204673,ai.elimu.filamu,akili and me - letter a,1,VIDEO_OPENED,
+5807812,1750204730,ai.elimu.filamu,akili and me - letter a,1,VIDEO_COMPLETED,{'video_playback_position_ms': 47870}
+5807813,1750204829,ai.elimu.filamu,akili and me - letter i,33,VIDEO_OPENED,
+5807814,1750204871,ai.elimu.filamu,akili and me - letter i,33,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 42617}

@@ -125,3 +125,5 @@ id,timestamp,package_name,video_title,video_id,learning_event_type,additional_da
 473454,1750123020,ai.elimu.filamu,चिड़िया,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 15477}
 473455,1750123058,ai.elimu.filamu,चिड़िया,1,VIDEO_OPENED,
 473456,1750123068,ai.elimu.filamu,चिड़िया,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 46416}
+473489,1750206451,ai.elimu.filamu,चिड़िया,1,VIDEO_OPENED,
+473490,1750206506,ai.elimu.filamu,चिड़िया,1,VIDEO_COMPLETED,{'video_playback_position_ms': 23229}

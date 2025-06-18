@@ -1,1 +1,13 @@
 id,timestamp,package_name,video_title,video_id,learning_event_type,additional_data
+1795,1749827054,ai.elimu.filamu.debug,sample video 7 - re-encodeed,7,VIDEO_OPENED,
+1796,1749827058,ai.elimu.filamu.debug,,7,VIDEO_CLOSED_BEFORE_COMPLETION,
+1797,1749827105,ai.elimu.filamu.debug,sample video 7 - re-encodeed,7,VIDEO_OPENED,
+1798,1749827108,ai.elimu.filamu.debug,,7,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":2953}"
+1799,1749827166,ai.elimu.filamu.debug,sample video 7 - re-encodeed,7,VIDEO_OPENED,
+1800,1749827170,ai.elimu.filamu.debug,,7,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":2788}"
+1801,1749827196,ai.elimu.filamu.debug,sample video 7 - re-encodeed,7,VIDEO_OPENED,
+1802,1749827201,ai.elimu.filamu.debug,,7,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":4755}"
+1803,1749827286,ai.elimu.filamu.debug,sample video 7 - re-encodeed,7,VIDEO_OPENED,
+1804,1749827290,ai.elimu.filamu.debug,,7,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":3566}"
+1805,1749827293,ai.elimu.filamu.debug,sample video 7 - re-encodeed,7,VIDEO_OPENED,
+1806,1749827317,ai.elimu.filamu.debug,sample video 7 - re-encodeed,7,VIDEO_COMPLETED,"{""video_playback_position_ms"":30379}"
