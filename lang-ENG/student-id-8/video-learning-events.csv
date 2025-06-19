@@ -16,3 +16,7 @@ id,timestamp,package_name,video_title,video_id,learning_event_type,additional_da
 5807774,1750039124,ai.elimu.filamu,,44,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":6997}"
 5807775,1750039125,ai.elimu.filamu,akili and me - letter i,33,VIDEO_OPENED,
 5807776,1750039133,ai.elimu.filamu,,33,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":0}"
+5807847,1750241620,ai.elimu.filamu,[test] a test video,44,VIDEO_OPENED,
+5807848,1750241623,ai.elimu.filamu,,44,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":2472}"
+5807849,1750241682,ai.elimu.filamu,akili and me - letter d,4,VIDEO_OPENED,
+5807850,1750241685,ai.elimu.filamu,,4,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":0}"

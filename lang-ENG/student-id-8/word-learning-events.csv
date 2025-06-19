@@ -72,3 +72,7 @@ id,timestamp,package_name,word_text,word_id,learning_event_type,additional_data
 44658,1749896164,ai.elimu.vitabu,yellow,,WORD_PRESSED,
 44659,1749896168,ai.elimu.vitabu,yellow,,WORD_PRESSED,
 44660,1749899779,ai.elimu.vitabu,with,,WORD_PRESSED,
+44662,1750241643,ai.elimu.vitabu,birds,,WORD_PRESSED,
+44663,1750241647,ai.elimu.vitabu,bird,,WORD_PRESSED,
+44664,1750341592,ai.elimu.vitabu,stars,,WORD_PRESSED,
+44665,1750341593,ai.elimu.vitabu,star,,WORD_PRESSED,

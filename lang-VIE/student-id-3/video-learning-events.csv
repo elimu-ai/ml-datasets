@@ -97,3 +97,11 @@ id,timestamp,package_name,video_title,video_id,learning_event_type,additional_da
 448793,1750038172,ai.elimu.filamu,piper,1,VIDEO_COMPLETED,{'video_playback_position_ms': 13313}
 448794,1750038240,ai.elimu.filamu,piper,1,VIDEO_OPENED,
 448795,1750038253,ai.elimu.filamu,piper,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 1202}
+448866,1750299727,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448867,1750299748,ai.elimu.filamu,piper,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 42870}
+448868,1750299791,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448869,1750299814,ai.elimu.filamu,piper,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 10326}
+448870,1750299932,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448871,1750299987,ai.elimu.filamu,piper,1,VIDEO_COMPLETED,{'video_playback_position_ms': 29205}
+448872,1750300055,ai.elimu.filamu,piper,1,VIDEO_OPENED,
+448873,1750300075,ai.elimu.filamu,piper,1,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 22464}

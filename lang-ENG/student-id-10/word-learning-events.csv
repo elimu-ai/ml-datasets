@@ -5,3 +5,4 @@ id,timestamp,package_name,word_text,word_id,learning_event_type,additional_data
 44645,1749455653,ai.elimu.vitabu,the,,WORD_PRESSED,
 44646,1749455659,ai.elimu.vitabu,all,,WORD_PRESSED,
 44647,1749455690,ai.elimu.vitabu,yellow,,WORD_PRESSED,
+44661,1749567264,ai.elimu.vitabu,am,,WORD_PRESSED,

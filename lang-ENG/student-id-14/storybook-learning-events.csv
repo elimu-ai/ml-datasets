@@ -69,3 +69,5 @@ id,timestamp,package_name,storybook_title,storybook_id,learning_event_type,addit
 30829,1750142646,ai.elimu.vitabu.debug,Lara the Yellow Ladybird,61,STORYBOOK_OPENED,
 30830,1750142648,ai.elimu.vitabu.debug,The Village of Five Poles,68,STORYBOOK_OPENED,
 30831,1750142651,ai.elimu.vitabu.debug,The Elephant in My House,69,STORYBOOK_OPENED,
+30835,1750327316,ai.elimu.vitabu.debug,Lara the Yellow Ladybird,61,STORYBOOK_OPENED,
+30836,1750327319,ai.elimu.vitabu.debug,The Great Teacher,74,STORYBOOK_OPENED,
