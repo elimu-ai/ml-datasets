@@ -1,65 +1,77 @@
-id,timestamp,package_name,storybook_title,storybook_id,learning_event_type,additional_data
-30764,1747123232,ai.elimu.vitabu,,61,STORYBOOK_OPENED,
-30763,1747149531,ai.elimu.vitabu,,61,STORYBOOK_OPENED,
-30762,1747149535,ai.elimu.vitabu,,66,STORYBOOK_OPENED,
-30761,1747149581,ai.elimu.vitabu,,69,STORYBOOK_OPENED,
-30766,1747189134,ai.elimu.vitabu,,61,STORYBOOK_OPENED,
-30765,1747189165,ai.elimu.vitabu,,62,STORYBOOK_OPENED,
-30767,1747301757,ai.elimu.vitabu,,61,STORYBOOK_OPENED,
-30768,1747616503,ai.elimu.vitabu,,61,STORYBOOK_OPENED,
-30769,1747926461,ai.elimu.vitabu,,62,STORYBOOK_OPENED,
-30770,1747974129,ai.elimu.vitabu,,69,STORYBOOK_OPENED,
-30779,1748081340,ai.elimu.vitabu,,69,STORYBOOK_OPENED,
-30778,1748081346,ai.elimu.vitabu,,61,STORYBOOK_OPENED,
-30777,1748081364,ai.elimu.vitabu,,75,STORYBOOK_OPENED,
-30776,1748081373,ai.elimu.vitabu,,65,STORYBOOK_OPENED,
-30775,1748081410,ai.elimu.vitabu,,76,STORYBOOK_OPENED,
-30774,1748081539,ai.elimu.vitabu,,66,STORYBOOK_OPENED,
-30773,1748081556,ai.elimu.vitabu,,65,STORYBOOK_OPENED,
-30772,1748081558,ai.elimu.vitabu,,66,STORYBOOK_OPENED,
-30771,1748081588,ai.elimu.vitabu,,62,STORYBOOK_OPENED,
-30780,1748273544,ai.elimu.vitabu,,75,STORYBOOK_OPENED,
-30784,1749023325,ai.elimu.vitabu,,61,STORYBOOK_OPENED,
-30783,1749023344,ai.elimu.vitabu,,62,STORYBOOK_OPENED,
-30782,1749023349,ai.elimu.vitabu,,73,STORYBOOK_OPENED,
-30781,1749038358,ai.elimu.vitabu,Lara the Yellow Ladybird,61,STORYBOOK_OPENED,
-30792,1749192478,ai.elimu.vitabu,Lara the Yellow Ladybird,61,STORYBOOK_OPENED,
-30791,1749192481,ai.elimu.vitabu,Which Way is South?,67,STORYBOOK_OPENED,
-30790,1749192537,ai.elimu.vitabu,The Great Teacher,74,STORYBOOK_OPENED,
-30789,1749192552,ai.elimu.vitabu,The Story of Bagh Bhairav Temple,75,STORYBOOK_OPENED,
-30788,1749192618,ai.elimu.vitabu,Lara the Yellow Ladybird,61,STORYBOOK_OPENED,
-30787,1749192629,ai.elimu.vitabu,Lara the Yellow Ladybird,61,STORYBOOK_OPENED,
-30786,1749192674,ai.elimu.vitabu,The Elephant in My House,69,STORYBOOK_OPENED,
-30785,1749192681,ai.elimu.vitabu,The Great Teacher,74,STORYBOOK_OPENED,
-30793,1749567226,ai.elimu.vitabu,Bounthy's Singing Birds,66,STORYBOOK_OPENED,
-30794,1749705698,ai.elimu.vitabu,Lara the Yellow Ladybird,61,STORYBOOK_OPENED,
-30797,1749775691,ai.elimu.vitabu,Bounthy's Singing Birds,66,STORYBOOK_OPENED,
-30798,1749775710,ai.elimu.vitabu,Bounthy's Singing Birds,66,STORYBOOK_COMPLETED,
-30799,1749775804,ai.elimu.vitabu,Ali’s Little Star ⭐,76,STORYBOOK_OPENED,
-30800,1749775812,ai.elimu.vitabu,Bounthy's Singing Birds,66,STORYBOOK_OPENED,
-30801,1749775815,ai.elimu.vitabu,Lara the Yellow Ladybird,61,STORYBOOK_OPENED,
-30802,1749775818,ai.elimu.vitabu,Today I Am,62,STORYBOOK_OPENED,
-30803,1749775822,ai.elimu.vitabu,A Tiny Seed 🌱,77,STORYBOOK_OPENED,
-30804,1749775835,ai.elimu.vitabu,A Tiny Seed 🌱,77,STORYBOOK_COMPLETED,
-30805,1749775874,ai.elimu.vitabu,The Shy Moon,73,STORYBOOK_OPENED,
-30806,1749775877,ai.elimu.vitabu,A Tiny Seed 🌱,77,STORYBOOK_OPENED,
-30807,1749775879,ai.elimu.vitabu,Earth 🌏,63,STORYBOOK_OPENED,
-30808,1749775883,ai.elimu.vitabu,The Shy Moon,73,STORYBOOK_OPENED,
-30809,1749775886,ai.elimu.vitabu,Which Way is South?,67,STORYBOOK_OPENED,
-30810,1749775889,ai.elimu.vitabu,The Great Teacher,74,STORYBOOK_OPENED,
-30811,1749775891,ai.elimu.vitabu,The Story of Bagh Bhairav Temple,75,STORYBOOK_OPENED,
-30812,1749775894,ai.elimu.vitabu,Swimming is Fun,78,STORYBOOK_OPENED,
-30813,1749775899,ai.elimu.vitabu,Swimming is Fun,78,STORYBOOK_COMPLETED,
-30814,1749775906,ai.elimu.vitabu,Swimming is Fun,78,STORYBOOK_OPENED,
-30815,1749775923,ai.elimu.vitabu,Swimming is Fun,78,STORYBOOK_COMPLETED,
-30816,1749799742,ai.elimu.vitabu,Lara the Yellow Ladybird,61,STORYBOOK_OPENED,
-30817,1749799843,ai.elimu.vitabu,Lara the Yellow Ladybird,61,STORYBOOK_COMPLETED,
-30818,1749800201,ai.elimu.vitabu,Bounthy's Singing Birds,66,STORYBOOK_OPENED,
-30819,1749820717,ai.elimu.vitabu,Lara the Yellow Ladybird,61,STORYBOOK_OPENED,
-30820,1749896138,ai.elimu.vitabu,Lara the Yellow Ladybird,61,STORYBOOK_OPENED,
-30821,1749899761,ai.elimu.vitabu,Bounthy's Singing Birds,66,STORYBOOK_OPENED,
-30822,1749899768,ai.elimu.vitabu,Today I Am,62,STORYBOOK_OPENED,
-30823,1749899777,ai.elimu.vitabu,The Village of Five Poles,68,STORYBOOK_OPENED,
-30832,1750157107,ai.elimu.vitabu,Lara the Yellow Ladybird,61,STORYBOOK_OPENED,
-30834,1750241641,ai.elimu.vitabu,Bounthy's Singing Birds,66,STORYBOOK_OPENED,
-30837,1750341590,ai.elimu.vitabu,Ali’s Little Star ⭐,76,STORYBOOK_OPENED,
+id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+30764,1747123232,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,61
+30763,1747149531,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,61
+30762,1747149535,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,66
+30761,1747149581,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,69
+30766,1747189134,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,61
+30765,1747189165,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,62
+30767,1747301757,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,61
+30768,1747616503,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,61
+30769,1747926461,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,62
+30770,1747974129,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,69
+30779,1748081340,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,69
+30778,1748081346,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,61
+30777,1748081364,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,75
+30776,1748081373,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,65
+30775,1748081410,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,76
+30774,1748081539,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,66
+30773,1748081556,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,65
+30772,1748081558,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,66
+30771,1748081588,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,62
+30780,1748273544,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,75
+30784,1749023325,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,61
+30783,1749023344,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,62
+30782,1749023349,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,73
+30781,1749038358,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
+30792,1749192478,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
+30791,1749192481,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Which Way is South?,67
+30790,1749192537,ai.elimu.vitabu,STORYBOOK_OPENED,,,,The Great Teacher,74
+30789,1749192552,ai.elimu.vitabu,STORYBOOK_OPENED,,,,The Story of Bagh Bhairav Temple,75
+30788,1749192618,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
+30787,1749192629,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
+30786,1749192674,ai.elimu.vitabu,STORYBOOK_OPENED,,,,The Elephant in My House,69
+30785,1749192681,ai.elimu.vitabu,STORYBOOK_OPENED,,,,The Great Teacher,74
+30793,1749567226,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Bounthy's Singing Birds,66
+30794,1749705698,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
+30797,1749775691,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Bounthy's Singing Birds,66
+30798,1749775710,ai.elimu.vitabu,STORYBOOK_COMPLETED,,,,Bounthy's Singing Birds,66
+30799,1749775804,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
+30800,1749775812,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Bounthy's Singing Birds,66
+30801,1749775815,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
+30802,1749775818,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Today I Am,62
+30803,1749775822,ai.elimu.vitabu,STORYBOOK_OPENED,,,,A Tiny Seed 🌱,77
+30804,1749775835,ai.elimu.vitabu,STORYBOOK_COMPLETED,,,,A Tiny Seed 🌱,77
+30805,1749775874,ai.elimu.vitabu,STORYBOOK_OPENED,,,,The Shy Moon,73
+30806,1749775877,ai.elimu.vitabu,STORYBOOK_OPENED,,,,A Tiny Seed 🌱,77
+30807,1749775879,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Earth 🌏,63
+30808,1749775883,ai.elimu.vitabu,STORYBOOK_OPENED,,,,The Shy Moon,73
+30809,1749775886,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Which Way is South?,67
+30810,1749775889,ai.elimu.vitabu,STORYBOOK_OPENED,,,,The Great Teacher,74
+30811,1749775891,ai.elimu.vitabu,STORYBOOK_OPENED,,,,The Story of Bagh Bhairav Temple,75
+30812,1749775894,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Swimming is Fun,78
+30813,1749775899,ai.elimu.vitabu,STORYBOOK_COMPLETED,,,,Swimming is Fun,78
+30814,1749775906,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Swimming is Fun,78
+30815,1749775923,ai.elimu.vitabu,STORYBOOK_COMPLETED,,,,Swimming is Fun,78
+30816,1749799742,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
+30817,1749799843,ai.elimu.vitabu,STORYBOOK_COMPLETED,,,,Lara the Yellow Ladybird,61
+30818,1749800201,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Bounthy's Singing Birds,66
+30819,1749820717,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
+30820,1749896138,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
+30821,1749899761,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Bounthy's Singing Birds,66
+30822,1749899768,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Today I Am,62
+30823,1749899777,ai.elimu.vitabu,STORYBOOK_OPENED,,,,The Village of Five Poles,68
+30832,1750157107,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
+30834,1750241641,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Bounthy's Singing Birds,66
+30837,1750341590,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
+30854,1750345094,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Today I Am,62
+30855,1750402864,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Today I Am,62
+30856,1750421950,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Abcd a nature alphabet book,65
+30857,1750421956,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Ali’s Little Star ⭐,76
+30858,1750421965,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Today I Am,62
+30859,1750423040,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,The Shy Moon,73
+30860,1750434765,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Today I Am,62
+30861,1750434851,ai.elimu.vitabu,STORYBOOK_COMPLETED,,0.0,0.0,Today I Am,62
+30864,1750563060,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,The Elephant in My House,69
+30865,1750563163,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Lara the Yellow Ladybird,61
+30877,1750753467,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Today I Am,62
+30878,1750753523,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Lara the Yellow Ladybird,61

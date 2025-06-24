@@ -1,2 +1,2 @@
-id,timestamp,package_name,storybook_title,storybook_id,learning_event_type,additional_data
-30760,1746522127,ai.elimu.vitabu,,65,STORYBOOK_OPENED,
+id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+30760,1746522127,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,65

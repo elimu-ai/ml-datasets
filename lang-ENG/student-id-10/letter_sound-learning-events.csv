@@ -1,2 +1,2 @@
-id,timestamp,package_name,letter_sound_id,additional_data
-38738,1746883756,ai.elimu.herufi,1,
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,letter_sound_id
+38738,1746883756,ai.elimu.herufi,,,,1

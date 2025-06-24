@@ -1,1 +1,1 @@
-id,timestamp,package_name,mastery_score,time_spent_ms,additional_data,word_text,word_id
+id,timestamp,package_name,mastery_score,time_spent_ms,additional_data,research_experiment,experiment_group,word_text,word_id

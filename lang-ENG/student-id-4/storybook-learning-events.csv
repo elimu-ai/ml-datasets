@@ -1,4 +1,4 @@
-id,timestamp,package_name,storybook_title,storybook_id,learning_event_type,additional_data
-30824,1749955360,ai.elimu.vitabu.debug,Bươm Bướm và Mỏ Sừng,2,STORYBOOK_OPENED,
-30825,1749956935,ai.elimu.vitabu.debug,Bươm Bướm và Mỏ Sừng,2,STORYBOOK_OPENED,
-30826,1749956962,ai.elimu.vitabu.debug,Bươm Bướm và Mỏ Sừng,2,STORYBOOK_OPENED,
+id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+30824,1749955360,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Bươm Bướm và Mỏ Sừng,2
+30825,1749956935,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Bươm Bướm và Mỏ Sừng,2
+30826,1749956962,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Bươm Bướm và Mỏ Sừng,2

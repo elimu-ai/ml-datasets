@@ -1,1 +1,5 @@
-id,timestamp,package_name,video_title,video_id,learning_event_type,additional_data
+id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,video_title,video_id
+4522211,1750420474,ai.elimu.filamu.debug,VIDEO_OPENED,,0,0,piper,1
+4522212,1750420499,ai.elimu.filamu.debug,VIDEO_COMPLETED,"{""video_playback_position_ms"":24078}",0,0,piper,1
+4522281,1750429450,ai.elimu.filamu.debug,VIDEO_OPENED,,0,0,piper,1
+4522282,1750429456,ai.elimu.filamu.debug,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":5318}",0,0,,1

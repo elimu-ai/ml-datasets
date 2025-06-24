@@ -1,3 +1,3 @@
-id,timestamp,package_name,video_title,video_id,learning_event_type,additional_data
-5807851,1750327280,ai.elimu.filamu.debug,[test] a test video,44,VIDEO_OPENED,
-5807852,1750327283,ai.elimu.filamu.debug,,44,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":1264}"
+id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,video_title,video_id
+5807851,1750327280,ai.elimu.filamu.debug,VIDEO_OPENED,,,,[test] a test video,44
+5807852,1750327283,ai.elimu.filamu.debug,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":1264}",,,,44

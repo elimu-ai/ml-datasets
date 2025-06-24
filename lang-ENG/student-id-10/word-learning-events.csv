@@ -1,8 +1,8 @@
-id,timestamp,package_name,word_text,word_id,learning_event_type,additional_data
-44642,1746607510,ai.elimu.vitabu,am,,WORD_PRESSED,
-44643,1746607514,ai.elimu.vitabu,moon,,WORD_PRESSED,
-44644,1749455651,ai.elimu.vitabu,was,,WORD_PRESSED,
-44645,1749455653,ai.elimu.vitabu,the,,WORD_PRESSED,
-44646,1749455659,ai.elimu.vitabu,all,,WORD_PRESSED,
-44647,1749455690,ai.elimu.vitabu,yellow,,WORD_PRESSED,
-44661,1749567264,ai.elimu.vitabu,am,,WORD_PRESSED,
+id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,word_text,word_id
+44642,1746607510,ai.elimu.vitabu,WORD_PRESSED,,,,am,
+44643,1746607514,ai.elimu.vitabu,WORD_PRESSED,,,,moon,
+44644,1749455651,ai.elimu.vitabu,WORD_PRESSED,,,,was,
+44645,1749455653,ai.elimu.vitabu,WORD_PRESSED,,,,the,
+44646,1749455659,ai.elimu.vitabu,WORD_PRESSED,,,,all,
+44647,1749455690,ai.elimu.vitabu,WORD_PRESSED,,,,yellow,
+44661,1749567264,ai.elimu.vitabu,WORD_PRESSED,,,,am,

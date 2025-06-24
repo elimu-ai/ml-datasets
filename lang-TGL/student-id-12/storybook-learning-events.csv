@@ -1,68 +1,77 @@
-id,timestamp,package_name,storybook_title,storybook_id,learning_event_type,additional_data
-446,1742290356,ai.elimu.vitabu.debug,,19,STORYBOOK_OPENED,
-445,1742290370,ai.elimu.vitabu.debug,,11,STORYBOOK_OPENED,
-444,1742290781,ai.elimu.vitabu.debug,,49,STORYBOOK_OPENED,
-449,1742367377,ai.elimu.vitabu.debug,,22,STORYBOOK_OPENED,
-448,1742373894,ai.elimu.vitabu.debug,,36,STORYBOOK_OPENED,
-447,1742373968,ai.elimu.vitabu.debug,,10,STORYBOOK_OPENED,
-497,1742468505,ai.elimu.vitabu.debug,,19,STORYBOOK_OPENED,
-496,1742468529,ai.elimu.vitabu.debug,,19,STORYBOOK_OPENED,
-495,1742470585,ai.elimu.vitabu.debug,,19,STORYBOOK_OPENED,
-494,1742470648,ai.elimu.vitabu.debug,,10,STORYBOOK_OPENED,
-493,1742470675,ai.elimu.vitabu.debug,,10,STORYBOOK_OPENED,
-492,1742470751,ai.elimu.vitabu.debug,,10,STORYBOOK_OPENED,
-491,1742470828,ai.elimu.vitabu.debug,,33,STORYBOOK_OPENED,
-490,1742470866,ai.elimu.vitabu.debug,,20,STORYBOOK_OPENED,
-500,1742536659,ai.elimu.vitabu.debug,,34,STORYBOOK_OPENED,
-499,1742536816,ai.elimu.vitabu.debug,,33,STORYBOOK_OPENED,
-498,1742540145,ai.elimu.vitabu.debug,,22,STORYBOOK_OPENED,
-451,1742985524,ai.elimu.vitabu.debug,,36,STORYBOOK_OPENED,
-450,1742985808,ai.elimu.vitabu.debug,,16,STORYBOOK_OPENED,
-452,1743092333,ai.elimu.vitabu.debug,,50,STORYBOOK_OPENED,
-458,1743586495,ai.elimu.vitabu.debug,,16,STORYBOOK_OPENED,
-457,1743587283,ai.elimu.vitabu.debug,,2,STORYBOOK_OPENED,
-456,1743587597,ai.elimu.vitabu.debug,,36,STORYBOOK_OPENED,
-455,1743590063,ai.elimu.vitabu.debug,,19,STORYBOOK_OPENED,
-454,1743595170,ai.elimu.vitabu.debug,,19,STORYBOOK_OPENED,
-453,1743596532,ai.elimu.vitabu.debug,,2,STORYBOOK_OPENED,
-461,1743674707,ai.elimu.vitabu.debug,,16,STORYBOOK_OPENED,
-460,1743695414,ai.elimu.vitabu.debug,,46,STORYBOOK_OPENED,
-459,1743696185,ai.elimu.vitabu.debug,,27,STORYBOOK_OPENED,
-462,1743766774,ai.elimu.vitabu.debug,,16,STORYBOOK_OPENED,
-466,1744279087,ai.elimu.vitabu.debug,,19,STORYBOOK_OPENED,
-465,1744280090,ai.elimu.vitabu.debug,,19,STORYBOOK_OPENED,
-464,1744280933,ai.elimu.vitabu.debug,,36,STORYBOOK_OPENED,
-463,1744281872,ai.elimu.vitabu.debug,,19,STORYBOOK_OPENED,
-467,1744364192,ai.elimu.vitabu.debug,,17,STORYBOOK_OPENED,
-472,1744790890,ai.elimu.vitabu.debug,,11,STORYBOOK_OPENED,
-471,1744792884,ai.elimu.vitabu.debug,,16,STORYBOOK_OPENED,
-470,1744792964,ai.elimu.vitabu.debug,,2,STORYBOOK_OPENED,
-469,1744796277,ai.elimu.vitabu.debug,,2,STORYBOOK_OPENED,
-468,1744796300,ai.elimu.vitabu.debug,,2,STORYBOOK_OPENED,
-478,1744874705,ai.elimu.vitabu.debug,,43,STORYBOOK_OPENED,
-477,1744874710,ai.elimu.vitabu.debug,,43,STORYBOOK_OPENED,
-476,1744875821,ai.elimu.vitabu.debug,,1,STORYBOOK_OPENED,
-475,1744877879,ai.elimu.vitabu.debug,,49,STORYBOOK_OPENED,
-474,1744879781,ai.elimu.vitabu.debug,,2,STORYBOOK_OPENED,
-473,1744881959,ai.elimu.vitabu.debug,,2,STORYBOOK_OPENED,
-481,1745915047,ai.elimu.vitabu.debug,,2,STORYBOOK_OPENED,
-480,1745915058,ai.elimu.vitabu.debug,,9,STORYBOOK_OPENED,
-479,1745935575,ai.elimu.vitabu.debug,,2,STORYBOOK_OPENED,
-482,1746029114,ai.elimu.vitabu.debug,,2,STORYBOOK_OPENED,
-486,1746106708,ai.elimu.vitabu.debug,,51,STORYBOOK_OPENED,
-485,1746107005,ai.elimu.vitabu.debug,,51,STORYBOOK_OPENED,
-484,1746108607,ai.elimu.vitabu.debug,,27,STORYBOOK_OPENED,
-483,1746108629,ai.elimu.vitabu.debug,,51,STORYBOOK_OPENED,
-487,1748962035,ai.elimu.vitabu.debug,Ang pagtulong sa Ibon,51,STORYBOOK_OPENED,
-488,1749307913,ai.elimu.vitabu.debug,Ang Aming Pamilya,2,STORYBOOK_OPENED,
-489,1749449400,ai.elimu.vitabu.debug,Ang Paglalakbay sa Hardin,11,STORYBOOK_OPENED,
-501,1749578409,ai.elimu.vitabu.debug,Ang Munting Sisiw at Bibe,16,STORYBOOK_OPENED,
-502,1749578844,ai.elimu.vitabu.debug,Ang Munting Sisiw at Bibe,16,STORYBOOK_COMPLETED,
-503,1749624704,ai.elimu.vitabu.debug,Ang pagtulong sa Ibon,51,STORYBOOK_OPENED,
-504,1749624713,ai.elimu.vitabu.debug,Ang pagtulong sa Ibon,51,STORYBOOK_COMPLETED,
-505,1749636460,ai.elimu.vitabu.debug,Halina't Lumipad,3,STORYBOOK_OPENED,
-506,1749637124,ai.elimu.vitabu.debug,Ang Kapangyarihan ni Chiu,27,STORYBOOK_OPENED,
-507,1749637307,ai.elimu.vitabu.debug,Ang Kapangyarihan ni Chiu,27,STORYBOOK_COMPLETED,
-508,1749637330,ai.elimu.vitabu.debug,Ang Paglalakbay sa Hardin,11,STORYBOOK_OPENED,
-509,1749637467,ai.elimu.vitabu.debug,Magbilang Tayo ng Binti,6,STORYBOOK_OPENED,
-510,1749637488,ai.elimu.vitabu.debug,Magbilang Tayo ng Binti,6,STORYBOOK_COMPLETED,
+id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+446,1742290356,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,19
+445,1742290370,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,11
+444,1742290781,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,49
+449,1742367377,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,22
+448,1742373894,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,36
+447,1742373968,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10
+497,1742468505,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,19
+496,1742468529,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,19
+495,1742470585,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,19
+494,1742470648,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10
+493,1742470675,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10
+492,1742470751,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10
+491,1742470828,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,33
+490,1742470866,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,20
+500,1742536659,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,34
+499,1742536816,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,33
+498,1742540145,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,22
+451,1742985524,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,36
+450,1742985808,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16
+452,1743092333,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,50
+458,1743586495,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16
+457,1743587283,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2
+456,1743587597,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,36
+455,1743590063,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,19
+454,1743595170,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,19
+453,1743596532,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2
+461,1743674707,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16
+460,1743695414,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,46
+459,1743696185,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,27
+462,1743766774,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16
+466,1744279087,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,19
+465,1744280090,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,19
+464,1744280933,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,36
+463,1744281872,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,19
+467,1744364192,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,17
+472,1744790890,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,11
+471,1744792884,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16
+470,1744792964,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2
+469,1744796277,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2
+468,1744796300,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2
+478,1744874705,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,43
+477,1744874710,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,43
+476,1744875821,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,1
+475,1744877879,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,49
+474,1744879781,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2
+473,1744881959,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2
+481,1745915047,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2
+480,1745915058,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,9
+479,1745935575,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2
+482,1746029114,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2
+486,1746106708,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,51
+485,1746107005,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,51
+484,1746108607,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,27
+483,1746108629,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,51
+487,1748962035,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ang pagtulong sa Ibon,51
+488,1749307913,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ang Aming Pamilya,2
+489,1749449400,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ang Paglalakbay sa Hardin,11
+501,1749578409,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ang Munting Sisiw at Bibe,16
+502,1749578844,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ang Munting Sisiw at Bibe,16
+503,1749624704,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ang pagtulong sa Ibon,51
+504,1749624713,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ang pagtulong sa Ibon,51
+505,1749636460,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Halina't Lumipad,3
+506,1749637124,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ang Kapangyarihan ni Chiu,27
+507,1749637307,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ang Kapangyarihan ni Chiu,27
+508,1749637330,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ang Paglalakbay sa Hardin,11
+509,1749637467,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Magbilang Tayo ng Binti,6
+510,1749637488,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Magbilang Tayo ng Binti,6
+511,1750420171,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Ang Aming Pamilya,2
+512,1750420264,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,0.0,0.0,Ang Aming Pamilya,2
+513,1750420276,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Ang Batubato,9
+514,1750429426,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Hindi na Ako natatakot!,1
+515,1750492999,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Ang Aming Pamilya,2
+516,1750493088,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Ang Aming Pamilya,2
+517,1750493158,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[9, 10, 5, 8, 6, 5, 7, 10, 4]""}",0.0,0.0,Ang Aming Pamilya,2
+518,1750497938,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Ang Batubato,9
+519,1750497998,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[7, 6, 8, 5, 4, 5, 4, 7, 7]""}",0.0,0.0,Ang Batubato,9

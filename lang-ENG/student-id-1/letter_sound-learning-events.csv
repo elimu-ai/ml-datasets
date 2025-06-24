@@ -1,1 +1,1 @@
-id,timestamp,package_name,letter_sound_id,additional_data
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,letter_sound_id

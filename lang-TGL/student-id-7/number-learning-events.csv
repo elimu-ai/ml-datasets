@@ -1,1 +1,1 @@
-id,timestamp,package_name,additional_data,number_value,number_symbol,number_id,learning_event_type
+id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,number_value,number_symbol,number_id
