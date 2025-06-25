@@ -231,3 +231,29 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 473754,1750722954,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 52395},,,चिड़िया,1
 473755,1750722997,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
 473756,1750723045,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 34179},,,चिड़िया,1
+473799,1750810395,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473800,1750810449,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 10072},,,चिड़िया,1
+473801,1750810474,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473802,1750810481,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 12775},,,चिड़िया,1
+473803,1750810500,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473804,1750810523,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 7015},,,चिड़िया,1
+473805,1750810611,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473806,1750810632,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 45646},,,चिड़िया,1
+473807,1750810710,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473808,1750810725,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 9723},,,चिड़िया,1
+473809,1750810821,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473810,1750810855,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 40341},,,चिड़िया,1
+473811,1750810876,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473812,1750810911,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 53963},,,चिड़िया,1
+473813,1750810954,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473814,1750810997,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 1135},,,चिड़िया,1
+473815,1750811108,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473816,1750811117,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 13232},,,चिड़िया,1
+473817,1750811217,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473818,1750811245,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 58597},,,चिड़िया,1
+473819,1750811340,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473820,1750811362,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 22633},,,चिड़िया,1
+473821,1750811390,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473822,1750811404,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 11673},,,चिड़िया,1
+473823,1750811492,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473824,1750811502,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 5488},,,चिड़िया,1

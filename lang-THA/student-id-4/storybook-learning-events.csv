@@ -485,3 +485,11 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 1035,1750671748,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48
 1036,1750673585,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,ผีเสื้อกับนกเงือก,33
 1037,1750673666,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[0, 4, 14, 11, 10, 9, 15, 11]""}",0.0,1.0,ผีเสื้อกับนกเงือก,33
+1038,1750776071,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จิ้งจอกน้อย,52
+1039,1750776232,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[10, 7, 21, 10, 11, 11, 5, 10, 8, 7, 6, 20]""}",0.0,1.0,จิ้งจอกน้อย,52
+1040,1750776245,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,เหล่าแมลงมีสีสันต่าง ๆ ได้อย่างไรนะ,28
+1041,1750838919,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,ครอบครัวกลมเกลียว,21
+1042,1750839545,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37
+1043,1750842441,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37
+1044,1750847991,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จืดกับเจ้าตึก,45
+1045,1750853544,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,พบกันเป็นครั้งแรก,38

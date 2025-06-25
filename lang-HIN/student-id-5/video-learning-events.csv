@@ -247,3 +247,11 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 473776,1750724208,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 24416},,,चिड़िया,1
 473777,1750724291,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
 473778,1750724299,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 58336},,,चिड़िया,1
+473825,1750811540,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473826,1750811570,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 8162},,,चिड़िया,1
+473827,1750811646,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473828,1750811676,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 46263},,,चिड़िया,1
+473829,1750811738,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473830,1750811749,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 45457},,,चिड़िया,1
+473831,1750811795,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+473832,1750811799,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 29580},,,चिड़िया,1
