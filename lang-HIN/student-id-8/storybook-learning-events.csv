@@ -56,3 +56,5 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 43894,1750498010,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[8, 11, 10, 10, 8, 5, 3]""}",0.0,0.0,"अभी नहीं, अभी नहीं!",1
 43895,1750673596,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,एक था मोटा राजा,6
 43896,1750673733,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[15, 16, 21, 15, 42, 10, 10]""}",0.0,0.0,एक था मोटा राजा,6
+43897,1750839533,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,"अरे, यह सब कौन खा गया?",36
+43898,1750839558,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,"आज, मैं हूँ...",29
