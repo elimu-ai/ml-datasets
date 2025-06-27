@@ -75,3 +75,8 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 30865,1750563163,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Lara the Yellow Ladybird,61
 30877,1750753467,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Today I Am,62
 30878,1750753523,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Lara the Yellow Ladybird,61
+30883,1751038894,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Abcd a nature alphabet book,65
+30884,1751038909,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ali’s Little Star ⭐,76
+30885,1751038932,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,The Elephant in My House,69
+30886,1751038956,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Lara the Yellow Ladybird,61
+30887,1751038972,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,The Elephant in My House,69
