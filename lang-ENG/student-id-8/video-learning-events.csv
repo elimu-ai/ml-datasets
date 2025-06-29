@@ -27,3 +27,9 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 5807867,1750421979,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":0}",0.0,0.0,,33
 5807868,1750423047,ai.elimu.filamu,VIDEO_OPENED,,0.0,0.0,akili and me - the rectangle song,13
 5807869,1750423052,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":0}",0.0,0.0,,13
+5808160,1751180285,ai.elimu.filamu,VIDEO_OPENED,,0.0,0.0,akili and me - letter i,33
+5808161,1751180289,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":0}",0.0,0.0,,33
+5808162,1751180290,ai.elimu.filamu,VIDEO_OPENED,,0.0,0.0,[test] a test video,44
+5808163,1751180306,ai.elimu.filamu,VIDEO_COMPLETED,"{""video_playback_position_ms"":30526}",0.0,0.0,[test] a test video,44
+5808164,1751180425,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":591}",0.0,0.0,,44
+5808165,1751180426,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":1121}",0.0,0.0,,44

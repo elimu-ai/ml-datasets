@@ -1,0 +1,3 @@
+id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,video_title,video_id
+449276,1751164276,ai.elimu.filamu,VIDEO_OPENED,,0,1,piper,1
+449277,1751164279,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":3014}",0,1,,1

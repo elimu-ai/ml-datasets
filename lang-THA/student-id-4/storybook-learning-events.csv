@@ -508,3 +508,51 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 1058,1751082753,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37
 1059,1751082797,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37
 1060,1751082943,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37
+1075,1751122542,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43
+1076,1751122565,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43
+1077,1751122583,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37
+1078,1751122740,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,เด็กชายกับกลอง,15
+1079,1751122749,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,ใครคือเพื่อนของเรากันนะ,5
+1080,1751122756,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,แสงปริศนา,47
+1081,1751122802,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43
+1082,1751168230,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37
+1083,1751168262,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[2, 6, 1, 2, 1, 1, 1, 1, 1, 1]""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37
+1084,1751168288,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1085,1751168374,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40
+1086,1751168821,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40
+1087,1751168858,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40
+1088,1751168890,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40
+1089,1751168931,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40
+1090,1751168966,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40
+1091,1751169043,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40
+1092,1751171796,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1093,1751171853,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1094,1751171971,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1095,1751171980,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1096,1751172304,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1097,1751173282,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1098,1751173504,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1099,1751173822,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1100,1751175093,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1101,1751175131,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1102,1751175150,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1103,1751175187,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1104,1751175241,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1105,1751175373,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1106,1751175398,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1107,1751176019,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1108,1751184673,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1109,1751184676,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1110,1751184687,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1111,1751184710,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ปู่กะเจ้าจ๋อ,53
+1112,1751184821,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52
+1113,1751185105,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45
+1114,1751185155,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52
+1115,1751185171,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 4]""}",0.0,1.0,จิ้งจอกน้อย,52
+1116,1751185174,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52
+1117,1751185983,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45
+1118,1751186011,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45
+1119,1751186166,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,มีนากับสิงหาอยากทำขนม,42
+1120,1751186277,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ฮิปโป อยากจะเต้น,32
+1121,1751186308,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 2, 1, 2, 1, 0]""}",0.0,1.0,ฮิปโป อยากจะเต้น,32
+1122,1751186311,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,เจ้า ตูบ หลง ทาง,1
