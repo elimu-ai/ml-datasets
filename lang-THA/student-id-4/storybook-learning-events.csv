@@ -556,3 +556,6 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 1120,1751186277,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ฮิปโป อยากจะเต้น,32
 1121,1751186308,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 2, 1, 2, 1, 0]""}",0.0,1.0,ฮิปโป อยากจะเต้น,32
 1122,1751186311,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,เจ้า ตูบ หลง ทาง,1
+1123,1751272270,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1124,1751272328,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[5, 9, 8, 6, 7, 5, 5, 3, 3, 2]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1125,1751275241,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48

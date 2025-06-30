@@ -293,3 +293,19 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 2164,1750983572,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 2009},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 2165,1750983616,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 2166,1750983660,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 45949},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2259,1751245858,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+2260,1751245884,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 43597},,,sample video 5 h264,5
+2261,1751245929,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+2262,1751245940,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 3494},,,test sample video,1
+2263,1751245989,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2264,1751246005,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 59116},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2265,1751246123,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2266,1751246159,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 15485},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2267,1751246233,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+2268,1751246262,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 6997},,,sample video 7 - re-encodeed,7
+2269,1751246298,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2270,1751246318,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 59501},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2271,1751246336,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+2272,1751246357,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 39376},,,test sample video,1
+2273,1751246448,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+2274,1751246483,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 22714},,,sample video 7 - re-encodeed,7

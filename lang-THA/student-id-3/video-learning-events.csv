@@ -251,3 +251,25 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 2176,1751160880,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 14773},,,sample video 7 - re-encodeed,7
 2177,1751160934,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 2178,1751160950,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 2691},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2215,1751243918,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+2216,1751243928,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 8471},,,sample video 7 - re-encodeed,7
+2217,1751243969,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+2218,1751243994,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 21735},,,sample video 5 h264,5
+2219,1751244022,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2220,1751244054,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 16063},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2221,1751244079,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2222,1751244100,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 31720},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2223,1751244173,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+2224,1751244177,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 27974},,,sample video 5 h264,5
+2225,1751244219,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+2226,1751244246,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 24971},,,sample video 5 h264,5
+2227,1751244297,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+2228,1751244327,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 42253},,,sample video 7 - re-encodeed,7
+2229,1751244408,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+2230,1751244462,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 6770},,,test sample video,1
+2231,1751244520,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+2232,1751244529,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 38103},,,test sample video,1
+2233,1751244566,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+2234,1751244569,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 31548},,,sample video 5 h264,5
+2235,1751244622,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+2236,1751244681,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 56648},,,test sample video,1
