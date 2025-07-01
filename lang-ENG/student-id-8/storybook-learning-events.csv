@@ -82,3 +82,4 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 30887,1751038972,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,The Elephant in My House,69
 30888,1751180240,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Today I Am,62
 30889,1751180279,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[2, 2, 5, 3, 6, 4, 3, 1, 3, 2, 2]""}",0.0,0.0,Today I Am,62
+30890,1751353415,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ali’s Little Star ⭐,76
