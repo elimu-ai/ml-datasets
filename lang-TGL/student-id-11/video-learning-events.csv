@@ -437,3 +437,7 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 4522654,1751243743,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 15542},,,piper,1
 4522655,1751243785,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
 4522656,1751243832,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 29883},,,piper,1
+4522719,1751416134,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522720,1751416144,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 54133},,,piper,1
+4522721,1751416181,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522722,1751416201,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 13782},,,piper,1

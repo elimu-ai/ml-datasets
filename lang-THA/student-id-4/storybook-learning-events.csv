@@ -559,3 +559,44 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 1123,1751272270,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
 1124,1751272328,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[5, 9, 8, 6, 7, 5, 5, 3, 3, 2]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
 1125,1751275241,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48
+1126,1751350682,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1127,1751350691,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29
+1128,1751350714,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1129,1751350828,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1130,1751350835,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29
+1131,1751350895,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1132,1751350901,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29
+1133,1751351014,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1134,1751351027,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1135,1751351042,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29
+1136,1751351077,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1137,1751351089,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29
+1138,1751353018,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1139,1751353046,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[3, 0, 0, 3, 6, 1, 1, 1, 4, 1]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1140,1751353049,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1141,1751353081,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[4, 3, 2, 1, 1, 0, 8, 1, 0, 0, 1]""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1142,1751353083,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37
+1143,1751353094,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 1, 0, 1, 0, 0, 1, 0]""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37
+1144,1751353097,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48
+1145,1751353104,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 0, 0, 0, 0, 0]""}",0.0,1.0,จับปลา,48
+1146,1751353107,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52
+1147,1751420259,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,มีนากับสิงหาอยากทำขนม,42
+1148,1751420725,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1149,1751420996,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29
+1150,1751422151,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37
+1151,1751422281,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1152,1751422307,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29
+1153,1751422532,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43
+1154,1751422873,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1155,1751422899,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29
+1156,1751423070,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1157,1751423100,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1158,1751423206,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21
+1159,1751423234,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29
+1160,1751423252,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ขนมถ้วยอร่อยจัง,46
+1161,1751423256,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37
+1162,1751455931,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผิวสุดพิเศษของกิ้งก่าเปลี่ยนสี,54
+1163,1751457695,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผิวสุดพิเศษของกิ้งก่าเปลี่ยนสี,54
+1164,1751461616,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผิวสุดพิเศษของกิ้งก่าเปลี่ยนสี,54
+1165,1751468115,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48
+1166,1751468564,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[39, 38, 83, 47, 134, 34, 42, 25]""}",0.0,1.0,จับปลา,48

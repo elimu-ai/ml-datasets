@@ -215,3 +215,21 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 5808121,1751154086,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 18586},,,[test] a test video,44
 5808122,1751154182,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - the rectangle song,13
 5808123,1751154232,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 46657},,,akili and me - the rectangle song,13
+5808227,1751412457,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter c,3
+5808228,1751412498,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 27828},,,akili and me - letter c,3
+5808229,1751412535,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter d,4
+5808230,1751412571,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 44750},,,akili and me - letter d,4
+5808231,1751412601,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter c,3
+5808232,1751412617,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 56088},,,akili and me - letter c,3
+5808233,1751412734,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter b,2
+5808234,1751412772,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 54851},,,akili and me - letter b,2
+5808235,1751412890,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5808236,1751412906,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 33959},,,[test] a test video,44
+5808237,1751412962,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter c,3
+5808238,1751412985,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 4198},,,akili and me - letter c,3
+5808239,1751413050,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter i,33
+5808240,1751413080,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 29329},,,akili and me - letter i,33
+5808241,1751413190,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter a,1
+5808242,1751413248,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 34805},,,akili and me - letter a,1
+5808243,1751413297,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5808244,1751413309,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 18890},,,[test] a test video,44

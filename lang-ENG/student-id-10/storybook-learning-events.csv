@@ -6,3 +6,8 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 30880,1750423064,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Today I Am,62
 30881,1750753467,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Today I Am,62
 30882,1750753502,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,The Shy Moon,73
+30891,1751272470,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ali’s Little Star ⭐,76
+30892,1751272520,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Earth 🌏,63
+30893,1751353416,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Today I Am,62
+30894,1751353419,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ali’s Little Star ⭐,76
+30895,1751436811,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,The Shy Moon,73

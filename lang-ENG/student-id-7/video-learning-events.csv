@@ -173,3 +173,19 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 5808157,1751156977,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 10340},,,[test] a test video,44
 5808158,1751157068,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
 5808159,1751157082,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 6211},,,[test] a test video,44
+5808245,1751413421,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5808246,1751413473,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 17181},,,[test] a test video,44
+5808247,1751413533,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter d,4
+5808248,1751413537,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 15643},,,akili and me - letter d,4
+5808249,1751413640,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter a,1
+5808250,1751413699,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 40247},,,akili and me - letter a,1
+5808251,1751413797,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5808252,1751413856,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 36728},,,[test] a test video,44
+5808253,1751413976,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - the rectangle song,13
+5808254,1751414014,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 35766},,,akili and me - the rectangle song,13
+5808255,1751414038,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter c,3
+5808256,1751414069,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 56087},,,akili and me - letter c,3
+5808257,1751414143,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter d,4
+5808258,1751414167,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 16528},,,akili and me - letter d,4
+5808259,1751414247,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter a,1
+5808260,1751414298,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 3072},,,akili and me - letter a,1
