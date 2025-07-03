@@ -600,3 +600,10 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 1164,1751461616,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผิวสุดพิเศษของกิ้งก่าเปลี่ยนสี,54
 1165,1751468115,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48
 1166,1751468564,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[39, 38, 83, 47, 134, 34, 42, 25]""}",0.0,1.0,จับปลา,48
+1167,1751468898,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52
+1168,1751507905,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55
+1169,1751508090,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55
+1170,1751508133,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55
+1171,1751508459,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[153, 118, 8, 4, 5]""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55
+1172,1751508709,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ดวงจันทร์ขี้อาย,56
+1173,1751509094,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[6, 9, 9, 11, 12, 11, 10, 37, 8, 12, 27, 46, 38, 26, 34, 28, 8]""}",0.0,1.0,ดวงจันทร์ขี้อาย,56

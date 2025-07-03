@@ -295,3 +295,9 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 2296,1751330008,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 47116},,,sample video 5 h264,5
 2297,1751330042,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 2298,1751330048,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 29060},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2337,1751507888,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2338,1751507937,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 33598},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2339,1751508013,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+2340,1751508020,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 48276},,,sample video 7 - re-encodeed,7
+2341,1751508064,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2342,1751508068,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 16941},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9

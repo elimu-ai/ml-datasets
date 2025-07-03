@@ -78,3 +78,6 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 520,1750838916,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Ang Batubato,9
 521,1750839578,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Ang Kapangyarihan ni Chiu,27
 522,1751171790,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ang Batubato,9
+523,1751270136,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ang Aming Pamilya,2
+524,1751272265,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ang Aming Pamilya,2
+525,1751272322,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[10, 7, 8, 7, 6, 3, 5, 3, 2]""}",0.0,0.0,Ang Aming Pamilya,2

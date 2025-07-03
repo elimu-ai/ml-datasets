@@ -3,3 +3,5 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 4522212,1750420499,ai.elimu.filamu.debug,VIDEO_COMPLETED,"{""video_playback_position_ms"":24078}",0,0,piper,1
 4522281,1750429450,ai.elimu.filamu.debug,VIDEO_OPENED,,0,0,piper,1
 4522282,1750429456,ai.elimu.filamu.debug,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":5318}",0,0,,1
+4522805,1751273812,ai.elimu.filamu.debug,,"{""eventType"":""VIDEO_OPENED""}",0,0,piper,1
+4522806,1751273820,ai.elimu.filamu.debug,,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":7313}",0,0,,1
