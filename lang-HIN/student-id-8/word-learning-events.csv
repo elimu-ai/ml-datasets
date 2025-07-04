@@ -72,3 +72,5 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 92321,1750673625,,,,0.0,0.0,,65.0
 92322,1750673656,,,,0.0,0.0,,36.0
 92323,1750673671,,,,0.0,0.0,,19.0
+92324,1751270181,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,वह,32.0
+92325,1751350363,ai.elimu.maneno.debug,,"{""eventType"":""READ_AND_LISTEN""}",0.0,0.0,में,78.0

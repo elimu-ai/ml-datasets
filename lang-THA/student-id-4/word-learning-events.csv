@@ -1832,3 +1832,14 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 4113,1751468504,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ปลา,13.0
 4114,1751468551,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,มา,35.0
 4115,1751508379,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ตอน,125.0
+4116,1751555227,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ตอน,125.0
+4117,1751555231,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,มัน,62.0
+4118,1751555238,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,และ,90.0
+4119,1751555243,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,และ,90.0
+4120,1751555253,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ชอบ,87.0
+4121,1751555255,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,เสียง,107.0
+4122,1751555262,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,เสียง,107.0
+4123,1751555461,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,นอน,29.0
+4124,1751555489,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,อยาก,144.0
+4125,1751618789,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ปลา,13.0
+4126,1751618812,ai.elimu.maneno.debug,,"{""eventType"":""READ_AND_LISTEN""}",0.0,1.0,ฉัน,36.0

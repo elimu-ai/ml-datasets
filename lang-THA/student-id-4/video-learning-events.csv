@@ -45,3 +45,5 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 1876,1750429457,ai.elimu.filamu.debug,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":5176}",0.0,1.0,,9
 2275,1751273811,ai.elimu.filamu.debug,,"{""eventType"":""VIDEO_OPENED""}",0.0,1.0,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 2276,1751273819,ai.elimu.filamu.debug,,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":6661}",0.0,1.0,,10
+2361,1751618820,ai.elimu.filamu.debug,,"{""eventType"":""VIDEO_OPENED""}",0.0,1.0,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2362,1751618824,ai.elimu.filamu.debug,,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":2759}",0.0,1.0,,10

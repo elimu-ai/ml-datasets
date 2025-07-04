@@ -5,3 +5,5 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 473598,1750420505,ai.elimu.filamu.debug,VIDEO_COMPLETED,"{""video_playback_position_ms"":24078}",0.0,0.0,चिड़िया,1
 473637,1750429535,ai.elimu.filamu.debug,VIDEO_OPENED,,0.0,0.0,चिड़िया,1
 473638,1750429541,ai.elimu.filamu.debug,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":4096}",0.0,0.0,,1
+474175,1751273813,ai.elimu.filamu.debug,,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,चिड़िया,1
+474176,1751273821,ai.elimu.filamu.debug,,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":5763}",0.0,0.0,,1

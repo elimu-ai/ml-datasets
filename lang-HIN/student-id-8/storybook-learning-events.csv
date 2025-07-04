@@ -60,3 +60,8 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 43898,1750839558,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,"आज, मैं हूँ...",29
 43899,1751168216,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,"आज, मैं हूँ...",29
 43900,1751168578,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,"आज, मैं हूँ...",29
+43901,1751270172,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,एक था मोटा राजा,6
+43902,1751272284,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,अद्भुत कीड़े,37
+43903,1751272326,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[3, 3, 4, 3, 3, 3, 2, 3, 2, 3, 3]""}",0.0,0.0,अद्भुत कीड़े,37
+43904,1751420997,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,स्वतंत्रता की ओर,23
+43905,1751422368,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,आनंद,63

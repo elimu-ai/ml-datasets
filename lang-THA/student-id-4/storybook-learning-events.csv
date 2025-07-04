@@ -607,3 +607,9 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 1171,1751508459,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[153, 118, 8, 4, 5]""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55
 1172,1751508709,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ดวงจันทร์ขี้อาย,56
 1173,1751509094,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[6, 9, 9, 11, 12, 11, 10, 37, 8, 12, 27, 46, 38, 26, 34, 28, 8]""}",0.0,1.0,ดวงจันทร์ขี้อาย,56
+1174,1751554957,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45
+1175,1751555187,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52
+1176,1751610084,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ตัวอะไรเพิ่งผ่านไปนะ,27
+1177,1751610091,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,สาม สอง หนึ่ง แอ็คชั่น!,57
+1178,1751618787,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48
+1179,1751618794,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[2, 1, 0, 0, 0, 0, 0, 0]""}",0.0,1.0,จับปลา,48

@@ -453,3 +453,27 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 4522802,1751505944,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 20679},,,piper,1
 4522803,1751506006,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
 4522804,1751506049,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 2201},,,piper,1
+4522845,1751592028,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522846,1751592051,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 15343},,,piper,1
+4522847,1751592124,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522848,1751592159,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 50951},,,piper,1
+4522849,1751592194,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522850,1751592197,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 16228},,,piper,1
+4522851,1751592233,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522852,1751592236,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 55149},,,piper,1
+4522853,1751592348,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522854,1751592378,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 34634},,,piper,1
+4522855,1751592433,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522856,1751592483,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 13714},,,piper,1
+4522857,1751592567,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522858,1751592619,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 13109},,,piper,1
+4522859,1751592721,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522860,1751592736,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 56846},,,piper,1
+4522861,1751592800,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522862,1751592821,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 9886},,,piper,1
+4522863,1751592903,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522864,1751592939,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 42470},,,piper,1
+4522865,1751593017,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522866,1751593066,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 14004},,,piper,1
+4522867,1751593091,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4522868,1751593114,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 17500},,,piper,1
