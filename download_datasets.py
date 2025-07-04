@@ -64,7 +64,13 @@ for language in languages:
         print(f'word_learning_events_file_path: {word_learning_events_file_path}')
         word_learning_events_dataframe.to_csv(word_learning_events_file_path, index=False)
 
-        # TODO: number assessment events
+        number_assessment_events_csv_url = f'http://{language.lower()}.elimu.ai/analytics/students/{student.id}/number-assessment-events.csv'
+        print(f'number_assessment_events_csv_url: {number_assessment_events_csv_url}')
+        number_assessment_events_dataframe = pandas.read_csv(number_assessment_events_csv_url)
+        print(f'number_assessment_events_dataframe: \n{number_assessment_events_dataframe}')
+        number_assessment_events_file_path = f'lang-{language}/student-id-{student.id}/number-assessment-events.csv'
+        print(f'number_assessment_events_file_path: {number_assessment_events_file_path}')
+        number_assessment_events_dataframe.to_csv(number_assessment_events_file_path, index=False)
         
         number_learning_events_csv_url = f'http://{language.lower()}.elimu.ai/analytics/students/{student.id}/number-learning-events.csv'
         print(f'number_learning_events_csv_url: {number_learning_events_csv_url}')
