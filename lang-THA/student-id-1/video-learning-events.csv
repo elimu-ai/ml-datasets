@@ -299,3 +299,7 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 2358,1751594006,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 31785},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 2359,1751594126,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
 2360,1751594170,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 39665},,,test sample video,1
+2413,1751764842,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+2414,1751764868,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 41397},,,sample video 7 - re-encodeed,7
+2415,1751764974,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+2416,1751764991,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 36610},,,sample video 7 - re-encodeed,7

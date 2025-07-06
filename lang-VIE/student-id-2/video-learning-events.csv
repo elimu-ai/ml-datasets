@@ -367,3 +367,33 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 449547,1751682590,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 7117},,,piper,1
 449548,1751682683,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
 449549,1751682730,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19948},,,piper,1
+449566,1751765458,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449567,1751765515,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 50987},,,piper,1
+449568,1751765587,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449569,1751765626,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 28946},,,piper,1
+449570,1751765686,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449571,1751765692,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 53686},,,piper,1
+449572,1751765729,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449573,1751765771,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 31362},,,piper,1
+449574,1751765873,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449575,1751765920,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 22799},,,piper,1
+449576,1751766011,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449577,1751766068,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 32557},,,piper,1
+449578,1751766143,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449579,1751766175,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 37818},,,piper,1
+449580,1751766228,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449581,1751766250,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 43884},,,piper,1
+449582,1751766350,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449583,1751766384,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 50913},,,piper,1
+449584,1751766472,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449585,1751766487,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 24390},,,piper,1
+449586,1751766560,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449587,1751766576,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 22304},,,piper,1
+449588,1751766607,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449589,1751766660,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 13289},,,piper,1
+449590,1751766733,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449591,1751766743,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 1027},,,piper,1
+449592,1751766793,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449593,1751766796,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 3817},,,piper,1
+449594,1751766830,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449595,1751766884,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 44972},,,piper,1
