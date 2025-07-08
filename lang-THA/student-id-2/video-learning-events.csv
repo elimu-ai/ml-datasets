@@ -359,3 +359,19 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 2488,1751855196,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 4849},,,sample video 7 - re-encodeed,7
 2489,1751855293,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
 2490,1751855320,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 39342},,,test sample video,1
+2549,1751943906,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2550,1751943957,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 34585},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2551,1751943975,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+2552,1751944010,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 35553},,,sample video 5 h264,5
+2553,1751944043,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2554,1751944093,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 55095},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2555,1751944167,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2556,1751944175,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 38568},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2557,1751944250,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+2558,1751944291,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 11984},,,sample video 5 h264,5
+2559,1751944349,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+2560,1751944406,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 58884},,,sample video 5 h264,5
+2561,1751944459,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2562,1751944500,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 10545},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2563,1751944546,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+2564,1751944602,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 27588},,,test sample video,1

@@ -493,3 +493,9 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 4523012,1751849643,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 52713},,,piper,1
 4523013,1751849708,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
 4523014,1751849726,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 29399},,,piper,1
+4523113,1751939256,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4523114,1751939288,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 12753},,,piper,1
+4523115,1751939322,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4523116,1751939331,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 6520},,,piper,1
+4523117,1751939363,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4523118,1751939392,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 52317},,,piper,1
