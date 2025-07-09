@@ -523,3 +523,11 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 474380,1751934786,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 45382},,,चिड़िया,1
 474381,1751934900,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
 474382,1751934912,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 7928},,,चिड़िया,1
+474479,1752022480,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474480,1752022496,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 56937},,,चिड़िया,1
+474481,1752022512,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474482,1752022516,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 40205},,,चिड़िया,1
+474483,1752022553,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474484,1752022562,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 25434},,,चिड़िया,1
+474485,1752022594,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474486,1752022614,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 59564},,,चिड़िया,1

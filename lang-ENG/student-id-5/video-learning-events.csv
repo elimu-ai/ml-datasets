@@ -505,3 +505,39 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 5808510,1751937036,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 42688},,,akili and me - letter d,4
 5808511,1751937133,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter a,1
 5808512,1751937140,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 5513},,,akili and me - letter a,1
+5808525,1752017824,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter d,4
+5808526,1752017864,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 6365},,,akili and me - letter d,4
+5808527,1752017953,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - the rectangle song,13
+5808528,1752018003,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 3829},,,akili and me - the rectangle song,13
+5808529,1752018074,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter c,3
+5808530,1752018097,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 30021},,,akili and me - letter c,3
+5808531,1752018211,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter b,2
+5808532,1752018260,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 22475},,,akili and me - letter b,2
+5808533,1752018371,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter b,2
+5808534,1752018421,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 1280},,,akili and me - letter b,2
+5808535,1752018473,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter a,1
+5808536,1752018520,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 42903},,,akili and me - letter a,1
+5808537,1752018611,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter b,2
+5808538,1752018662,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 41095},,,akili and me - letter b,2
+5808539,1752018710,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter d,4
+5808540,1752018765,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 38749},,,akili and me - letter d,4
+5808541,1752018881,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter a,1
+5808542,1752018883,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 13102},,,akili and me - letter a,1
+5808543,1752018996,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter d,4
+5808544,1752019036,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 43638},,,akili and me - letter d,4
+5808545,1752019061,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - the rectangle song,13
+5808546,1752019071,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 15796},,,akili and me - the rectangle song,13
+5808547,1752019175,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter b,2
+5808548,1752019202,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 59577},,,akili and me - letter b,2
+5808549,1752019245,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5808550,1752019291,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 37529},,,[test] a test video,44
+5808551,1752019398,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5808552,1752019418,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 44267},,,[test] a test video,44
+5808553,1752019537,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter a,1
+5808554,1752019585,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 47333},,,akili and me - letter a,1
+5808555,1752019633,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - the rectangle song,13
+5808556,1752019672,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 30270},,,akili and me - the rectangle song,13
+5808557,1752019731,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter a,1
+5808558,1752019768,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 36427},,,akili and me - letter a,1
+5808559,1752019797,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5808560,1752019853,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 14679},,,[test] a test video,44
