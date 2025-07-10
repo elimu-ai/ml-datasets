@@ -419,3 +419,5 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 474418,1751939140,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 44360},,,चिड़िया,1
 474419,1751939193,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
 474420,1751939220,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 23667},,,चिड़िया,1
+474487,1752105624,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474488,1752105650,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 39423},,,चिड़िया,1
