@@ -571,3 +571,5 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 4523224,1752109167,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 19722},,,piper,1
 4523225,1752109233,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
 4523226,1752109279,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 56158},,,piper,1
+4523265,1752194327,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4523266,1752194349,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 40191},,,piper,1

@@ -297,3 +297,7 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 5808600,1752021276,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 12175},,,[test] a test video,44
 5808601,1752021362,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter c,3
 5808602,1752021415,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 3488},,,akili and me - letter c,3
+5808657,1752190906,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5808658,1752190946,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 53003},,,[test] a test video,44
+5808659,1752191035,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter d,4
+5808660,1752191039,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 25972},,,akili and me - letter d,4

@@ -445,3 +445,13 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 2632,1752110964,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 17352},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 2633,1752111005,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
 2634,1752111042,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 48095},,,sample video 7 - re-encodeed,7
+2695,1752194449,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+2696,1752194498,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 1451},,,sample video 5 h264,5
+2697,1752194617,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2698,1752194669,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 23203},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2699,1752194721,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+2700,1752194754,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 52683},,,sample video 5 h264,5
+2701,1752194782,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+2702,1752194831,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 7308},,,sample video 5 h264,5
+2703,1752194922,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+2704,1752194938,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 23363},,,test sample video,1

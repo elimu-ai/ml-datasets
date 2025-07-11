@@ -547,3 +547,19 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 5808606,1752105437,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 5136},,,akili and me - letter c,3
 5808607,1752105479,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter b,2
 5808608,1752105529,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 55680},,,akili and me - letter b,2
+5808641,1752190153,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter a,1
+5808642,1752190206,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 34689},,,akili and me - letter a,1
+5808643,1752190313,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5808644,1752190363,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 13924},,,[test] a test video,44
+5808645,1752190386,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter b,2
+5808646,1752190443,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19131},,,akili and me - letter b,2
+5808647,1752190492,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter b,2
+5808648,1752190494,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 40684},,,akili and me - letter b,2
+5808649,1752190576,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - the rectangle song,13
+5808650,1752190596,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 22603},,,akili and me - the rectangle song,13
+5808651,1752190623,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter b,2
+5808652,1752190625,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 11303},,,akili and me - letter b,2
+5808653,1752190682,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter b,2
+5808654,1752190708,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 47797},,,akili and me - letter b,2
+5808655,1752190774,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter i,33
+5808656,1752190828,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 27175},,,akili and me - letter i,33
