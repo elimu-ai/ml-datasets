@@ -503,3 +503,5 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 474504,1752106444,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 29336},,,चिड़िया,1
 474505,1752106463,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
 474506,1752106489,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 46658},,,चिड़िया,1
+474531,1752276909,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474532,1752276955,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 24702},,,चिड़िया,1
