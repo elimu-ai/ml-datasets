@@ -581,3 +581,23 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 474558,1752278361,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 36493},,,चिड़िया,1
 474559,1752278435,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
 474560,1752278488,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 25977},,,चिड़िया,1
+474597,1752365356,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474598,1752365370,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 31902},,,चिड़िया,1
+474599,1752365410,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474600,1752365466,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 39713},,,चिड़िया,1
+474601,1752365555,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474602,1752365566,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 7634},,,चिड़िया,1
+474603,1752365648,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474604,1752365705,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19254},,,चिड़िया,1
+474605,1752365732,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474606,1752365748,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 10220},,,चिड़िया,1
+474607,1752365830,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474608,1752365863,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 10442},,,चिड़िया,1
+474609,1752365937,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474610,1752365983,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 28448},,,चिड़िया,1
+474611,1752366014,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474612,1752366069,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 56191},,,चिड़िया,1
+474613,1752366140,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474614,1752366192,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 42727},,,चिड़िया,1
+474615,1752366294,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474616,1752366354,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 1122},,,चिड़िया,1

@@ -475,3 +475,19 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 2748,1752279902,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 12833},,,test sample video,1
 2749,1752279982,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 2750,1752280040,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 36305},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2781,1752367251,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2782,1752367297,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 57615},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2783,1752367365,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+2784,1752367387,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 2393},,,test sample video,1
+2785,1752367431,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+2786,1752367463,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 12822},,,sample video 7 - re-encodeed,7
+2787,1752367573,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+2788,1752367580,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 23193},,,sample video 7 - re-encodeed,7
+2789,1752367643,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+2790,1752367687,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 50198},,,sample video 7 - re-encodeed,7
+2791,1752367789,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2792,1752367845,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 40517},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2793,1752367959,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+2794,1752368018,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 30301},,,test sample video,1
+2795,1752368120,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2796,1752368150,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 21200},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10

@@ -379,3 +379,11 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 449757,1752283193,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 43401},,,piper,1
 449758,1752283294,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
 449759,1752283354,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 59705},,,piper,1
+449760,1752369372,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449761,1752369379,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 14894},,,piper,1
+449762,1752369465,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449763,1752369515,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 26834},,,piper,1
+449764,1752369537,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449765,1752369564,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 28625},,,piper,1
+449766,1752369644,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+449767,1752369688,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 54885},,,piper,1
