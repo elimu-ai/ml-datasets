@@ -11,3 +11,5 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 1804,1749827290,ai.elimu.filamu.debug,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":3566}",,,,7
 1805,1749827293,ai.elimu.filamu.debug,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
 1806,1749827317,ai.elimu.filamu.debug,VIDEO_COMPLETED,"{""video_playback_position_ms"":30379}",,,sample video 7 - re-encodeed,7
+2877,1752071025,ai.elimu.filamu.debug,,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,sample video 7 - re-encodeed,7
+2878,1752071046,ai.elimu.filamu.debug,,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":19940}",0.0,0.0,,7
