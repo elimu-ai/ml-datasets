@@ -339,3 +339,25 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 5808672,1752363051,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 8708},,,akili and me - letter a,1
 5808673,1752363133,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter c,3
 5808674,1752363136,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 11716},,,akili and me - letter c,3
+5808723,1752535643,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5808724,1752535665,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 11156},,,[test] a test video,44
+5808725,1752535708,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5808726,1752535733,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 17159},,,[test] a test video,44
+5808727,1752535771,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter c,3
+5808728,1752535821,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 53152},,,akili and me - letter c,3
+5808729,1752535853,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter a,1
+5808730,1752535886,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 51108},,,akili and me - letter a,1
+5808731,1752535999,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5808732,1752536031,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 55352},,,[test] a test video,44
+5808733,1752536125,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter c,3
+5808734,1752536127,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 14579},,,akili and me - letter c,3
+5808735,1752536240,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter d,4
+5808736,1752536257,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 45497},,,akili and me - letter d,4
+5808737,1752536347,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - the rectangle song,13
+5808738,1752536386,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 58247},,,akili and me - the rectangle song,13
+5808739,1752536423,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter b,2
+5808740,1752536467,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 20011},,,akili and me - letter b,2
+5808741,1752536535,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter a,1
+5808742,1752536560,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 13542},,,akili and me - letter a,1
+5808743,1752536630,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter b,2
+5808744,1752536638,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 21180},,,akili and me - letter b,2

@@ -491,3 +491,9 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 2794,1752368018,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 30301},,,test sample video,1
 2795,1752368120,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 2796,1752368150,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 21200},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+2879,1752543283,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+2880,1752543287,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 46493},,,sample video 7 - re-encodeed,7
+2881,1752543376,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2882,1752543399,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 45685},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+2883,1752543447,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+2884,1752543480,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 1218},,,test sample video,1
