@@ -543,3 +543,25 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 2970,1752628512,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 59626},,,sample video 5 h264,5
 2971,1752628551,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 2972,1752628568,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 23887},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3015,1752714524,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+3016,1752714565,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19936},,,sample video 7 - re-encodeed,7
+3017,1752714682,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+3018,1752714705,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 17831},,,sample video 5 h264,5
+3019,1752714728,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3020,1752714750,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 6808},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3021,1752714820,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+3022,1752714845,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 33795},,,sample video 5 h264,5
+3023,1752714881,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3024,1752714886,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 1611},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3025,1752714950,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+3026,1752714999,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 21652},,,test sample video,1
+3027,1752715023,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+3028,1752715031,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 52297},,,sample video 5 h264,5
+3029,1752715129,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+3030,1752715176,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 56412},,,sample video 5 h264,5
+3031,1752715271,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3032,1752715329,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 57966},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3033,1752715349,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+3034,1752715364,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 36691},,,sample video 5 h264,5
+3035,1752715423,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+3036,1752715470,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 26735},,,test sample video,1

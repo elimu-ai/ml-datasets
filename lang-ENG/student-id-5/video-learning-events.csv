@@ -581,3 +581,5 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 5808698,1752450089,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 8734},,,akili and me - letter a,1
 5808699,1752450153,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter c,3
 5808700,1752450165,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 45204},,,akili and me - letter c,3
+5808803,1752709843,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter d,4
+5808804,1752709868,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 23162},,,akili and me - letter d,4
