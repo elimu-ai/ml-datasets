@@ -74,3 +74,13 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 92323,1750673671,,,,0.0,0.0,,19.0
 92324,1751270181,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,वह,32.0
 92325,1751350363,ai.elimu.maneno.debug,,"{""eventType"":""READ_AND_LISTEN""}",0.0,0.0,में,78.0
+92326,1752824330,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,राजा,36.0
+92327,1752824339,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,एक,11.0
+92328,1752824346,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,को,67.0
+92329,1752824353,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,राजा,36.0
+92330,1752824357,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,भी,8.0
+92331,1752824361,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,कुत्ते,308.0
+92332,1752824367,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,के,22.0
+92333,1752824497,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,है,26.0
+92334,1752824500,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,और,19.0
+92335,1752824507,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,बिल्ली,332.0

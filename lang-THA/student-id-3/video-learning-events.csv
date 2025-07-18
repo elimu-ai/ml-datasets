@@ -525,3 +525,7 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 3012,1752714411,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 24676},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 3013,1752714476,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
 3014,1752714502,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 31674},,,test sample video,1
+3069,1752800002,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3070,1752800024,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19303},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3071,1752800144,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+3072,1752800189,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 28709},,,test sample video,1
