@@ -691,3 +691,7 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 474744,1752713030,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 30184},,,चिड़िया,1
 474745,1752713096,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
 474746,1752713128,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 46903},,,चिड़िया,1
+474781,1752882377,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474782,1752882404,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 35752},,,चिड़िया,1
+474783,1752882422,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474784,1752882442,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 52287},,,चिड़िया,1
