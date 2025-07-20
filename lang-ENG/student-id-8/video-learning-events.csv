@@ -36,3 +36,5 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 5808200,1751279636,ai.elimu.filamu,VIDEO_OPENED,,0.0,0.0,akili and me - letter i,33
 5808201,1751279639,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":0}",0.0,0.0,,33
 5808202,1751279640,ai.elimu.filamu,VIDEO_OPENED,,0.0,0.0,[test] a test video,44
+5808937,1752908503,ai.elimu.filamu,,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,akili and me - letter d,4
+5808938,1752908504,ai.elimu.filamu,,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,,4
