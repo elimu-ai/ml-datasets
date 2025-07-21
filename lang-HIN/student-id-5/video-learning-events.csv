@@ -709,3 +709,37 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 474798,1752969647,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 12229},,,चिड़िया,1
 474799,1752969746,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
 474800,1752969751,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 21274},,,चिड़िया,1
+474819,1753058528,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474820,1753058537,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 5377},,,चिड़िया,1
+474821,1753058589,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474822,1753058639,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 35564},,,चिड़िया,1
+474823,1753058753,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474824,1753058786,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 37425},,,चिड़िया,1
+474825,1753058847,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474826,1753058857,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 50803},,,चिड़िया,1
+474827,1753058918,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474828,1753058922,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 36727},,,चिड़िया,1
+474829,1753058974,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474830,1753059026,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 50299},,,चिड़िया,1
+474831,1753059085,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474832,1753059117,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 47025},,,चिड़िया,1
+474833,1753059218,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474834,1753059234,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 27480},,,चिड़िया,1
+474835,1753059259,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474836,1753059266,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 6209},,,चिड़िया,1
+474837,1753059349,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474838,1753059407,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 9852},,,चिड़िया,1
+474839,1753059447,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474840,1753059503,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 38764},,,चिड़िया,1
+474841,1753059607,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474842,1753059640,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 21647},,,चिड़िया,1
+474843,1753059737,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474844,1753059756,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 18597},,,चिड़िया,1
+474845,1753059796,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474846,1753059813,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 55699},,,चिड़िया,1
+474847,1753059918,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474848,1753059927,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 35108},,,चिड़िया,1
+474849,1753060042,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474850,1753060054,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 49489},,,चिड़िया,1
+474851,1753060095,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474852,1753060124,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 32155},,,चिड़िया,1
