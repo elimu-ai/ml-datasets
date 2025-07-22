@@ -461,3 +461,13 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 5808912,1752882175,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 35949},,,akili and me - the rectangle song,13
 5808913,1752882227,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - the rectangle song,13
 5808914,1752882257,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 35878},,,akili and me - the rectangle song,13
+5809003,1753140572,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter i,33
+5809004,1753140605,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 27403},,,akili and me - letter i,33
+5809005,1753140706,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5809006,1753140712,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 28557},,,[test] a test video,44
+5809007,1753140782,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter i,33
+5809008,1753140796,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 9157},,,akili and me - letter i,33
+5809009,1753140860,ai.elimu.filamu,VIDEO_OPENED,,,,[test] a test video,44
+5809010,1753140869,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 38683},,,[test] a test video,44
+5809011,1753140890,ai.elimu.filamu,VIDEO_OPENED,,,,akili and me - letter i,33
+5809012,1753140942,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 24734},,,akili and me - letter i,33

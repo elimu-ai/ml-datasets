@@ -1859,3 +1859,12 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 4140,1752829969,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ปลา,13.0
 4141,1752829971,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ปลา,13.0
 4142,1752829977,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ไป,30.0
+4143,1753107747,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ตอน,125.0
+4144,1753107980,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,นะ,66.0
+4145,1753107983,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,และ,90.0
+4146,1753107986,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,และ,90.0
+4147,1753108565,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,และ,90.0
+4148,1753108700,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,และ,90.0
+4149,1753108741,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,นะ,66.0
+4150,1753108807,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,นก,63.0
+4151,1753108817,ai.elimu.vitabu.debug,,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,นก,63.0

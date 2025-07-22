@@ -1,4 +1,6 @@
 id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,number_value,number_symbol,number_id
-1,1751075077,ai.elimu.calculator,,,0,0,1,,0
-5,1751180430,ai.elimu.calculator,,,0,0,4,,0
-6,1751180432,ai.elimu.calculator,,,0,0,7,,0
+1,1751075077,ai.elimu.calculator,,,0,0,1,,0.0
+5,1751180430,ai.elimu.calculator,,,0,0,4,,0.0
+6,1751180432,ai.elimu.calculator,,,0,0,7,,0.0
+7,1752908507,ai.elimu.calculator,,,0,0,2,,
+8,1752908508,ai.elimu.calculator,,,0,0,3,,
