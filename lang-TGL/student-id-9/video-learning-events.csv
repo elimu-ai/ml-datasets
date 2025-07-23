@@ -709,3 +709,7 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 4523618,1753144242,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 23008},,,piper,1
 4523619,1753144289,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
 4523620,1753144293,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 14437},,,piper,1
+4523645,1753232281,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4523646,1753232332,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 53280},,,piper,1
+4523647,1753232420,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4523648,1753232458,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 39200},,,piper,1

@@ -571,3 +571,39 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 3136,1752973468,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 56009},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 3137,1752973523,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 3138,1752973577,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 39398},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3209,1753233163,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+3210,1753233216,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 43039},,,test sample video,1
+3211,1753233303,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3212,1753233307,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 10744},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3213,1753233327,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3214,1753233374,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 9865},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3215,1753233441,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+3216,1753233499,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 37499},,,sample video 7 - re-encodeed,7
+3217,1753233572,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3218,1753233604,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 51924},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3219,1753233641,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+3220,1753233661,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 30777},,,sample video 5 h264,5
+3221,1753233694,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+3222,1753233720,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 35931},,,test sample video,1
+3223,1753233804,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3224,1753233844,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 9815},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3225,1753233934,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+3226,1753233966,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 55190},,,sample video 5 h264,5
+3227,1753233983,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+3228,1753234028,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 27059},,,sample video 7 - re-encodeed,7
+3229,1753234051,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+3230,1753234054,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 44205},,,test sample video,1
+3231,1753234079,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3232,1753234121,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 48881},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3233,1753234143,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+3234,1753234188,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 49595},,,test sample video,1
+3235,1753234214,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+3236,1753234225,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 12965},,,test sample video,1
+3237,1753234273,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+3238,1753234332,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 52633},,,sample video 7 - re-encodeed,7
+3239,1753234361,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+3240,1753234365,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 27115},,,test sample video,1
+3241,1753234433,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
+3242,1753234469,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 58131},,,sample video 7 - re-encodeed,7
+3243,1753234519,ai.elimu.filamu,VIDEO_OPENED,,,,sample video 5 h264,5
+3244,1753234544,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 17194},,,sample video 5 h264,5
