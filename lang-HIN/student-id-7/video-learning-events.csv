@@ -567,3 +567,23 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 474904,1753230740,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 1114},,,चिड़िया,1
 474905,1753230814,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
 474906,1753230821,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 23405},,,चिड़िया,1
+474947,1753313901,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474948,1753313944,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 37772},,,चिड़िया,1
+474949,1753314038,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474950,1753314057,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 38784},,,चिड़िया,1
+474951,1753314100,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474952,1753314158,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 51941},,,चिड़िया,1
+474953,1753314195,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474954,1753314209,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 44750},,,चिड़िया,1
+474955,1753314291,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474956,1753314337,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 8433},,,चिड़िया,1
+474957,1753314372,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474958,1753314414,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 37772},,,चिड़िया,1
+474959,1753314508,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474960,1753314553,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 55948},,,चिड़िया,1
+474961,1753314668,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474962,1753314686,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 1425},,,चिड़िया,1
+474963,1753314780,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474964,1753314805,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 16089},,,चिड़िया,1
+474965,1753314895,ai.elimu.filamu,VIDEO_OPENED,,,,चिड़िया,1
+474966,1753314932,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 16266},,,चिड़िया,1
