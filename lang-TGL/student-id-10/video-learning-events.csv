@@ -703,3 +703,11 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 4523704,1753317374,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 16305},,,piper,1
 4523705,1753317419,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
 4523706,1753317463,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 17075},,,piper,1
+4523719,1753405728,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4523720,1753405746,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 37088},,,piper,1
+4523721,1753405845,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4523722,1753405887,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 25614},,,piper,1
+4523723,1753405914,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4523724,1753405927,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 16820},,,piper,1
+4523725,1753406027,ai.elimu.filamu,VIDEO_OPENED,,,,piper,1
+4523726,1753406082,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 27524},,,piper,1
