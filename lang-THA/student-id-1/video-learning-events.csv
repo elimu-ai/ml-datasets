@@ -619,3 +619,13 @@ id,timestamp,package_name,learning_event_type,additional_data,research_experimen
 3322,1753406739,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 29241},,,sample video 5 h264,5
 3323,1753406761,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 3324,1753406774,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 17716},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3361,1753490242,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3362,1753490267,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 29038},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3363,1753490362,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3364,1753490376,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 49012},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3365,1753490409,ai.elimu.filamu,VIDEO_OPENED,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3366,1753490439,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 53053},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3367,1753490502,ai.elimu.filamu,VIDEO_OPENED,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3368,1753490517,ai.elimu.filamu,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 54654},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3369,1753490593,ai.elimu.filamu,VIDEO_OPENED,,,,test sample video,1
+3370,1753490643,ai.elimu.filamu,VIDEO_COMPLETED,{'video_playback_position_ms': 18652},,,test sample video,1
