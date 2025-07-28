@@ -1,7 +1,7 @@
-id,timestamp,package_name,additional_data,research_experiment,experiment_group,letter_sound_id
-38751,1749955603,ai.elimu.herufi.debug,,,,1
-38752,1749955605,ai.elimu.herufi.debug,,,,2
-38753,1749955607,ai.elimu.herufi.debug,,,,3
-38754,1749955609,ai.elimu.herufi.debug,,,,4
-38755,1749955612,ai.elimu.herufi.debug,,,,5
-38756,1749955615,ai.elimu.herufi.debug,,,,6
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,letter_sound_letters,letter_sound_sounds,letter_sound_id
+38751,1749955603,ai.elimu.herufi.debug,,,,[],[],1
+38752,1749955605,ai.elimu.herufi.debug,,,,[],[],2
+38753,1749955607,ai.elimu.herufi.debug,,,,[],[],3
+38754,1749955609,ai.elimu.herufi.debug,,,,[],[],4
+38755,1749955612,ai.elimu.herufi.debug,,,,[],[],5
+38756,1749955615,ai.elimu.herufi.debug,,,,[],[],6
