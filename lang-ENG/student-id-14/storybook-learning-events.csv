@@ -1,105 +1,105 @@
-id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
-30695,1746506750,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,62
-30696,1746506807,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,68
-30697,1746506815,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,78
-30698,1749529986,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Abcd a nature alphabet book,65
-30699,1749530199,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30700,1749530759,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30701,1749530796,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30702,1749539951,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Bounthy's Singing Birds,66
-30703,1749540000,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30704,1749540252,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30705,1749540270,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30706,1749540669,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30707,1749540841,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
-30708,1749540871,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Lara the Yellow Ladybird,61
-30709,1749540874,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Lara the Yellow Ladybird,61
-30710,1749540877,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Lara the Yellow Ladybird,61
-30711,1749540937,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30712,1749540941,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30713,1749540946,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30714,1749540959,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30715,1749540999,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30716,1749541003,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
-30717,1749541013,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Lara the Yellow Ladybird,61
-30718,1749541033,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Bounthy's Singing Birds,66
-30719,1749541039,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Bounthy's Singing Birds,66
-30720,1749541045,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Bounthy's Singing Birds,66
-30721,1749541562,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30722,1749541915,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30723,1749541921,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30724,1749545510,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30725,1749545623,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30726,1749545640,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30727,1749545643,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30728,1749545653,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30729,1749609321,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30730,1749609408,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30731,1749609440,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
-30732,1749609443,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30733,1749609492,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30734,1749609719,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30735,1749610037,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30736,1749610817,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30737,1749610906,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30738,1749610926,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30739,1749610946,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30740,1749612013,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30741,1749612022,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30742,1749612173,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30743,1749612177,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30744,1749612184,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30745,1749612189,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30746,1749612379,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30747,1749612386,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30748,1749612424,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30749,1749612430,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30750,1749612985,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30751,1749612993,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30752,1749612995,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30753,1749613000,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30754,1749613003,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30755,1749613008,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30756,1749627034,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30757,1749627043,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30758,1749627179,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30759,1749627184,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,Ali’s Little Star ⭐,76
-30827,1750142635,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Ali’s Little Star ⭐,76
-30828,1750142639,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Bounthy's Singing Birds,66
-30829,1750142646,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
-30830,1750142648,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,The Village of Five Poles,68
-30831,1750142651,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,The Elephant in My House,69
-30835,1750327316,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
-30836,1750327319,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,The Great Teacher,74
-30838,1750389578,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
-30839,1750389583,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,Abcd a nature alphabet book,65
-30840,1750407177,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Lara the Yellow Ladybird,61
-30841,1750407472,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Lara the Yellow Ladybird,61
-30842,1750407567,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Bounthy's Singing Birds,66
-30843,1750408758,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,0.0,0.0,Bounthy's Singing Birds,66
-30844,1750409179,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Abcd a nature alphabet book,65
-30845,1750409199,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,0.0,0.0,Abcd a nature alphabet book,65
-30846,1750409535,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Bounthy's Singing Birds,66
-30847,1750409557,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,0.0,0.0,Bounthy's Singing Birds,66
-30848,1750410180,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Bounthy's Singing Birds,66
-30849,1750410194,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,0.0,0.0,Bounthy's Singing Birds,66
-30850,1750410261,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Bounthy's Singing Birds,66
-30851,1750410272,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,0.0,0.0,Bounthy's Singing Birds,66
-30852,1750410428,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Bounthy's Singing Birds,66
-30853,1750410454,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,0.0,0.0,Bounthy's Singing Birds,66
-30862,1750413191,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Bounthy's Singing Birds,66
-30863,1750413203,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,0.0,0.0,Bounthy's Singing Birds,66
-30866,1750664264,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Lara the Yellow Ladybird,61
-30867,1750664291,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,A Tiny Seed 🌱,77
-30868,1750664610,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Lara the Yellow Ladybird,61
-30869,1750664619,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,The Village of Five Poles,68
-30870,1750670874,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Ali’s Little Star ⭐,76
-30871,1750671292,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Lara the Yellow Ladybird,61
-30872,1750736548,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Lara the Yellow Ladybird,61
-30873,1750736557,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Bounthy's Singing Birds,66
-30874,1750739064,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Lara the Yellow Ladybird,61
-30875,1750739081,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,The Story of Bagh Bhairav Temple,75
-30876,1750739106,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Which Way is South?,67
-30897,1750820298,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,Lara the Yellow Ladybird,61
-30898,1750820633,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,,-1
-30899,1750820768,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,0.0,,1
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+30695,1746506750,ai.elimu.vitabu.debug,,,,,62
+30696,1746506807,ai.elimu.vitabu.debug,,,,,68
+30697,1746506815,ai.elimu.vitabu.debug,,,,,78
+30698,1749529986,ai.elimu.vitabu.debug,,,,Abcd a nature alphabet book,65
+30699,1749530199,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30700,1749530759,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30701,1749530796,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30702,1749539951,ai.elimu.vitabu.debug,,,,Bounthy's Singing Birds,66
+30703,1749540000,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30704,1749540252,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30705,1749540270,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30706,1749540669,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30707,1749540841,ai.elimu.vitabu.debug,,,,Lara the Yellow Ladybird,61
+30708,1749540871,ai.elimu.vitabu.debug,,,,Lara the Yellow Ladybird,61
+30709,1749540874,ai.elimu.vitabu.debug,,,,Lara the Yellow Ladybird,61
+30710,1749540877,ai.elimu.vitabu.debug,,,,Lara the Yellow Ladybird,61
+30711,1749540937,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30712,1749540941,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30713,1749540946,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30714,1749540959,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30715,1749540999,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30716,1749541003,ai.elimu.vitabu.debug,,,,Lara the Yellow Ladybird,61
+30717,1749541013,ai.elimu.vitabu.debug,,,,Lara the Yellow Ladybird,61
+30718,1749541033,ai.elimu.vitabu.debug,,,,Bounthy's Singing Birds,66
+30719,1749541039,ai.elimu.vitabu.debug,,,,Bounthy's Singing Birds,66
+30720,1749541045,ai.elimu.vitabu.debug,,,,Bounthy's Singing Birds,66
+30721,1749541562,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30722,1749541915,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30723,1749541921,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30724,1749545510,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30725,1749545623,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30726,1749545640,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30727,1749545643,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30728,1749545653,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30729,1749609321,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30730,1749609408,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30731,1749609440,ai.elimu.vitabu.debug,,,,Lara the Yellow Ladybird,61
+30732,1749609443,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30733,1749609492,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30734,1749609719,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30735,1749610037,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30736,1749610817,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30737,1749610906,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30738,1749610926,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30739,1749610946,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30740,1749612013,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30741,1749612022,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30742,1749612173,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30743,1749612177,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30744,1749612184,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30745,1749612189,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30746,1749612379,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30747,1749612386,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30748,1749612424,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30749,1749612430,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30750,1749612985,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30751,1749612993,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30752,1749612995,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30753,1749613000,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30754,1749613003,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30755,1749613008,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30756,1749627034,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30757,1749627043,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30758,1749627179,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30759,1749627184,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30827,1750142635,ai.elimu.vitabu.debug,,,,Ali’s Little Star ⭐,76
+30828,1750142639,ai.elimu.vitabu.debug,,,,Bounthy's Singing Birds,66
+30829,1750142646,ai.elimu.vitabu.debug,,,,Lara the Yellow Ladybird,61
+30830,1750142648,ai.elimu.vitabu.debug,,,,The Village of Five Poles,68
+30831,1750142651,ai.elimu.vitabu.debug,,,,The Elephant in My House,69
+30835,1750327316,ai.elimu.vitabu.debug,,,,Lara the Yellow Ladybird,61
+30836,1750327319,ai.elimu.vitabu.debug,,,,The Great Teacher,74
+30838,1750389578,ai.elimu.vitabu.debug,,,,Lara the Yellow Ladybird,61
+30839,1750389583,ai.elimu.vitabu.debug,,,,Abcd a nature alphabet book,65
+30840,1750407177,ai.elimu.vitabu.debug,,0.0,0.0,Lara the Yellow Ladybird,61
+30841,1750407472,ai.elimu.vitabu.debug,,0.0,0.0,Lara the Yellow Ladybird,61
+30842,1750407567,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30843,1750408758,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30844,1750409179,ai.elimu.vitabu.debug,,0.0,0.0,Abcd a nature alphabet book,65
+30845,1750409199,ai.elimu.vitabu.debug,,0.0,0.0,Abcd a nature alphabet book,65
+30846,1750409535,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30847,1750409557,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30848,1750410180,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30849,1750410194,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30850,1750410261,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30851,1750410272,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30852,1750410428,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30853,1750410454,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30862,1750413191,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30863,1750413203,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30866,1750664264,ai.elimu.vitabu.debug,,0.0,0.0,Lara the Yellow Ladybird,61
+30867,1750664291,ai.elimu.vitabu.debug,,0.0,0.0,A Tiny Seed 🌱,77
+30868,1750664610,ai.elimu.vitabu.debug,,0.0,0.0,Lara the Yellow Ladybird,61
+30869,1750664619,ai.elimu.vitabu.debug,,0.0,0.0,The Village of Five Poles,68
+30870,1750670874,ai.elimu.vitabu.debug,,0.0,0.0,Ali’s Little Star ⭐,76
+30871,1750671292,ai.elimu.vitabu.debug,,0.0,0.0,Lara the Yellow Ladybird,61
+30872,1750736548,ai.elimu.vitabu.debug,,0.0,0.0,Lara the Yellow Ladybird,61
+30873,1750736557,ai.elimu.vitabu.debug,,0.0,0.0,Bounthy's Singing Birds,66
+30874,1750739064,ai.elimu.vitabu.debug,,0.0,0.0,Lara the Yellow Ladybird,61
+30875,1750739081,ai.elimu.vitabu.debug,,0.0,0.0,The Story of Bagh Bhairav Temple,75
+30876,1750739106,ai.elimu.vitabu.debug,,0.0,0.0,Which Way is South?,67
+30897,1750820298,ai.elimu.vitabu.debug,,0.0,0.0,Lara the Yellow Ladybird,61
+30898,1750820633,ai.elimu.vitabu.debug,,0.0,0.0,,-1
+30899,1750820768,ai.elimu.vitabu.debug,,0.0,0.0,,1

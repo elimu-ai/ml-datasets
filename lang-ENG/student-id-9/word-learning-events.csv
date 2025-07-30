@@ -1,7 +1,7 @@
-id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,word_text,word_id
-44715,1751353474,ai.elimu.vitabu,,"{""eventType"":""WORD_PRESSED""}",0,1,stars,707
-44716,1751353476,ai.elimu.vitabu,,"{""eventType"":""WORD_PRESSED""}",0,1,sleep,625
-44717,1751353479,ai.elimu.vitabu,,"{""eventType"":""WORD_PRESSED""}",0,1,star,710
-44718,1751353509,ai.elimu.vitabu,,"{""eventType"":""WORD_PRESSED""}",0,1,stars,707
-44719,1751353518,ai.elimu.vitabu,,"{""eventType"":""WORD_PRESSED""}",0,1,was,149
-44720,1751353521,ai.elimu.vitabu,,"{""eventType"":""WORD_PRESSED""}",0,1,yellow,55
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,word_text,word_id
+44715,1751353474,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,stars,707
+44716,1751353476,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,sleep,625
+44717,1751353479,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,star,710
+44718,1751353509,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,stars,707
+44719,1751353518,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,was,149
+44720,1751353521,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,yellow,55

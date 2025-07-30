@@ -1,7 +1,7 @@
-id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,video_title,video_id
-5807851,1750327280,ai.elimu.filamu.debug,VIDEO_OPENED,,,,[test] a test video,44
-5807852,1750327283,ai.elimu.filamu.debug,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":1264}",,,,44
-5808002,1750653854,,,,0.0,0.0,,0
-5808003,1750653866,,,,0.0,0.0,,0
-5808004,1750671347,,,,0.0,0.0,,0
-5808005,1750671380,,,,0.0,0.0,,0
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,video_title,video_id
+5807851,1750327280,ai.elimu.filamu.debug,,,,[test] a test video,44
+5807852,1750327283,ai.elimu.filamu.debug,"{""video_playback_position_ms"":1264}",,,,44
+5808002,1750653854,,,0.0,0.0,,0
+5808003,1750653866,,,0.0,0.0,,0
+5808004,1750671347,,,0.0,0.0,,0
+5808005,1750671380,,,0.0,0.0,,0

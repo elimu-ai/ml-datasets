@@ -1,645 +1,645 @@
-id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
-446,1742289948,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-445,1742289982,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-444,1742289984,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,1.0
-443,1742290783,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,4.0
-442,1742291858,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,4.0
-441,1742292343,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,6.0
-440,1742293870,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,1.0
-439,1742293901,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-453,1742367375,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-452,1742369380,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-451,1742369456,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,1.0
-450,1742369467,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-449,1742369584,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,6.0
-448,1742377291,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-447,1742377374,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-468,1742406487,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-467,1742428714,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-466,1742432790,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-465,1742432998,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-464,1742462849,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-463,1742462886,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-462,1742462999,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-461,1742463075,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-460,1742463231,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,6.0
-459,1742468086,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-458,1742468115,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-457,1742468438,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-456,1742468648,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-455,1742471530,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-454,1742471691,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-469,1742656310,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,6.0
-470,1742713028,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,6.0
-472,1742909136,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-471,1742909140,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-481,1742996517,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,4.0
-480,1742996839,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-479,1742996942,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,4.0
-478,1742996949,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-477,1743006080,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-476,1743006224,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-475,1743007478,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-474,1743007721,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-473,1743007737,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-494,1743060314,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,9.0
-493,1743060397,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,9.0
-492,1743062623,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-491,1743062738,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-490,1743062999,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-489,1743063070,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-488,1743063547,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-487,1743065745,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-486,1743071198,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-485,1743071217,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-484,1743078271,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-483,1743078470,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-482,1743087903,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-495,1743128908,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-499,1743235955,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-498,1743235960,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-497,1743235965,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-496,1743236498,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-503,1743344138,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,9.0
-502,1743344169,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-501,1743344227,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-500,1743345622,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-504,1743399780,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-506,1743526139,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-505,1743526260,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,4.0
-513,1743587284,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-512,1743587345,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-511,1743588527,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-510,1743588541,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-509,1743596537,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-508,1743596564,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-507,1743596972,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-529,1743661740,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-528,1743662295,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-527,1743662519,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-526,1743663265,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-525,1743663461,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-524,1743663743,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-523,1743665211,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-522,1743674684,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-521,1743692711,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-520,1743695256,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-519,1743695372,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-518,1743696184,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,9.0
-517,1743697079,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-516,1743697814,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-515,1743698925,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,3.0
-514,1743698931,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,3.0
-539,1743700376,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,6.0
-538,1743700416,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,6.0
-537,1743700516,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,6.0
-536,1743700560,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,9.0
-535,1743700593,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,4.0
-534,1743733262,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-533,1743766735,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,9.0
-532,1743766755,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,1.0
-531,1743770086,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,6.0
-530,1743770100,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-542,1744163426,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-541,1744164447,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-540,1744164469,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-547,1744257023,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-546,1744279075,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-545,1744280005,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-544,1744280058,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-543,1744281829,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-549,1744364120,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-548,1744386658,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-550,1744423744,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-565,1744527608,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-564,1744527611,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-563,1744527615,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-562,1744527618,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-561,1744527622,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-560,1744527628,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,9.0
-559,1744527633,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-558,1744527636,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,9.0
-557,1744527639,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,1.0
-556,1744527642,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,6.0
-555,1744544981,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-554,1744545002,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-553,1744545004,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-552,1744545010,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-551,1744545015,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-567,1744715407,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-566,1744715418,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-599,1744790789,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-598,1744790862,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-597,1744791180,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-596,1744791600,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-595,1744791766,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-594,1744791803,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-593,1744791846,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-592,1744791870,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-591,1744791903,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-590,1744792018,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-589,1744792045,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-588,1744792065,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-587,1744792174,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-586,1744792186,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-585,1744792199,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-584,1744792315,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-583,1744792349,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-582,1744792420,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-581,1744792452,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-580,1744792510,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-579,1744792524,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-578,1744792544,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-577,1744792615,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-576,1744792661,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-575,1744792676,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-574,1744792688,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-573,1744792843,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-572,1744792966,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-571,1744793099,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-570,1744796572,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-569,1744821728,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-568,1744821812,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-615,1744824958,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-614,1744825507,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-613,1744825514,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-612,1744825558,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,5.0
-611,1744825593,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,4.0
-610,1744873364,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-609,1744874640,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-608,1744874724,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-607,1744874975,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-606,1744875240,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-605,1744875797,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-604,1744877723,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-603,1744877763,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-602,1744877798,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-601,1744877848,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-600,1744881960,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-618,1744955833,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-617,1744955916,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-616,1744956000,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,4.0
-647,1745036888,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-646,1745036902,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,11.0
-645,1745037396,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-644,1745037408,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,11.0
-643,1745037429,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,11.0
-642,1745037584,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-641,1745044502,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-640,1745044516,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,13.0
-639,1745044898,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-638,1745045517,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-637,1745045671,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,13.0
-636,1745045787,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,11.0
-635,1745046045,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-634,1745046470,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-633,1745046523,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-632,1745046585,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-631,1745046961,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-630,1745047031,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-629,1745056847,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-628,1745056863,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-627,1745056930,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-626,1745067318,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-625,1745067604,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-624,1745067640,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-623,1745067768,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,13.0
-622,1745067921,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-621,1745069373,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-620,1745069410,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-619,1745069636,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-652,1745152867,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-651,1745160469,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-650,1745160476,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-649,1745160891,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-648,1745161216,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-663,1745368461,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,13.0
-662,1745368580,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-661,1745397253,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16.0
-660,1745397440,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16.0
-659,1745397495,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,15.0
-658,1745397519,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,14.0
-657,1745398311,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16.0
-656,1745398379,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16.0
-655,1745398428,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16.0
-654,1745398659,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,14.0
-653,1745402588,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-667,1745461943,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16.0
-666,1745471062,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16.0
-665,1745485491,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-664,1745485514,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16.0
-668,1745830143,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-671,1745915033,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-670,1745922738,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,19.0
-669,1745935578,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-674,1746028424,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,13.0
-673,1746028444,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-672,1746029115,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-690,1746066403,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,19.0
-689,1746066438,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,19.0
-688,1746066495,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,4.0
-687,1746100238,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-686,1746106779,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-685,1746107026,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,20.0
-684,1746107160,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,20.0
-683,1746107673,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,13.0
-682,1746107732,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,13.0
-681,1746107779,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,8.0
-680,1746107817,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-679,1746108822,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-678,1746110249,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-677,1746110280,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-676,1746110369,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-675,1746110484,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,10.0
-692,1746176944,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,21.0
-691,1746177180,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,21.0
-696,1746283473,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,17.0
-695,1746283483,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,22.0
-694,1746283701,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,22.0
-693,1746290308,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,21.0
-699,1746358934,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,21.0
-698,1746358947,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,23.0
-697,1746358983,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,21.0
-702,1746537236,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,22.0
-701,1746537265,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16.0
-700,1746537302,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,16.0
-707,1746614732,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,24.0
-706,1746620484,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,24.0
-705,1746620911,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,24.0
-704,1746621102,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,24.0
-703,1746629469,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,24.0
-711,1746691779,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,25.0
-710,1746711743,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,25.0
-709,1746711834,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,25.0
-708,1746711846,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,22.0
-714,1746790160,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,26.0
-713,1746798425,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,12.0
-712,1746801988,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,26.0
-717,1746851304,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,27.0
-716,1746851321,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,27.0
-715,1746887473,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,27.0
-722,1746950711,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,28.0
-721,1746952010,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,28.0
-720,1746957665,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,28.0
-719,1746972625,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,29.0
-718,1746973264,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,7.0
-723,1747128432,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,2.0
-732,1747401967,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,6.0
-731,1747404223,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,6.0
-730,1747405055,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,31.0
-729,1747405067,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,31.0
-728,1747406452,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,29.0
-727,1747406500,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,29.0
-726,1747406524,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,32.0
-725,1747406557,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,11.0
-724,1747406567,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,30.0
-740,1747616369,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,33.0
-739,1747641732,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,31.0
-738,1747645949,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,34.0
-737,1747646166,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,34.0
-736,1747648013,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,34.0
-735,1747648199,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,34.0
-734,1747648287,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,34.0
-733,1747649418,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,34.0
-742,1748251445,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,20.0
-741,1748252197,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,,31.0
-746,1748934845,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,นั่นเสียงของใคร,34.0
-745,1748945056,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กลโกงเจ้าจิ้งจอก,31.0
-744,1748964243,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กลโกงเจ้าจิ้งจอก,31.0
-743,1748964246,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กลโกงเจ้าจิ้งจอก,31.0
-748,1749023768,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,พิกกี้ อยากจะบิน,30.0
-747,1749024366,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,พิกกี้ อยากจะบิน,30.0
-750,1749136642,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,นิทานคำกลอน มดจอมขยัน,12.0
-749,1749137902,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ครอบครัวกลมเกลียว,21.0
-755,1749148911,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-754,1749149949,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-753,1749173976,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-752,1749174008,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,นั่นเสียงของใคร,34.0
-751,1749228750,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,พบกันเป็นครั้งแรก,38.0
-757,1749231251,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ขนหางของเจ้านกยูง,35.0
-756,1749231865,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-762,1749370453,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ราชินีแห่งจักรยานเสือภูเขา,8.0
-761,1749383524,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ราชินีแห่งจักรยานเสือภูเขา,8.0
-760,1749386187,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
-759,1749391960,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ขนหางของเจ้านกยูง,35.0
-758,1749391966,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
-764,1749434289,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
-763,1749434398,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
-765,1749449403,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,นั่นเสียงของใคร,34.0
-766,1749565634,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
-767,1749578413,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,นั่นเสียงของใคร,34.0
-768,1749578433,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,นั่นเสียงของใคร,34.0
-769,1749578474,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,นิทานคำกลอน มดจอมขยัน,12.0
-770,1749578504,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,นิทานคำกลอน มดจอมขยัน,12.0
-771,1749578518,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,นิทานคำกลอน มดน้อยในตู้จดหมาย,20.0
-772,1749578586,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ขนหางของเจ้านกยูง,35.0
-773,1749578599,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,ขนหางของเจ้านกยูง,35.0
-774,1749578602,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-775,1749578606,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ครอบครัวกลมเกลียว,21.0
-776,1749578612,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กลโกงเจ้าจิ้งจอก,31.0
-777,1749578622,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,กลโกงเจ้าจิ้งจอก,31.0
-778,1749578670,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,เหล่าแมลงมีสีสันต่าง ๆ ได้อย่างไรนะ,28.0
-779,1749578680,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,เหล่าแมลงมีสีสันต่าง ๆ ได้อย่างไรนะ,28.0
-780,1749578689,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,เวลาเล่นสนุก,22.0
-781,1749578700,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,เวลาเล่นสนุก,22.0
-782,1749578713,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-783,1749578755,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-784,1749578774,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-785,1749578790,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-786,1749578799,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-787,1749578813,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-788,1749624605,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กลโกงเจ้าจิ้งจอก,31.0
-789,1749624621,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,กลโกงเจ้าจิ้งจอก,31.0
-790,1749624675,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ครอบครัวกลมเกลียว,21.0
-791,1749624677,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-792,1749624681,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-793,1749636464,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-794,1749636820,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-795,1749637116,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-796,1749637321,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-797,1749637496,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,นั่นเสียงของใคร,34.0
-798,1749637502,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,นั่นเสียงของใคร,34.0
-799,1749637506,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,มาฟ้อนรำกันเถอะ,26.0
-800,1749637518,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,มาฟ้อนรำกันเถอะ,26.0
-801,1749637837,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,แย่เเล้ว!,41.0
-802,1749725672,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,แย่เเล้ว!,41.0
-875,1749786384,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กลโกงเจ้าจิ้งจอก,31.0
-881,1749870788,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,แย่เเล้ว!,41.0
-882,1749876185,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-883,1749876358,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ขนหางของเจ้านกยูง,35.0
-884,1749876392,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ขนหางของเจ้านกยูง,35.0
-885,1749876432,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ขนหางของเจ้านกยูง,35.0
-886,1749877706,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กลโกงเจ้าจิ้งจอก,31.0
-887,1749878864,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ขนหางของเจ้านกยูง,35.0
-888,1749878945,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,ขนหางของเจ้านกยูง,35.0
-889,1749879032,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,เด็กชายกับกลอง,15.0
-890,1749879037,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กบแสนฉลาด,29.0
-891,1749880021,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,เด็กชายกับกลอง,15.0
-892,1749880119,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,เด็กชายกับกลอง,15.0
-893,1749880140,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กบแสนฉลาด,29.0
-894,1749880532,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กบแสนฉลาด,29.0
-895,1749880557,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ขนหางของเจ้านกยูง,35.0
-896,1749880567,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ตัวอะไรเพิ่งผ่านไปนะ,27.0
-897,1749880575,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ใครคือเพื่อนของเรากันนะ,5.0
-898,1749880596,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,เด็กชายกับกลอง,15.0
-899,1749880600,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,แย่เเล้ว!,41.0
-900,1749880613,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กบแสนฉลาด,29.0
-901,1749880659,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,กบแสนฉลาด,29.0
-902,1749880665,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,เด็กชายกับกลอง,15.0
-905,1749890972,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-906,1749891006,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-907,1749891009,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ครอบครัวกลมเกลียว,21.0
-908,1749891036,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,ครอบครัวกลมเกลียว,21.0
-909,1749891082,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,นิทานคำกลอน มดจอมขยัน,12.0
-910,1749891169,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,นิทานคำกลอน มดจอมขยัน,12.0
-916,1749899907,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ขนหางของเจ้านกยูง,35.0
-917,1749921282,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กาใจดี ไก่ใจดำ,43.0
-918,1749922325,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,กาใจดี ไก่ใจดำ,43.0
-919,1749922336,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,แย่เเล้ว!,41.0
-920,1750000480,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ครอบครัวกลมเกลียว,21.0
-921,1750050167,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กาใจดี ไก่ใจดำ,43.0
-922,1750052453,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กาใจดี ไก่ใจดำ,43.0
-923,1750053519,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กาใจดี ไก่ใจดำ,43.0
-924,1750057109,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ครอบครัวกลมเกลียว,21.0
-925,1750086036,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กาใจดี ไก่ใจดำ,43.0
-926,1750090719,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,แย่เเล้ว!,41.0
-927,1750090810,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กลโกงเจ้าจิ้งจอก,31.0
-928,1750090816,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ครอบครัวกลมเกลียว,21.0
-929,1750091324,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ครอบครัวกลมเกลียว,21.0
-930,1750091517,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,ครอบครัวกลมเกลียว,21.0
-931,1750124756,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-932,1750157188,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ครอบครัวกลมเกลียว,21.0
-933,1750157341,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ขนหางของเจ้านกยูง,35.0
-934,1750157531,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-935,1750176336,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ครอบครัวกลมเกลียว,21.0
-936,1750176556,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ขนหางของเจ้านกยูง,35.0
-937,1750176886,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,งานเทศกาลเสื้อกั๊ก,37.0
-938,1750176894,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ครอบครัวกลมเกลียว,21.0
-939,1750177020,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,พิกกี้ อยากจะบิน,39.0
-940,1750177029,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,มาฟ้อนรำกันเถอะ,26.0
-941,1750177084,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กาใจดี ไก่ใจดำ,43.0
-942,1750177401,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,พบกันเป็นครั้งแรก,38.0
-943,1750177410,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,พบกันเป็นครั้งแรก,38.0
-944,1750177417,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ครอบครัวกลมเกลียว,21.0
-945,1750177481,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ร่างกายของฉัน,2.0
-946,1750178684,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กาใจดี ไก่ใจดำ,43.0
-947,1750210492,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กาใจดี ไก่ใจดำ,43.0
-948,1750210595,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กาใจดี ไก่ใจดำ,43.0
-949,1750210891,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กาใจดี ไก่ใจดำ,43.0
-950,1750230212,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,กาใจดี ไก่ใจดำ,43.0
-951,1750230225,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,นั่นเสียงของใคร,34.0
-952,1750230232,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,นิทานคำกลอน มดจอมขยัน,12.0
-953,1750230244,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ผีเสื้อกับนกเงือก,33.0
-954,1750230250,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,พบกันเป็นครั้งแรก,38.0
-955,1750230257,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
-956,1750230387,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
-957,1750230459,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
-958,1750244830,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,แม่จ๋า แม่อยู่ไหน,44.0
-959,1750247612,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,แม่จ๋า แม่อยู่ไหน,44.0
-960,1750251283,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,แม่จ๋า แม่อยู่ไหน,44.0
-961,1750251648,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ใครคือเพื่อนของเรากันนะ,5.0
-962,1750251656,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,ใครคือเพื่อนของเรากันนะ,5.0
-963,1750251702,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,ใครคือเพื่อนของเรากันนะ,5.0
-964,1750389715,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,จับปลา,48.0
-965,1750389954,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,จับปลา,48.0
-966,1750389960,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,,,จับปลา,48.0
-967,1750389966,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,,,จืดกับเจ้าตึก,45.0
-968,1750420174,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-969,1750420270,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-970,1750420282,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,ครอบครัวกลมเกลียว,21.0
-971,1750429429,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48.0
-972,1750435076,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48.0
-973,1750435078,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48.0
-974,1750435107,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,0.0,1.0,จับปลา,48.0
-975,1750435116,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,มีนากับสิงหาอยากทำขนม,42.0
-976,1750435246,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,,0.0,1.0,มีนากับสิงหาอยากทำขนม,42.0
-1001,1750492716,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1002,1750493000,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1003,1750493096,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[9, 13, 7, 9, 14, 5, 9, 9, 9, 2]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1004,1750497938,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1005,1750498004,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[8, 7, 7, 4, 5, 4, 4, 6, 5, 6, 2]""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1006,1750506608,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1007,1750507386,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[77, 33, 51, 66, 180, 117, 64, 80, 70, 1]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1008,1750563763,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,เด็กชายกับกลอง,15.0
-1009,1750563768,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กบแสนฉลาด,29.0
-1010,1750563858,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กบแสนฉลาด,29.0
-1011,1750563885,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1012,1750564013,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[7, 13, 20, 18, 0, 11, 11, 9, 10, 9]""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1013,1750564304,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1014,1750564371,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[4, 4, 6, 4, 14, 4, 7, 7, 8, 2]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1015,1750572240,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48.0
-1016,1750580080,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48.0
-1017,1750580144,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[13, 11, 10, 7, 8, 3, 4, 0]""}",0.0,1.0,จับปลา,48.0
-1018,1750580152,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1019,1750580174,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,นั่นเสียงของใคร,34.0
-1025,1750609540,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48.0
-1026,1750609544,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1027,1750664422,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48.0
-1028,1750665229,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48.0
-1029,1750667514,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48.0
-1030,1750667620,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1031,1750667744,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48.0
-1032,1750668227,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จืดกับเจ้าตึก,45.0
-1033,1750669527,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1034,1750670623,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,นั่นเสียงของใคร,34.0
-1035,1750671748,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48.0
-1036,1750673585,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,ผีเสื้อกับนกเงือก,33.0
-1037,1750673666,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[0, 4, 14, 11, 10, 9, 15, 11]""}",0.0,1.0,ผีเสื้อกับนกเงือก,33.0
-1038,1750776071,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จิ้งจอกน้อย,52.0
-1039,1750776232,ai.elimu.vitabu.debug,STORYBOOK_COMPLETED,"{""seconds_spent_per_chapter"":""[10, 7, 21, 10, 11, 11, 5, 10, 8, 7, 6, 20]""}",0.0,1.0,จิ้งจอกน้อย,52.0
-1040,1750776245,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,เหล่าแมลงมีสีสันต่าง ๆ ได้อย่างไรนะ,28.0
-1041,1750838919,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1042,1750839545,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1043,1750842441,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1044,1750847991,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จืดกับเจ้าตึก,45.0
-1045,1750853544,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,พบกันเป็นครั้งแรก,38.0
-1046,1750862857,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,เหล่าแมลงมีสีสันต่าง ๆ ได้อย่างไรนะ,28.0
-1047,1750935107,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1048,1750938317,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1049,1750939924,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1050,1750940371,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1051,1750940703,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จิ้งจอกน้อย,52.0
-1052,1750941192,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จืดกับเจ้าตึก,45.0
-1053,1750941593,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,นั่นเสียงของใคร,34.0
-1054,1751035660,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,จับปลา,48.0
-1055,1751036832,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1056,1751039314,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1057,1751082713,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,ผีเสื้อกับนกเงือก,33.0
-1058,1751082753,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1059,1751082797,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1060,1751082943,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1075,1751122542,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1076,1751122565,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1077,1751122583,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1078,1751122740,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,เด็กชายกับกลอง,15.0
-1079,1751122749,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,ใครคือเพื่อนของเรากันนะ,5.0
-1080,1751122756,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,แสงปริศนา,47.0
-1081,1751122802,ai.elimu.vitabu.debug,STORYBOOK_OPENED,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1082,1751168230,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1083,1751168262,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[2, 6, 1, 2, 1, 1, 1, 1, 1, 1]""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1084,1751168288,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1085,1751168374,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
-1086,1751168821,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
-1087,1751168858,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
-1088,1751168890,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
-1089,1751168931,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
-1090,1751168966,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
-1091,1751169043,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
-1092,1751171796,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1093,1751171853,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1094,1751171971,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1095,1751171980,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1096,1751172304,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1097,1751173282,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1098,1751173504,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1099,1751173822,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1100,1751175093,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1101,1751175131,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1102,1751175150,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1103,1751175187,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1104,1751175241,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1105,1751175373,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1106,1751175398,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1107,1751176019,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1108,1751184673,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1109,1751184676,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1110,1751184687,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1111,1751184710,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ปู่กะเจ้าจ๋อ,53.0
-1112,1751184821,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
-1113,1751185105,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
-1114,1751185155,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
-1115,1751185171,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 4]""}",0.0,1.0,จิ้งจอกน้อย,52.0
-1116,1751185174,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
-1117,1751185983,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
-1118,1751186011,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
-1119,1751186166,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,มีนากับสิงหาอยากทำขนม,42.0
-1120,1751186277,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ฮิปโป อยากจะเต้น,32.0
-1121,1751186308,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 2, 1, 2, 1, 0]""}",0.0,1.0,ฮิปโป อยากจะเต้น,32.0
-1122,1751186311,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,เจ้า ตูบ หลง ทาง,1.0
-1123,1751272270,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1124,1751272328,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[5, 9, 8, 6, 7, 5, 5, 3, 3, 2]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1125,1751275241,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48.0
-1126,1751350682,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1127,1751350691,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
-1128,1751350714,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1129,1751350828,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1130,1751350835,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
-1131,1751350895,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1132,1751350901,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
-1133,1751351014,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1134,1751351027,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1135,1751351042,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
-1136,1751351077,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1137,1751351089,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
-1138,1751353018,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1139,1751353046,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[3, 0, 0, 3, 6, 1, 1, 1, 4, 1]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1140,1751353049,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1141,1751353081,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[4, 3, 2, 1, 1, 0, 8, 1, 0, 0, 1]""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1142,1751353083,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1143,1751353094,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 1, 0, 1, 0, 0, 1, 0]""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1144,1751353097,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48.0
-1145,1751353104,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 0, 0, 0, 0, 0]""}",0.0,1.0,จับปลา,48.0
-1146,1751353107,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
-1147,1751420259,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,มีนากับสิงหาอยากทำขนม,42.0
-1148,1751420725,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1149,1751420996,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
-1150,1751422151,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1151,1751422281,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1152,1751422307,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
-1153,1751422532,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
-1154,1751422873,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1155,1751422899,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
-1156,1751423070,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1157,1751423100,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1158,1751423206,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
-1159,1751423234,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
-1160,1751423252,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ขนมถ้วยอร่อยจัง,46.0
-1161,1751423256,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
-1162,1751455931,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผิวสุดพิเศษของกิ้งก่าเปลี่ยนสี,54.0
-1163,1751457695,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผิวสุดพิเศษของกิ้งก่าเปลี่ยนสี,54.0
-1164,1751461616,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผิวสุดพิเศษของกิ้งก่าเปลี่ยนสี,54.0
-1165,1751468115,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48.0
-1166,1751468564,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[39, 38, 83, 47, 134, 34, 42, 25]""}",0.0,1.0,จับปลา,48.0
-1167,1751468898,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
-1168,1751507905,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55.0
-1169,1751508090,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55.0
-1170,1751508133,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55.0
-1171,1751508459,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[153, 118, 8, 4, 5]""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55.0
-1172,1751508709,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ดวงจันทร์ขี้อาย,56.0
-1173,1751509094,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[6, 9, 9, 11, 12, 11, 10, 37, 8, 12, 27, 46, 38, 26, 34, 28, 8]""}",0.0,1.0,ดวงจันทร์ขี้อาย,56.0
-1174,1751554957,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
-1175,1751555187,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
-1176,1751610084,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ตัวอะไรเพิ่งผ่านไปนะ,27.0
-1177,1751610091,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,สาม สอง หนึ่ง แอ็คชั่น!,57.0
-1178,1751618787,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48.0
-1179,1751618794,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[2, 1, 0, 0, 0, 0, 0, 0]""}",0.0,1.0,จับปลา,48.0
-1180,1752417680,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,สวนน้อยๆ ของฉัน,
-1181,1752417681,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[]""}",0.0,1.0,สวนน้อยๆ ของฉัน,
-1182,1752417685,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,สวนน้อยๆ ของฉัน,
-1183,1752417687,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[]""}",0.0,1.0,สวนน้อยๆ ของฉัน,
-1184,1752417689,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,สัตว์ป่าเต้นรำ,
-1185,1752567027,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผืนดิน,
-1186,1752573607,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผืนดิน,
-1187,1752573736,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผืนดิน,
-1188,1752580685,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผืนดิน,
-1189,1752829946,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,
-1190,1752829975,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,
-1191,1752992431,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,
-1192,1753023116,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นกหลากสี,
-1193,1753107662,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นกหลากสี,
-1194,1753264063,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ใครตัวสูง ใครตัวเตี้ย,
-1195,1753268869,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ใครตัวสูง ใครตัวเตี้ย,
-1196,1753269002,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[3, 3, 3, 4, 5, 5, 5, 8, 25, 4, 7, 4, 7, 7, 4, 4, 4, 3, 12, 4]""}",0.0,1.0,ใครตัวสูง ใครตัวเตี้ย,
-1197,1753269023,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นกผู้กล้า,
-1198,1753269092,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นกผู้กล้า,
-1199,1753269630,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,
-1200,1753320914,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กะหล่ำปลีหายไปไหน,
-1201,1753320921,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 1, 1, 0, 0, 0, 0]""}",0.0,1.0,กะหล่ำปลีหายไปไหน,
-1202,1753320925,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กะหล่ำปลีหายไปไหน,
-1204,1753356683,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กะหล่ำปลีหายไปไหน,
-1205,1753358459,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[49, 57, 299, 207, 50, 40, 72, 50, 926]""}",0.0,1.0,กะหล่ำปลีหายไปไหน,
-1206,1753358466,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,
-1207,1753358817,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[5, 5, 14, 13, 18, 89, 53, 62, 64, 1]""}",0.0,1.0,กาใจดี ไก่ใจดำ,
-1208,1753358831,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,
-1209,1753359411,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[65, 45, 37, 30, 27, 51, 117, 19, 44, 90, 1]""}",0.0,1.0,ครอบครัวกลมเกลียว,
-1210,1753359537,ai.elimu.vitabu.debug,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+446,1742289948,ai.elimu.vitabu.debug,,,,,2.0
+445,1742289982,ai.elimu.vitabu.debug,,,,,2.0
+444,1742289984,ai.elimu.vitabu.debug,,,,,1.0
+443,1742290783,ai.elimu.vitabu.debug,,,,,4.0
+442,1742291858,ai.elimu.vitabu.debug,,,,,4.0
+441,1742292343,ai.elimu.vitabu.debug,,,,,6.0
+440,1742293870,ai.elimu.vitabu.debug,,,,,1.0
+439,1742293901,ai.elimu.vitabu.debug,,,,,2.0
+453,1742367375,ai.elimu.vitabu.debug,,,,,5.0
+452,1742369380,ai.elimu.vitabu.debug,,,,,2.0
+451,1742369456,ai.elimu.vitabu.debug,,,,,1.0
+450,1742369467,ai.elimu.vitabu.debug,,,,,2.0
+449,1742369584,ai.elimu.vitabu.debug,,,,,6.0
+448,1742377291,ai.elimu.vitabu.debug,,,,,7.0
+447,1742377374,ai.elimu.vitabu.debug,,,,,7.0
+468,1742406487,ai.elimu.vitabu.debug,,,,,8.0
+467,1742428714,ai.elimu.vitabu.debug,,,,,8.0
+466,1742432790,ai.elimu.vitabu.debug,,,,,8.0
+465,1742432998,ai.elimu.vitabu.debug,,,,,8.0
+464,1742462849,ai.elimu.vitabu.debug,,,,,7.0
+463,1742462886,ai.elimu.vitabu.debug,,,,,2.0
+462,1742462999,ai.elimu.vitabu.debug,,,,,8.0
+461,1742463075,ai.elimu.vitabu.debug,,,,,8.0
+460,1742463231,ai.elimu.vitabu.debug,,,,,6.0
+459,1742468086,ai.elimu.vitabu.debug,,,,,8.0
+458,1742468115,ai.elimu.vitabu.debug,,,,,8.0
+457,1742468438,ai.elimu.vitabu.debug,,,,,8.0
+456,1742468648,ai.elimu.vitabu.debug,,,,,8.0
+455,1742471530,ai.elimu.vitabu.debug,,,,,7.0
+454,1742471691,ai.elimu.vitabu.debug,,,,,7.0
+469,1742656310,ai.elimu.vitabu.debug,,,,,6.0
+470,1742713028,ai.elimu.vitabu.debug,,,,,6.0
+472,1742909136,ai.elimu.vitabu.debug,,,,,5.0
+471,1742909140,ai.elimu.vitabu.debug,,,,,5.0
+481,1742996517,ai.elimu.vitabu.debug,,,,,4.0
+480,1742996839,ai.elimu.vitabu.debug,,,,,5.0
+479,1742996942,ai.elimu.vitabu.debug,,,,,4.0
+478,1742996949,ai.elimu.vitabu.debug,,,,,5.0
+477,1743006080,ai.elimu.vitabu.debug,,,,,5.0
+476,1743006224,ai.elimu.vitabu.debug,,,,,5.0
+475,1743007478,ai.elimu.vitabu.debug,,,,,5.0
+474,1743007721,ai.elimu.vitabu.debug,,,,,7.0
+473,1743007737,ai.elimu.vitabu.debug,,,,,8.0
+494,1743060314,ai.elimu.vitabu.debug,,,,,9.0
+493,1743060397,ai.elimu.vitabu.debug,,,,,9.0
+492,1743062623,ai.elimu.vitabu.debug,,,,,10.0
+491,1743062738,ai.elimu.vitabu.debug,,,,,10.0
+490,1743062999,ai.elimu.vitabu.debug,,,,,10.0
+489,1743063070,ai.elimu.vitabu.debug,,,,,2.0
+488,1743063547,ai.elimu.vitabu.debug,,,,,10.0
+487,1743065745,ai.elimu.vitabu.debug,,,,,10.0
+486,1743071198,ai.elimu.vitabu.debug,,,,,10.0
+485,1743071217,ai.elimu.vitabu.debug,,,,,10.0
+484,1743078271,ai.elimu.vitabu.debug,,,,,10.0
+483,1743078470,ai.elimu.vitabu.debug,,,,,10.0
+482,1743087903,ai.elimu.vitabu.debug,,,,,5.0
+495,1743128908,ai.elimu.vitabu.debug,,,,,10.0
+499,1743235955,ai.elimu.vitabu.debug,,,,,7.0
+498,1743235960,ai.elimu.vitabu.debug,,,,,5.0
+497,1743235965,ai.elimu.vitabu.debug,,,,,7.0
+496,1743236498,ai.elimu.vitabu.debug,,,,,8.0
+503,1743344138,ai.elimu.vitabu.debug,,,,,9.0
+502,1743344169,ai.elimu.vitabu.debug,,,,,10.0
+501,1743344227,ai.elimu.vitabu.debug,,,,,5.0
+500,1743345622,ai.elimu.vitabu.debug,,,,,10.0
+504,1743399780,ai.elimu.vitabu.debug,,,,,10.0
+506,1743526139,ai.elimu.vitabu.debug,,,,,10.0
+505,1743526260,ai.elimu.vitabu.debug,,,,,4.0
+513,1743587284,ai.elimu.vitabu.debug,,,,,7.0
+512,1743587345,ai.elimu.vitabu.debug,,,,,8.0
+511,1743588527,ai.elimu.vitabu.debug,,,,,2.0
+510,1743588541,ai.elimu.vitabu.debug,,,,,2.0
+509,1743596537,ai.elimu.vitabu.debug,,,,,7.0
+508,1743596564,ai.elimu.vitabu.debug,,,,,2.0
+507,1743596972,ai.elimu.vitabu.debug,,,,,2.0
+529,1743661740,ai.elimu.vitabu.debug,,,,,2.0
+528,1743662295,ai.elimu.vitabu.debug,,,,,2.0
+527,1743662519,ai.elimu.vitabu.debug,,,,,2.0
+526,1743663265,ai.elimu.vitabu.debug,,,,,2.0
+525,1743663461,ai.elimu.vitabu.debug,,,,,2.0
+524,1743663743,ai.elimu.vitabu.debug,,,,,2.0
+523,1743665211,ai.elimu.vitabu.debug,,,,,7.0
+522,1743674684,ai.elimu.vitabu.debug,,,,,2.0
+521,1743692711,ai.elimu.vitabu.debug,,,,,10.0
+520,1743695256,ai.elimu.vitabu.debug,,,,,10.0
+519,1743695372,ai.elimu.vitabu.debug,,,,,10.0
+518,1743696184,ai.elimu.vitabu.debug,,,,,9.0
+517,1743697079,ai.elimu.vitabu.debug,,,,,10.0
+516,1743697814,ai.elimu.vitabu.debug,,,,,10.0
+515,1743698925,ai.elimu.vitabu.debug,,,,,3.0
+514,1743698931,ai.elimu.vitabu.debug,,,,,3.0
+539,1743700376,ai.elimu.vitabu.debug,,,,,6.0
+538,1743700416,ai.elimu.vitabu.debug,,,,,6.0
+537,1743700516,ai.elimu.vitabu.debug,,,,,6.0
+536,1743700560,ai.elimu.vitabu.debug,,,,,9.0
+535,1743700593,ai.elimu.vitabu.debug,,,,,4.0
+534,1743733262,ai.elimu.vitabu.debug,,,,,7.0
+533,1743766735,ai.elimu.vitabu.debug,,,,,9.0
+532,1743766755,ai.elimu.vitabu.debug,,,,,1.0
+531,1743770086,ai.elimu.vitabu.debug,,,,,6.0
+530,1743770100,ai.elimu.vitabu.debug,,,,,10.0
+542,1744163426,ai.elimu.vitabu.debug,,,,,2.0
+541,1744164447,ai.elimu.vitabu.debug,,,,,2.0
+540,1744164469,ai.elimu.vitabu.debug,,,,,2.0
+547,1744257023,ai.elimu.vitabu.debug,,,,,5.0
+546,1744279075,ai.elimu.vitabu.debug,,,,,2.0
+545,1744280005,ai.elimu.vitabu.debug,,,,,2.0
+544,1744280058,ai.elimu.vitabu.debug,,,,,2.0
+543,1744281829,ai.elimu.vitabu.debug,,,,,2.0
+549,1744364120,ai.elimu.vitabu.debug,,,,,2.0
+548,1744386658,ai.elimu.vitabu.debug,,,,,5.0
+550,1744423744,ai.elimu.vitabu.debug,,,,,2.0
+565,1744527608,ai.elimu.vitabu.debug,,,,,7.0
+564,1744527611,ai.elimu.vitabu.debug,,,,,8.0
+563,1744527615,ai.elimu.vitabu.debug,,,,,2.0
+562,1744527618,ai.elimu.vitabu.debug,,,,,8.0
+561,1744527622,ai.elimu.vitabu.debug,,,,,2.0
+560,1744527628,ai.elimu.vitabu.debug,,,,,9.0
+559,1744527633,ai.elimu.vitabu.debug,,,,,2.0
+558,1744527636,ai.elimu.vitabu.debug,,,,,9.0
+557,1744527639,ai.elimu.vitabu.debug,,,,,1.0
+556,1744527642,ai.elimu.vitabu.debug,,,,,6.0
+555,1744544981,ai.elimu.vitabu.debug,,,,,7.0
+554,1744545002,ai.elimu.vitabu.debug,,,,,7.0
+553,1744545004,ai.elimu.vitabu.debug,,,,,7.0
+552,1744545010,ai.elimu.vitabu.debug,,,,,8.0
+551,1744545015,ai.elimu.vitabu.debug,,,,,7.0
+567,1744715407,ai.elimu.vitabu.debug,,,,,7.0
+566,1744715418,ai.elimu.vitabu.debug,,,,,8.0
+599,1744790789,ai.elimu.vitabu.debug,,,,,5.0
+598,1744790862,ai.elimu.vitabu.debug,,,,,5.0
+597,1744791180,ai.elimu.vitabu.debug,,,,,5.0
+596,1744791600,ai.elimu.vitabu.debug,,,,,5.0
+595,1744791766,ai.elimu.vitabu.debug,,,,,5.0
+594,1744791803,ai.elimu.vitabu.debug,,,,,5.0
+593,1744791846,ai.elimu.vitabu.debug,,,,,5.0
+592,1744791870,ai.elimu.vitabu.debug,,,,,5.0
+591,1744791903,ai.elimu.vitabu.debug,,,,,5.0
+590,1744792018,ai.elimu.vitabu.debug,,,,,5.0
+589,1744792045,ai.elimu.vitabu.debug,,,,,5.0
+588,1744792065,ai.elimu.vitabu.debug,,,,,5.0
+587,1744792174,ai.elimu.vitabu.debug,,,,,5.0
+586,1744792186,ai.elimu.vitabu.debug,,,,,5.0
+585,1744792199,ai.elimu.vitabu.debug,,,,,5.0
+584,1744792315,ai.elimu.vitabu.debug,,,,,5.0
+583,1744792349,ai.elimu.vitabu.debug,,,,,5.0
+582,1744792420,ai.elimu.vitabu.debug,,,,,5.0
+581,1744792452,ai.elimu.vitabu.debug,,,,,5.0
+580,1744792510,ai.elimu.vitabu.debug,,,,,5.0
+579,1744792524,ai.elimu.vitabu.debug,,,,,5.0
+578,1744792544,ai.elimu.vitabu.debug,,,,,5.0
+577,1744792615,ai.elimu.vitabu.debug,,,,,5.0
+576,1744792661,ai.elimu.vitabu.debug,,,,,5.0
+575,1744792676,ai.elimu.vitabu.debug,,,,,5.0
+574,1744792688,ai.elimu.vitabu.debug,,,,,5.0
+573,1744792843,ai.elimu.vitabu.debug,,,,,5.0
+572,1744792966,ai.elimu.vitabu.debug,,,,,7.0
+571,1744793099,ai.elimu.vitabu.debug,,,,,8.0
+570,1744796572,ai.elimu.vitabu.debug,,,,,7.0
+569,1744821728,ai.elimu.vitabu.debug,,,,,7.0
+568,1744821812,ai.elimu.vitabu.debug,,,,,8.0
+615,1744824958,ai.elimu.vitabu.debug,,,,,2.0
+614,1744825507,ai.elimu.vitabu.debug,,,,,7.0
+613,1744825514,ai.elimu.vitabu.debug,,,,,8.0
+612,1744825558,ai.elimu.vitabu.debug,,,,,5.0
+611,1744825593,ai.elimu.vitabu.debug,,,,,4.0
+610,1744873364,ai.elimu.vitabu.debug,,,,,2.0
+609,1744874640,ai.elimu.vitabu.debug,,,,,7.0
+608,1744874724,ai.elimu.vitabu.debug,,,,,10.0
+607,1744874975,ai.elimu.vitabu.debug,,,,,10.0
+606,1744875240,ai.elimu.vitabu.debug,,,,,10.0
+605,1744875797,ai.elimu.vitabu.debug,,,,,10.0
+604,1744877723,ai.elimu.vitabu.debug,,,,,7.0
+603,1744877763,ai.elimu.vitabu.debug,,,,,7.0
+602,1744877798,ai.elimu.vitabu.debug,,,,,8.0
+601,1744877848,ai.elimu.vitabu.debug,,,,,2.0
+600,1744881960,ai.elimu.vitabu.debug,,,,,7.0
+618,1744955833,ai.elimu.vitabu.debug,,,,,10.0
+617,1744955916,ai.elimu.vitabu.debug,,,,,10.0
+616,1744956000,ai.elimu.vitabu.debug,,,,,4.0
+647,1745036888,ai.elimu.vitabu.debug,,,,,12.0
+646,1745036902,ai.elimu.vitabu.debug,,,,,11.0
+645,1745037396,ai.elimu.vitabu.debug,,,,,12.0
+644,1745037408,ai.elimu.vitabu.debug,,,,,11.0
+643,1745037429,ai.elimu.vitabu.debug,,,,,11.0
+642,1745037584,ai.elimu.vitabu.debug,,,,,12.0
+641,1745044502,ai.elimu.vitabu.debug,,,,,12.0
+640,1745044516,ai.elimu.vitabu.debug,,,,,13.0
+639,1745044898,ai.elimu.vitabu.debug,,,,,12.0
+638,1745045517,ai.elimu.vitabu.debug,,,,,12.0
+637,1745045671,ai.elimu.vitabu.debug,,,,,13.0
+636,1745045787,ai.elimu.vitabu.debug,,,,,11.0
+635,1745046045,ai.elimu.vitabu.debug,,,,,2.0
+634,1745046470,ai.elimu.vitabu.debug,,,,,12.0
+633,1745046523,ai.elimu.vitabu.debug,,,,,12.0
+632,1745046585,ai.elimu.vitabu.debug,,,,,8.0
+631,1745046961,ai.elimu.vitabu.debug,,,,,7.0
+630,1745047031,ai.elimu.vitabu.debug,,,,,7.0
+629,1745056847,ai.elimu.vitabu.debug,,,,,12.0
+628,1745056863,ai.elimu.vitabu.debug,,,,,12.0
+627,1745056930,ai.elimu.vitabu.debug,,,,,12.0
+626,1745067318,ai.elimu.vitabu.debug,,,,,7.0
+625,1745067604,ai.elimu.vitabu.debug,,,,,7.0
+624,1745067640,ai.elimu.vitabu.debug,,,,,12.0
+623,1745067768,ai.elimu.vitabu.debug,,,,,13.0
+622,1745067921,ai.elimu.vitabu.debug,,,,,8.0
+621,1745069373,ai.elimu.vitabu.debug,,,,,7.0
+620,1745069410,ai.elimu.vitabu.debug,,,,,7.0
+619,1745069636,ai.elimu.vitabu.debug,,,,,7.0
+652,1745152867,ai.elimu.vitabu.debug,,,,,12.0
+651,1745160469,ai.elimu.vitabu.debug,,,,,12.0
+650,1745160476,ai.elimu.vitabu.debug,,,,,12.0
+649,1745160891,ai.elimu.vitabu.debug,,,,,10.0
+648,1745161216,ai.elimu.vitabu.debug,,,,,12.0
+663,1745368461,ai.elimu.vitabu.debug,,,,,13.0
+662,1745368580,ai.elimu.vitabu.debug,,,,,12.0
+661,1745397253,ai.elimu.vitabu.debug,,,,,16.0
+660,1745397440,ai.elimu.vitabu.debug,,,,,16.0
+659,1745397495,ai.elimu.vitabu.debug,,,,,15.0
+658,1745397519,ai.elimu.vitabu.debug,,,,,14.0
+657,1745398311,ai.elimu.vitabu.debug,,,,,16.0
+656,1745398379,ai.elimu.vitabu.debug,,,,,16.0
+655,1745398428,ai.elimu.vitabu.debug,,,,,16.0
+654,1745398659,ai.elimu.vitabu.debug,,,,,14.0
+653,1745402588,ai.elimu.vitabu.debug,,,,,10.0
+667,1745461943,ai.elimu.vitabu.debug,,,,,16.0
+666,1745471062,ai.elimu.vitabu.debug,,,,,16.0
+665,1745485491,ai.elimu.vitabu.debug,,,,,12.0
+664,1745485514,ai.elimu.vitabu.debug,,,,,16.0
+668,1745830143,ai.elimu.vitabu.debug,,,,,12.0
+671,1745915033,ai.elimu.vitabu.debug,,,,,7.0
+670,1745922738,ai.elimu.vitabu.debug,,,,,19.0
+669,1745935578,ai.elimu.vitabu.debug,,,,,7.0
+674,1746028424,ai.elimu.vitabu.debug,,,,,13.0
+673,1746028444,ai.elimu.vitabu.debug,,,,,8.0
+672,1746029115,ai.elimu.vitabu.debug,,,,,7.0
+690,1746066403,ai.elimu.vitabu.debug,,,,,19.0
+689,1746066438,ai.elimu.vitabu.debug,,,,,19.0
+688,1746066495,ai.elimu.vitabu.debug,,,,,4.0
+687,1746100238,ai.elimu.vitabu.debug,,,,,7.0
+686,1746106779,ai.elimu.vitabu.debug,,,,,7.0
+685,1746107026,ai.elimu.vitabu.debug,,,,,20.0
+684,1746107160,ai.elimu.vitabu.debug,,,,,20.0
+683,1746107673,ai.elimu.vitabu.debug,,,,,13.0
+682,1746107732,ai.elimu.vitabu.debug,,,,,13.0
+681,1746107779,ai.elimu.vitabu.debug,,,,,8.0
+680,1746107817,ai.elimu.vitabu.debug,,,,,10.0
+679,1746108822,ai.elimu.vitabu.debug,,,,,10.0
+678,1746110249,ai.elimu.vitabu.debug,,,,,7.0
+677,1746110280,ai.elimu.vitabu.debug,,,,,12.0
+676,1746110369,ai.elimu.vitabu.debug,,,,,10.0
+675,1746110484,ai.elimu.vitabu.debug,,,,,10.0
+692,1746176944,ai.elimu.vitabu.debug,,,,,21.0
+691,1746177180,ai.elimu.vitabu.debug,,,,,21.0
+696,1746283473,ai.elimu.vitabu.debug,,,,,17.0
+695,1746283483,ai.elimu.vitabu.debug,,,,,22.0
+694,1746283701,ai.elimu.vitabu.debug,,,,,22.0
+693,1746290308,ai.elimu.vitabu.debug,,,,,21.0
+699,1746358934,ai.elimu.vitabu.debug,,,,,21.0
+698,1746358947,ai.elimu.vitabu.debug,,,,,23.0
+697,1746358983,ai.elimu.vitabu.debug,,,,,21.0
+702,1746537236,ai.elimu.vitabu.debug,,,,,22.0
+701,1746537265,ai.elimu.vitabu.debug,,,,,16.0
+700,1746537302,ai.elimu.vitabu.debug,,,,,16.0
+707,1746614732,ai.elimu.vitabu.debug,,,,,24.0
+706,1746620484,ai.elimu.vitabu.debug,,,,,24.0
+705,1746620911,ai.elimu.vitabu.debug,,,,,24.0
+704,1746621102,ai.elimu.vitabu.debug,,,,,24.0
+703,1746629469,ai.elimu.vitabu.debug,,,,,24.0
+711,1746691779,ai.elimu.vitabu.debug,,,,,25.0
+710,1746711743,ai.elimu.vitabu.debug,,,,,25.0
+709,1746711834,ai.elimu.vitabu.debug,,,,,25.0
+708,1746711846,ai.elimu.vitabu.debug,,,,,22.0
+714,1746790160,ai.elimu.vitabu.debug,,,,,26.0
+713,1746798425,ai.elimu.vitabu.debug,,,,,12.0
+712,1746801988,ai.elimu.vitabu.debug,,,,,26.0
+717,1746851304,ai.elimu.vitabu.debug,,,,,27.0
+716,1746851321,ai.elimu.vitabu.debug,,,,,27.0
+715,1746887473,ai.elimu.vitabu.debug,,,,,27.0
+722,1746950711,ai.elimu.vitabu.debug,,,,,28.0
+721,1746952010,ai.elimu.vitabu.debug,,,,,28.0
+720,1746957665,ai.elimu.vitabu.debug,,,,,28.0
+719,1746972625,ai.elimu.vitabu.debug,,,,,29.0
+718,1746973264,ai.elimu.vitabu.debug,,,,,7.0
+723,1747128432,ai.elimu.vitabu.debug,,,,,2.0
+732,1747401967,ai.elimu.vitabu.debug,,,,,6.0
+731,1747404223,ai.elimu.vitabu.debug,,,,,6.0
+730,1747405055,ai.elimu.vitabu.debug,,,,,31.0
+729,1747405067,ai.elimu.vitabu.debug,,,,,31.0
+728,1747406452,ai.elimu.vitabu.debug,,,,,29.0
+727,1747406500,ai.elimu.vitabu.debug,,,,,29.0
+726,1747406524,ai.elimu.vitabu.debug,,,,,32.0
+725,1747406557,ai.elimu.vitabu.debug,,,,,11.0
+724,1747406567,ai.elimu.vitabu.debug,,,,,30.0
+740,1747616369,ai.elimu.vitabu.debug,,,,,33.0
+739,1747641732,ai.elimu.vitabu.debug,,,,,31.0
+738,1747645949,ai.elimu.vitabu.debug,,,,,34.0
+737,1747646166,ai.elimu.vitabu.debug,,,,,34.0
+736,1747648013,ai.elimu.vitabu.debug,,,,,34.0
+735,1747648199,ai.elimu.vitabu.debug,,,,,34.0
+734,1747648287,ai.elimu.vitabu.debug,,,,,34.0
+733,1747649418,ai.elimu.vitabu.debug,,,,,34.0
+742,1748251445,ai.elimu.vitabu.debug,,,,,20.0
+741,1748252197,ai.elimu.vitabu.debug,,,,,31.0
+746,1748934845,ai.elimu.vitabu.debug,,,,นั่นเสียงของใคร,34.0
+745,1748945056,ai.elimu.vitabu.debug,,,,กลโกงเจ้าจิ้งจอก,31.0
+744,1748964243,ai.elimu.vitabu.debug,,,,กลโกงเจ้าจิ้งจอก,31.0
+743,1748964246,ai.elimu.vitabu.debug,,,,กลโกงเจ้าจิ้งจอก,31.0
+748,1749023768,ai.elimu.vitabu.debug,,,,พิกกี้ อยากจะบิน,30.0
+747,1749024366,ai.elimu.vitabu.debug,,,,พิกกี้ อยากจะบิน,30.0
+750,1749136642,ai.elimu.vitabu.debug,,,,นิทานคำกลอน มดจอมขยัน,12.0
+749,1749137902,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+755,1749148911,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+754,1749149949,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+753,1749173976,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+752,1749174008,ai.elimu.vitabu.debug,,,,นั่นเสียงของใคร,34.0
+751,1749228750,ai.elimu.vitabu.debug,,,,พบกันเป็นครั้งแรก,38.0
+757,1749231251,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+756,1749231865,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+762,1749370453,ai.elimu.vitabu.debug,,,,ราชินีแห่งจักรยานเสือภูเขา,8.0
+761,1749383524,ai.elimu.vitabu.debug,,,,ราชินีแห่งจักรยานเสือภูเขา,8.0
+760,1749386187,ai.elimu.vitabu.debug,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
+759,1749391960,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+758,1749391966,ai.elimu.vitabu.debug,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
+764,1749434289,ai.elimu.vitabu.debug,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
+763,1749434398,ai.elimu.vitabu.debug,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
+765,1749449403,ai.elimu.vitabu.debug,,,,นั่นเสียงของใคร,34.0
+766,1749565634,ai.elimu.vitabu.debug,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
+767,1749578413,ai.elimu.vitabu.debug,,,,นั่นเสียงของใคร,34.0
+768,1749578433,ai.elimu.vitabu.debug,,,,นั่นเสียงของใคร,34.0
+769,1749578474,ai.elimu.vitabu.debug,,,,นิทานคำกลอน มดจอมขยัน,12.0
+770,1749578504,ai.elimu.vitabu.debug,,,,นิทานคำกลอน มดจอมขยัน,12.0
+771,1749578518,ai.elimu.vitabu.debug,,,,นิทานคำกลอน มดน้อยในตู้จดหมาย,20.0
+772,1749578586,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+773,1749578599,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+774,1749578602,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+775,1749578606,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+776,1749578612,ai.elimu.vitabu.debug,,,,กลโกงเจ้าจิ้งจอก,31.0
+777,1749578622,ai.elimu.vitabu.debug,,,,กลโกงเจ้าจิ้งจอก,31.0
+778,1749578670,ai.elimu.vitabu.debug,,,,เหล่าแมลงมีสีสันต่าง ๆ ได้อย่างไรนะ,28.0
+779,1749578680,ai.elimu.vitabu.debug,,,,เหล่าแมลงมีสีสันต่าง ๆ ได้อย่างไรนะ,28.0
+780,1749578689,ai.elimu.vitabu.debug,,,,เวลาเล่นสนุก,22.0
+781,1749578700,ai.elimu.vitabu.debug,,,,เวลาเล่นสนุก,22.0
+782,1749578713,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+783,1749578755,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+784,1749578774,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+785,1749578790,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+786,1749578799,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+787,1749578813,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+788,1749624605,ai.elimu.vitabu.debug,,,,กลโกงเจ้าจิ้งจอก,31.0
+789,1749624621,ai.elimu.vitabu.debug,,,,กลโกงเจ้าจิ้งจอก,31.0
+790,1749624675,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+791,1749624677,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+792,1749624681,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+793,1749636464,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+794,1749636820,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+795,1749637116,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+796,1749637321,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+797,1749637496,ai.elimu.vitabu.debug,,,,นั่นเสียงของใคร,34.0
+798,1749637502,ai.elimu.vitabu.debug,,,,นั่นเสียงของใคร,34.0
+799,1749637506,ai.elimu.vitabu.debug,,,,มาฟ้อนรำกันเถอะ,26.0
+800,1749637518,ai.elimu.vitabu.debug,,,,มาฟ้อนรำกันเถอะ,26.0
+801,1749637837,ai.elimu.vitabu.debug,,,,แย่เเล้ว!,41.0
+802,1749725672,ai.elimu.vitabu.debug,,,,แย่เเล้ว!,41.0
+875,1749786384,ai.elimu.vitabu.debug,,,,กลโกงเจ้าจิ้งจอก,31.0
+881,1749870788,ai.elimu.vitabu.debug,,,,แย่เเล้ว!,41.0
+882,1749876185,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+883,1749876358,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+884,1749876392,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+885,1749876432,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+886,1749877706,ai.elimu.vitabu.debug,,,,กลโกงเจ้าจิ้งจอก,31.0
+887,1749878864,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+888,1749878945,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+889,1749879032,ai.elimu.vitabu.debug,,,,เด็กชายกับกลอง,15.0
+890,1749879037,ai.elimu.vitabu.debug,,,,กบแสนฉลาด,29.0
+891,1749880021,ai.elimu.vitabu.debug,,,,เด็กชายกับกลอง,15.0
+892,1749880119,ai.elimu.vitabu.debug,,,,เด็กชายกับกลอง,15.0
+893,1749880140,ai.elimu.vitabu.debug,,,,กบแสนฉลาด,29.0
+894,1749880532,ai.elimu.vitabu.debug,,,,กบแสนฉลาด,29.0
+895,1749880557,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+896,1749880567,ai.elimu.vitabu.debug,,,,ตัวอะไรเพิ่งผ่านไปนะ,27.0
+897,1749880575,ai.elimu.vitabu.debug,,,,ใครคือเพื่อนของเรากันนะ,5.0
+898,1749880596,ai.elimu.vitabu.debug,,,,เด็กชายกับกลอง,15.0
+899,1749880600,ai.elimu.vitabu.debug,,,,แย่เเล้ว!,41.0
+900,1749880613,ai.elimu.vitabu.debug,,,,กบแสนฉลาด,29.0
+901,1749880659,ai.elimu.vitabu.debug,,,,กบแสนฉลาด,29.0
+902,1749880665,ai.elimu.vitabu.debug,,,,เด็กชายกับกลอง,15.0
+905,1749890972,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+906,1749891006,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+907,1749891009,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+908,1749891036,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+909,1749891082,ai.elimu.vitabu.debug,,,,นิทานคำกลอน มดจอมขยัน,12.0
+910,1749891169,ai.elimu.vitabu.debug,,,,นิทานคำกลอน มดจอมขยัน,12.0
+916,1749899907,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+917,1749921282,ai.elimu.vitabu.debug,,,,กาใจดี ไก่ใจดำ,43.0
+918,1749922325,ai.elimu.vitabu.debug,,,,กาใจดี ไก่ใจดำ,43.0
+919,1749922336,ai.elimu.vitabu.debug,,,,แย่เเล้ว!,41.0
+920,1750000480,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+921,1750050167,ai.elimu.vitabu.debug,,,,กาใจดี ไก่ใจดำ,43.0
+922,1750052453,ai.elimu.vitabu.debug,,,,กาใจดี ไก่ใจดำ,43.0
+923,1750053519,ai.elimu.vitabu.debug,,,,กาใจดี ไก่ใจดำ,43.0
+924,1750057109,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+925,1750086036,ai.elimu.vitabu.debug,,,,กาใจดี ไก่ใจดำ,43.0
+926,1750090719,ai.elimu.vitabu.debug,,,,แย่เเล้ว!,41.0
+927,1750090810,ai.elimu.vitabu.debug,,,,กลโกงเจ้าจิ้งจอก,31.0
+928,1750090816,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+929,1750091324,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+930,1750091517,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+931,1750124756,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+932,1750157188,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+933,1750157341,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+934,1750157531,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+935,1750176336,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+936,1750176556,ai.elimu.vitabu.debug,,,,ขนหางของเจ้านกยูง,35.0
+937,1750176886,ai.elimu.vitabu.debug,,,,งานเทศกาลเสื้อกั๊ก,37.0
+938,1750176894,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+939,1750177020,ai.elimu.vitabu.debug,,,,พิกกี้ อยากจะบิน,39.0
+940,1750177029,ai.elimu.vitabu.debug,,,,มาฟ้อนรำกันเถอะ,26.0
+941,1750177084,ai.elimu.vitabu.debug,,,,กาใจดี ไก่ใจดำ,43.0
+942,1750177401,ai.elimu.vitabu.debug,,,,พบกันเป็นครั้งแรก,38.0
+943,1750177410,ai.elimu.vitabu.debug,,,,พบกันเป็นครั้งแรก,38.0
+944,1750177417,ai.elimu.vitabu.debug,,,,ครอบครัวกลมเกลียว,21.0
+945,1750177481,ai.elimu.vitabu.debug,,,,ร่างกายของฉัน,2.0
+946,1750178684,ai.elimu.vitabu.debug,,,,กาใจดี ไก่ใจดำ,43.0
+947,1750210492,ai.elimu.vitabu.debug,,,,กาใจดี ไก่ใจดำ,43.0
+948,1750210595,ai.elimu.vitabu.debug,,,,กาใจดี ไก่ใจดำ,43.0
+949,1750210891,ai.elimu.vitabu.debug,,,,กาใจดี ไก่ใจดำ,43.0
+950,1750230212,ai.elimu.vitabu.debug,,,,กาใจดี ไก่ใจดำ,43.0
+951,1750230225,ai.elimu.vitabu.debug,,,,นั่นเสียงของใคร,34.0
+952,1750230232,ai.elimu.vitabu.debug,,,,นิทานคำกลอน มดจอมขยัน,12.0
+953,1750230244,ai.elimu.vitabu.debug,,,,ผีเสื้อกับนกเงือก,33.0
+954,1750230250,ai.elimu.vitabu.debug,,,,พบกันเป็นครั้งแรก,38.0
+955,1750230257,ai.elimu.vitabu.debug,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
+956,1750230387,ai.elimu.vitabu.debug,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
+957,1750230459,ai.elimu.vitabu.debug,,,,ราชินีแห่งจักรยานเสือภูเขา,40.0
+958,1750244830,ai.elimu.vitabu.debug,,,,แม่จ๋า แม่อยู่ไหน,44.0
+959,1750247612,ai.elimu.vitabu.debug,,,,แม่จ๋า แม่อยู่ไหน,44.0
+960,1750251283,ai.elimu.vitabu.debug,,,,แม่จ๋า แม่อยู่ไหน,44.0
+961,1750251648,ai.elimu.vitabu.debug,,,,ใครคือเพื่อนของเรากันนะ,5.0
+962,1750251656,ai.elimu.vitabu.debug,,,,ใครคือเพื่อนของเรากันนะ,5.0
+963,1750251702,ai.elimu.vitabu.debug,,,,ใครคือเพื่อนของเรากันนะ,5.0
+964,1750389715,ai.elimu.vitabu.debug,,,,จับปลา,48.0
+965,1750389954,ai.elimu.vitabu.debug,,,,จับปลา,48.0
+966,1750389960,ai.elimu.vitabu.debug,,,,จับปลา,48.0
+967,1750389966,ai.elimu.vitabu.debug,,,,จืดกับเจ้าตึก,45.0
+968,1750420174,ai.elimu.vitabu.debug,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+969,1750420270,ai.elimu.vitabu.debug,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+970,1750420282,ai.elimu.vitabu.debug,,0.0,1.0,ครอบครัวกลมเกลียว,21.0
+971,1750429429,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+972,1750435076,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+973,1750435078,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+974,1750435107,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+975,1750435116,ai.elimu.vitabu.debug,,0.0,1.0,มีนากับสิงหาอยากทำขนม,42.0
+976,1750435246,ai.elimu.vitabu.debug,,0.0,1.0,มีนากับสิงหาอยากทำขนม,42.0
+1001,1750492716,ai.elimu.vitabu.debug,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1002,1750493000,ai.elimu.vitabu.debug,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1003,1750493096,ai.elimu.vitabu.debug,"{""seconds_spent_per_chapter"":""[9, 13, 7, 9, 14, 5, 9, 9, 9, 2]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1004,1750497938,ai.elimu.vitabu.debug,,0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1005,1750498004,ai.elimu.vitabu.debug,"{""seconds_spent_per_chapter"":""[8, 7, 7, 4, 5, 4, 4, 6, 5, 6, 2]""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1006,1750506608,ai.elimu.vitabu.debug,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1007,1750507386,ai.elimu.vitabu.debug,"{""seconds_spent_per_chapter"":""[77, 33, 51, 66, 180, 117, 64, 80, 70, 1]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1008,1750563763,ai.elimu.vitabu.debug,,0.0,1.0,เด็กชายกับกลอง,15.0
+1009,1750563768,ai.elimu.vitabu.debug,,0.0,1.0,กบแสนฉลาด,29.0
+1010,1750563858,ai.elimu.vitabu.debug,,0.0,1.0,กบแสนฉลาด,29.0
+1011,1750563885,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1012,1750564013,ai.elimu.vitabu.debug,"{""seconds_spent_per_chapter"":""[7, 13, 20, 18, 0, 11, 11, 9, 10, 9]""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1013,1750564304,ai.elimu.vitabu.debug,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1014,1750564371,ai.elimu.vitabu.debug,"{""seconds_spent_per_chapter"":""[4, 4, 6, 4, 14, 4, 7, 7, 8, 2]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1015,1750572240,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+1016,1750580080,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+1017,1750580144,ai.elimu.vitabu.debug,"{""seconds_spent_per_chapter"":""[13, 11, 10, 7, 8, 3, 4, 0]""}",0.0,1.0,จับปลา,48.0
+1018,1750580152,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1019,1750580174,ai.elimu.vitabu.debug,,0.0,1.0,นั่นเสียงของใคร,34.0
+1025,1750609540,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+1026,1750609544,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1027,1750664422,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+1028,1750665229,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+1029,1750667514,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+1030,1750667620,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1031,1750667744,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+1032,1750668227,ai.elimu.vitabu.debug,,0.0,1.0,จืดกับเจ้าตึก,45.0
+1033,1750669527,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1034,1750670623,ai.elimu.vitabu.debug,,0.0,1.0,นั่นเสียงของใคร,34.0
+1035,1750671748,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+1036,1750673585,ai.elimu.vitabu.debug,,0.0,1.0,ผีเสื้อกับนกเงือก,33.0
+1037,1750673666,ai.elimu.vitabu.debug,"{""seconds_spent_per_chapter"":""[0, 4, 14, 11, 10, 9, 15, 11]""}",0.0,1.0,ผีเสื้อกับนกเงือก,33.0
+1038,1750776071,ai.elimu.vitabu.debug,,0.0,1.0,จิ้งจอกน้อย,52.0
+1039,1750776232,ai.elimu.vitabu.debug,"{""seconds_spent_per_chapter"":""[10, 7, 21, 10, 11, 11, 5, 10, 8, 7, 6, 20]""}",0.0,1.0,จิ้งจอกน้อย,52.0
+1040,1750776245,ai.elimu.vitabu.debug,,0.0,1.0,เหล่าแมลงมีสีสันต่าง ๆ ได้อย่างไรนะ,28.0
+1041,1750838919,ai.elimu.vitabu.debug,,0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1042,1750839545,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1043,1750842441,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1044,1750847991,ai.elimu.vitabu.debug,,0.0,1.0,จืดกับเจ้าตึก,45.0
+1045,1750853544,ai.elimu.vitabu.debug,,0.0,1.0,พบกันเป็นครั้งแรก,38.0
+1046,1750862857,ai.elimu.vitabu.debug,,0.0,1.0,เหล่าแมลงมีสีสันต่าง ๆ ได้อย่างไรนะ,28.0
+1047,1750935107,ai.elimu.vitabu.debug,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1048,1750938317,ai.elimu.vitabu.debug,,0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1049,1750939924,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1050,1750940371,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1051,1750940703,ai.elimu.vitabu.debug,,0.0,1.0,จิ้งจอกน้อย,52.0
+1052,1750941192,ai.elimu.vitabu.debug,,0.0,1.0,จืดกับเจ้าตึก,45.0
+1053,1750941593,ai.elimu.vitabu.debug,,0.0,1.0,นั่นเสียงของใคร,34.0
+1054,1751035660,ai.elimu.vitabu.debug,,0.0,1.0,จับปลา,48.0
+1055,1751036832,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1056,1751039314,ai.elimu.vitabu.debug,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1057,1751082713,ai.elimu.vitabu.debug,,0.0,1.0,ผีเสื้อกับนกเงือก,33.0
+1058,1751082753,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1059,1751082797,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1060,1751082943,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1075,1751122542,ai.elimu.vitabu.debug,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1076,1751122565,ai.elimu.vitabu.debug,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1077,1751122583,ai.elimu.vitabu.debug,,0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1078,1751122740,ai.elimu.vitabu.debug,,0.0,1.0,เด็กชายกับกลอง,15.0
+1079,1751122749,ai.elimu.vitabu.debug,,0.0,1.0,ใครคือเพื่อนของเรากันนะ,5.0
+1080,1751122756,ai.elimu.vitabu.debug,,0.0,1.0,แสงปริศนา,47.0
+1081,1751122802,ai.elimu.vitabu.debug,,0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1082,1751168230,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1083,1751168262,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[2, 6, 1, 2, 1, 1, 1, 1, 1, 1]""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1084,1751168288,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1085,1751168374,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
+1086,1751168821,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
+1087,1751168858,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
+1088,1751168890,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
+1089,1751168931,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
+1090,1751168966,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
+1091,1751169043,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ราชินีแห่งจักรยานเสือภูเขา,40.0
+1092,1751171796,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1093,1751171853,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1094,1751171971,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1095,1751171980,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1096,1751172304,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1097,1751173282,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1098,1751173504,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1099,1751173822,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1100,1751175093,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1101,1751175131,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1102,1751175150,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1103,1751175187,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1104,1751175241,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1105,1751175373,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1106,1751175398,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1107,1751176019,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1108,1751184673,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1109,1751184676,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1110,1751184687,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1111,1751184710,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ปู่กะเจ้าจ๋อ,53.0
+1112,1751184821,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
+1113,1751185105,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
+1114,1751185155,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
+1115,1751185171,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 4]""}",0.0,1.0,จิ้งจอกน้อย,52.0
+1116,1751185174,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
+1117,1751185983,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
+1118,1751186011,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
+1119,1751186166,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,มีนากับสิงหาอยากทำขนม,42.0
+1120,1751186277,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ฮิปโป อยากจะเต้น,32.0
+1121,1751186308,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 2, 1, 2, 1, 0]""}",0.0,1.0,ฮิปโป อยากจะเต้น,32.0
+1122,1751186311,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,เจ้า ตูบ หลง ทาง,1.0
+1123,1751272270,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1124,1751272328,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[5, 9, 8, 6, 7, 5, 5, 3, 3, 2]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1125,1751275241,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48.0
+1126,1751350682,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1127,1751350691,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
+1128,1751350714,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1129,1751350828,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1130,1751350835,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
+1131,1751350895,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1132,1751350901,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
+1133,1751351014,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1134,1751351027,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1135,1751351042,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
+1136,1751351077,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1137,1751351089,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
+1138,1751353018,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1139,1751353046,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[3, 0, 0, 3, 6, 1, 1, 1, 4, 1]""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1140,1751353049,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1141,1751353081,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[4, 3, 2, 1, 1, 0, 8, 1, 0, 0, 1]""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1142,1751353083,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1143,1751353094,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 1, 0, 1, 0, 0, 1, 0]""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1144,1751353097,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48.0
+1145,1751353104,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 0, 0, 0, 0, 0]""}",0.0,1.0,จับปลา,48.0
+1146,1751353107,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
+1147,1751420259,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,มีนากับสิงหาอยากทำขนม,42.0
+1148,1751420725,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1149,1751420996,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
+1150,1751422151,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1151,1751422281,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1152,1751422307,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
+1153,1751422532,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1154,1751422873,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1155,1751422899,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
+1156,1751423070,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1157,1751423100,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1158,1751423206,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,21.0
+1159,1751423234,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กบแสนฉลาด,29.0
+1160,1751423252,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ขนมถ้วยอร่อยจัง,46.0
+1161,1751423256,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1162,1751455931,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผิวสุดพิเศษของกิ้งก่าเปลี่ยนสี,54.0
+1163,1751457695,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผิวสุดพิเศษของกิ้งก่าเปลี่ยนสี,54.0
+1164,1751461616,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผิวสุดพิเศษของกิ้งก่าเปลี่ยนสี,54.0
+1165,1751468115,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48.0
+1166,1751468564,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[39, 38, 83, 47, 134, 34, 42, 25]""}",0.0,1.0,จับปลา,48.0
+1167,1751468898,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
+1168,1751507905,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55.0
+1169,1751508090,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55.0
+1170,1751508133,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55.0
+1171,1751508459,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[153, 118, 8, 4, 5]""}",0.0,1.0,นิชาต มายุมดาร์ หญิงผู้พิชิตยอดเขา,55.0
+1172,1751508709,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ดวงจันทร์ขี้อาย,56.0
+1173,1751509094,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[6, 9, 9, 11, 12, 11, 10, 37, 8, 12, 27, 46, 38, 26, 34, 28, 8]""}",0.0,1.0,ดวงจันทร์ขี้อาย,56.0
+1174,1751554957,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
+1175,1751555187,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
+1176,1751610084,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ตัวอะไรเพิ่งผ่านไปนะ,27.0
+1177,1751610091,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,สาม สอง หนึ่ง แอ็คชั่น!,57.0
+1178,1751618787,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48.0
+1179,1751618794,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[2, 1, 0, 0, 0, 0, 0, 0]""}",0.0,1.0,จับปลา,48.0
+1180,1752417680,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,สวนน้อยๆ ของฉัน,
+1181,1752417681,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[]""}",0.0,1.0,สวนน้อยๆ ของฉัน,
+1182,1752417685,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,สวนน้อยๆ ของฉัน,
+1183,1752417687,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[]""}",0.0,1.0,สวนน้อยๆ ของฉัน,
+1184,1752417689,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,สัตว์ป่าเต้นรำ,
+1185,1752567027,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผืนดิน,
+1186,1752573607,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผืนดิน,
+1187,1752573736,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผืนดิน,
+1188,1752580685,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผืนดิน,
+1189,1752829946,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,
+1190,1752829975,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,
+1191,1752992431,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,
+1192,1753023116,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นกหลากสี,
+1193,1753107662,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นกหลากสี,
+1194,1753264063,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ใครตัวสูง ใครตัวเตี้ย,
+1195,1753268869,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ใครตัวสูง ใครตัวเตี้ย,
+1196,1753269002,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[3, 3, 3, 4, 5, 5, 5, 8, 25, 4, 7, 4, 7, 7, 4, 4, 4, 3, 12, 4]""}",0.0,1.0,ใครตัวสูง ใครตัวเตี้ย,
+1197,1753269023,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นกผู้กล้า,
+1198,1753269092,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นกผู้กล้า,
+1199,1753269630,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,
+1200,1753320914,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กะหล่ำปลีหายไปไหน,
+1201,1753320921,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 1, 1, 0, 0, 0, 0]""}",0.0,1.0,กะหล่ำปลีหายไปไหน,
+1202,1753320925,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กะหล่ำปลีหายไปไหน,
+1204,1753356683,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กะหล่ำปลีหายไปไหน,
+1205,1753358459,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[49, 57, 299, 207, 50, 40, 72, 50, 926]""}",0.0,1.0,กะหล่ำปลีหายไปไหน,
+1206,1753358466,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,
+1207,1753358817,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[5, 5, 14, 13, 18, 89, 53, 62, 64, 1]""}",0.0,1.0,กาใจดี ไก่ใจดำ,
+1208,1753358831,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,
+1209,1753359411,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[65, 45, 37, 30, 27, 51, 117, 19, 44, 90, 1]""}",0.0,1.0,ครอบครัวกลมเกลียว,
+1210,1753359537,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,

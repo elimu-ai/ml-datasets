@@ -1,13 +1,13 @@
-id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
-30795,1746607504,ai.elimu.vitabu,STORYBOOK_OPENED,,,,,62
-30796,1749455645,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Lara the Yellow Ladybird,61
-30833,1749567257,ai.elimu.vitabu,STORYBOOK_OPENED,,,,Today I Am,62
-30879,1750423061,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Bounthy's Singing Birds,66
-30880,1750423064,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Today I Am,62
-30881,1750753467,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,Today I Am,62
-30882,1750753502,ai.elimu.vitabu,STORYBOOK_OPENED,,0.0,0.0,The Shy Moon,73
-30891,1751272470,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ali’s Little Star ⭐,76
-30892,1751272520,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Earth 🌏,63
-30893,1751353416,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Today I Am,62
-30894,1751353419,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ali’s Little Star ⭐,76
-30895,1751436811,ai.elimu.vitabu,,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,The Shy Moon,73
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+30795,1746607504,ai.elimu.vitabu,,,,,62
+30796,1749455645,ai.elimu.vitabu,,,,Lara the Yellow Ladybird,61
+30833,1749567257,ai.elimu.vitabu,,,,Today I Am,62
+30879,1750423061,ai.elimu.vitabu,,0.0,0.0,Bounthy's Singing Birds,66
+30880,1750423064,ai.elimu.vitabu,,0.0,0.0,Today I Am,62
+30881,1750753467,ai.elimu.vitabu,,0.0,0.0,Today I Am,62
+30882,1750753502,ai.elimu.vitabu,,0.0,0.0,The Shy Moon,73
+30891,1751272470,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ali’s Little Star ⭐,76
+30892,1751272520,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Earth 🌏,63
+30893,1751353416,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Today I Am,62
+30894,1751353419,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ali’s Little Star ⭐,76
+30895,1751436811,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,The Shy Moon,73

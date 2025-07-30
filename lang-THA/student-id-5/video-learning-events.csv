@@ -1,15 +1,15 @@
-id,timestamp,package_name,learning_event_type,additional_data,research_experiment,experiment_group,video_title,video_id
-1795,1749827054,ai.elimu.filamu.debug,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
-1796,1749827058,ai.elimu.filamu.debug,VIDEO_CLOSED_BEFORE_COMPLETION,,,,,7
-1797,1749827105,ai.elimu.filamu.debug,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
-1798,1749827108,ai.elimu.filamu.debug,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":2953}",,,,7
-1799,1749827166,ai.elimu.filamu.debug,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
-1800,1749827170,ai.elimu.filamu.debug,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":2788}",,,,7
-1801,1749827196,ai.elimu.filamu.debug,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
-1802,1749827201,ai.elimu.filamu.debug,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":4755}",,,,7
-1803,1749827286,ai.elimu.filamu.debug,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
-1804,1749827290,ai.elimu.filamu.debug,VIDEO_CLOSED_BEFORE_COMPLETION,"{""video_playback_position_ms"":3566}",,,,7
-1805,1749827293,ai.elimu.filamu.debug,VIDEO_OPENED,,,,sample video 7 - re-encodeed,7
-1806,1749827317,ai.elimu.filamu.debug,VIDEO_COMPLETED,"{""video_playback_position_ms"":30379}",,,sample video 7 - re-encodeed,7
-2877,1752071025,ai.elimu.filamu.debug,,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,sample video 7 - re-encodeed,7
-2878,1752071046,ai.elimu.filamu.debug,,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":19940}",0.0,0.0,,7
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,video_title,video_id
+1795,1749827054,ai.elimu.filamu.debug,,,,sample video 7 - re-encodeed,7
+1796,1749827058,ai.elimu.filamu.debug,,,,,7
+1797,1749827105,ai.elimu.filamu.debug,,,,sample video 7 - re-encodeed,7
+1798,1749827108,ai.elimu.filamu.debug,"{""video_playback_position_ms"":2953}",,,,7
+1799,1749827166,ai.elimu.filamu.debug,,,,sample video 7 - re-encodeed,7
+1800,1749827170,ai.elimu.filamu.debug,"{""video_playback_position_ms"":2788}",,,,7
+1801,1749827196,ai.elimu.filamu.debug,,,,sample video 7 - re-encodeed,7
+1802,1749827201,ai.elimu.filamu.debug,"{""video_playback_position_ms"":4755}",,,,7
+1803,1749827286,ai.elimu.filamu.debug,,,,sample video 7 - re-encodeed,7
+1804,1749827290,ai.elimu.filamu.debug,"{""video_playback_position_ms"":3566}",,,,7
+1805,1749827293,ai.elimu.filamu.debug,,,,sample video 7 - re-encodeed,7
+1806,1749827317,ai.elimu.filamu.debug,"{""video_playback_position_ms"":30379}",,,sample video 7 - re-encodeed,7
+2877,1752071025,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,sample video 7 - re-encodeed,7
+2878,1752071046,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":19940}",0.0,0.0,,7
