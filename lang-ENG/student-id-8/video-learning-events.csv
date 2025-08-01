@@ -38,3 +38,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5808202,1751279640,ai.elimu.filamu,,0.0,0.0,[test] a test video,44
 5808937,1752908503,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,akili and me - letter d,4
 5808938,1752908504,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,,4
+5809267,1753952194,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,[test] a test video,44
+5809268,1753952211,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,[test] a test video,44

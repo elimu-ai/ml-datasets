@@ -51,3 +51,7 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 3094,1752829987,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":2438}",0.0,1.0,,9
 3095,1752829988,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_OPENED""}",0.0,1.0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 3096,1752830000,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":11907}",0.0,1.0,,9
+3467,1753945985,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_OPENED""}",0.0,1.0,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+3468,1753946012,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_OPENED""}",0.0,1.0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3469,1753946030,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_OPENED""}",0.0,1.0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3470,1753946326,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_OPENED""}",0.0,1.0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9

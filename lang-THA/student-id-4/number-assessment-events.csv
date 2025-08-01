@@ -30,3 +30,5 @@ id,timestamp,package_name,mastery_score,time_spent_ms,additional_data,research_e
 29,1751610418,ai.elimu.learndigits.debug,1.0,431,,0,1,5,
 30,1751610422,ai.elimu.learndigits.debug,0.0,658,"{""numberSelected"":9}",0,1,2,
 31,1751610427,ai.elimu.learndigits.debug,0.0,806,"{""numberSelected"":8}",0,1,6,
+32,1753948079,ai.elimu.learndigits.debug,0.0,165,"{""numberSelected"":1}",0,1,4,
+33,1753948086,ai.elimu.learndigits.debug,0.0,2959,"{""numberSelected"":2}",0,1,3,

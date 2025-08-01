@@ -143,3 +143,16 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,w
 2310,1751270138,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,kami,36.0
 2311,1751272268,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,ngayong,42.0
 2312,1751272274,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,gagawin,46.0
+2313,1753704337,ai.elimu.maneno.debug,"{""eventType"":""READ_AND_LISTEN""}",0.0,0.0,ang,1.0
+2314,1753704355,ai.elimu.maneno.debug,"{""eventType"":""READ_AND_LISTEN""}",0.0,0.0,mga,143.0
+2315,1753704964,ai.elimu.maneno.debug,"{""eventType"":""READ_AND_LISTEN""}",0.0,0.0,ito,227.0
+2316,1753887508,ai.elimu.maneno.debug,"{""spokenText"":""ang""}",0.0,0.0,ang,1.0
+2317,1753888162,ai.elimu.maneno.debug,"{""spokenText"":""mga""}",0.0,0.0,mga,143.0
+2318,1753888348,ai.elimu.maneno.debug,"{""spokenText"":""ito""}",0.0,0.0,ito,227.0
+2319,1753945631,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,araw,26.0
+2320,1753945632,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,ang,1.0
+2321,1753945633,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,lamang,331.0
+2322,1753945634,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,ito,227.0
+2323,1753945635,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,kung,110.0
+2324,1753945637,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,niya,179.0
+2325,1753945638,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,gusto,249.0
