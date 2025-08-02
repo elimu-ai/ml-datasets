@@ -643,3 +643,12 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 1208,1753358831,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวกลมเกลียว,
 1209,1753359411,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[65, 45, 37, 30, 27, 51, 117, 19, 44, 90, 1]""}",0.0,1.0,ครอบครัวกลมเกลียว,
 1210,1753359537,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,
+1211,1753888280,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กระต่ายน้อยกับหมาน้อย,94.0
+1215,1753943861,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กระต่ายน้อยกับหมาน้อย,94.0
+1216,1753945643,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กระต่ายน้อยกับหมาน้อย,94.0
+1212,1754063065,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ของเล่นที่หายไป,77.0
+1213,1754063085,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กะหล่ำปลีหายไปไหน,69.0
+1214,1754063147,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[6, 6, 5, 7, 6, 6, 7, 6, 5]""}",0.0,1.0,กะหล่ำปลีหายไปไหน,69.0
+1217,1754121570,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จับปลา,48.0
+1218,1754124675,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,คุณแม่ในดวงใจ,75.0
+1219,1754144581,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,คุณแม่ในดวงใจ,75.0

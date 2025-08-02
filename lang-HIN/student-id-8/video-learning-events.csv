@@ -7,3 +7,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 473638,1750429541,ai.elimu.filamu.debug,"{""video_playback_position_ms"":4096}",0.0,0.0,,1
 474175,1751273813,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,चिड़िया,1
 474176,1751273821,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":5763}",0.0,0.0,,1
+475319,1753945987,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,चिड़िया,1
+475320,1753946013,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":24078}",0.0,0.0,चिड़िया,1

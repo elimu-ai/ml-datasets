@@ -91,3 +91,10 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,w
 92340,1753704236,ai.elimu.maneno.debug,"{""eventType"":""READ_AND_LISTEN""}",0.0,0.0,कहा,3.0
 92341,1753887510,ai.elimu.maneno.debug,"{""spokenText"":""में""}",0.0,0.0,में,78.0
 92342,1753888353,ai.elimu.maneno.debug,"{""spokenText"":""हैं""}",0.0,0.0,हैं,68.0
+92343,1753945657,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,अज्जी,402.0
+92344,1753945658,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,से,1.0
+92345,1753945659,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,पूछा,82.0
+92346,1753945661,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,क्या,4.0
+92347,1753945667,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,लड्डू,394.0
+92348,1753945669,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,खा,15.0
+92349,1753945672,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,लूँ,87.0
