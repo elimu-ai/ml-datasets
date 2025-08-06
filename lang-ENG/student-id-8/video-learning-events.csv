@@ -40,3 +40,12 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5808938,1752908504,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,,4
 5809267,1753952194,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,[test] a test video,44
 5809268,1753952211,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,[test] a test video,44
+5809503,1754447481,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,akili and me - letter i,33
+5809504,1754447484,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,akili and me - letter i,33
+5809505,1754447487,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":1812}",0.0,0.0,[test] a test video,44
+5809506,1754447494,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,[test] a test video,44
+5809507,1754447502,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":1486}",0.0,0.0,[test] a test video,44
+5809508,1754447503,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,[test] a test video,44
+5809509,1754447509,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":5478}",0.0,0.0,[test] a test video,44
+5809510,1754447516,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,[test] a test video,44
+5809511,1754447524,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":5558}",0.0,0.0,[test] a test video,44

@@ -729,3 +729,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 3595,1754273881,ai.elimu.filamu,{'video_playback_position_ms': 19574},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 3596,1754273947,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 3597,1754273975,ai.elimu.filamu,{'video_playback_position_ms': 57829},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+3636,1754354735,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+3637,1754354778,ai.elimu.filamu,{'video_playback_position_ms': 37623},,,sample video 7 - re-encodeed,7
