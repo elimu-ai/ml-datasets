@@ -125,3 +125,4 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,w
 44712,1752908497,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,see,49.0
 44713,1752908498,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0.0,0.0,stars,707.0
 44714,1752908535,ai.elimu.maneno,"{""spokenText"":""the""}",0.0,0.0,the,50.0
+44740,1754628880,ai.elimu.maneno,"{""spokenText"":""the""}",0.0,0.0,the,50.0
