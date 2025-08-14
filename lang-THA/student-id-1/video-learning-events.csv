@@ -867,3 +867,29 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 4003,1755051170,ai.elimu.filamu,{'video_playback_position_ms': 52916},,,sample video 5 h264,5
 4004,1755051278,ai.elimu.filamu,,,,sample video 5 h264,5
 4005,1755051285,ai.elimu.filamu,{'video_playback_position_ms': 7695},,,sample video 5 h264,5
+4014,1755134194,ai.elimu.filamu,,,,test sample video,1
+4015,1755134233,ai.elimu.filamu,{'video_playback_position_ms': 12703},,,test sample video,1
+4016,1755134283,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4017,1755134288,ai.elimu.filamu,{'video_playback_position_ms': 18426},,,sample video 7 - re-encodeed,7
+4018,1755134332,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4019,1755134364,ai.elimu.filamu,{'video_playback_position_ms': 1247},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4020,1755134459,ai.elimu.filamu,,,,test sample video,1
+4021,1755134496,ai.elimu.filamu,{'video_playback_position_ms': 22425},,,test sample video,1
+4022,1755134521,ai.elimu.filamu,,,,sample video 5 h264,5
+4023,1755134562,ai.elimu.filamu,{'video_playback_position_ms': 36779},,,sample video 5 h264,5
+4024,1755134601,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4025,1755134634,ai.elimu.filamu,{'video_playback_position_ms': 44496},,,sample video 7 - re-encodeed,7
+4026,1755134748,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4027,1755134804,ai.elimu.filamu,{'video_playback_position_ms': 37165},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4028,1755134903,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4029,1755134908,ai.elimu.filamu,{'video_playback_position_ms': 6505},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4030,1755134934,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4031,1755134993,ai.elimu.filamu,{'video_playback_position_ms': 38576},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4032,1755135101,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4033,1755135156,ai.elimu.filamu,{'video_playback_position_ms': 2102},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4034,1755135189,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4035,1755135209,ai.elimu.filamu,{'video_playback_position_ms': 23375},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4036,1755135316,ai.elimu.filamu,,,,sample video 5 h264,5
+4037,1755135329,ai.elimu.filamu,{'video_playback_position_ms': 50369},,,sample video 5 h264,5
+4038,1755135387,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4039,1755135440,ai.elimu.filamu,{'video_playback_position_ms': 8946},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
