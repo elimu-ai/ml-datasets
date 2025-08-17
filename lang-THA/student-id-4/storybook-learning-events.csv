@@ -670,3 +670,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 1238,1755009070,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเลี้ยงวันเกิด,73.0
 1239,1755009076,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
 1240,1755010719,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[366, 572, 127, 149, 195, 16, 167, 16, 7, 9, 6, 5]""}",0.0,1.0,จิ้งจอกน้อย,52.0
+1241,1755087892,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
+1242,1755097307,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
