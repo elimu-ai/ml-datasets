@@ -1,0 +1,11 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+148,1754151036,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
+149,1754151069,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,.,55
+150,1754151075,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[]""}",0,1,.,55
+151,1754151079,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,7 màu sắc cầu vồng,50
+152,1754151289,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
+153,1754151335,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,7 màu sắc cầu vồng,50
+154,1754151507,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Bảy ngày nghỉ lễ,111
+155,1754151509,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ai có thể giúp mình nhỉ?,92
+156,1754152025,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ai có thể giúp mình nhỉ?,92
+157,1754152028,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Bé Na và bé Bo,109
