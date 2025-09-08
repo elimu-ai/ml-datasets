@@ -993,3 +993,9 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 4421,1757122485,ai.elimu.filamu,{'video_playback_position_ms': 35704},,,sample video 5 h264,5
 4422,1757122584,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 4423,1757122635,ai.elimu.filamu,{'video_playback_position_ms': 22009},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4464,1757295209,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4465,1757295241,ai.elimu.filamu,{'video_playback_position_ms': 22379},,,sample video 7 - re-encodeed,7
+4466,1757295326,ai.elimu.filamu,,,,test sample video,1
+4467,1757295372,ai.elimu.filamu,{'video_playback_position_ms': 27519},,,test sample video,1
+4468,1757295450,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4469,1757295473,ai.elimu.filamu,{'video_playback_position_ms': 32273},,,sample video 7 - re-encodeed,7
