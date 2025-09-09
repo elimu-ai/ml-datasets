@@ -1101,3 +1101,9 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 4471,1757295520,ai.elimu.filamu,{'video_playback_position_ms': 12028},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 4472,1757295613,ai.elimu.filamu,,,,sample video 5 h264,5
 4473,1757295629,ai.elimu.filamu,{'video_playback_position_ms': 3044},,,sample video 5 h264,5
+4512,1757380429,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4513,1757380468,ai.elimu.filamu,{'video_playback_position_ms': 53883},,,sample video 7 - re-encodeed,7
+4514,1757380585,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4515,1757380598,ai.elimu.filamu,{'video_playback_position_ms': 55374},,,sample video 7 - re-encodeed,7
+4516,1757380667,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4517,1757380703,ai.elimu.filamu,{'video_playback_position_ms': 17151},,,sample video 7 - re-encodeed,7

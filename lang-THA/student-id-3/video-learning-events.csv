@@ -999,3 +999,25 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 4467,1757295372,ai.elimu.filamu,{'video_playback_position_ms': 27519},,,test sample video,1
 4468,1757295450,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
 4469,1757295473,ai.elimu.filamu,{'video_playback_position_ms': 32273},,,sample video 7 - re-encodeed,7
+4490,1757379314,ai.elimu.filamu,,,,test sample video,1
+4491,1757379359,ai.elimu.filamu,{'video_playback_position_ms': 25143},,,test sample video,1
+4492,1757379386,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4493,1757379409,ai.elimu.filamu,{'video_playback_position_ms': 34287},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4494,1757379500,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4495,1757379559,ai.elimu.filamu,{'video_playback_position_ms': 52716},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4496,1757379646,ai.elimu.filamu,,,,test sample video,1
+4497,1757379673,ai.elimu.filamu,{'video_playback_position_ms': 16256},,,test sample video,1
+4498,1757379689,ai.elimu.filamu,,,,sample video 5 h264,5
+4499,1757379740,ai.elimu.filamu,{'video_playback_position_ms': 39926},,,sample video 5 h264,5
+4500,1757379839,ai.elimu.filamu,,,,test sample video,1
+4501,1757379889,ai.elimu.filamu,{'video_playback_position_ms': 48787},,,test sample video,1
+4502,1757379908,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4503,1757379943,ai.elimu.filamu,{'video_playback_position_ms': 8347},,,sample video 7 - re-encodeed,7
+4504,1757379964,ai.elimu.filamu,,,,sample video 5 h264,5
+4505,1757379971,ai.elimu.filamu,{'video_playback_position_ms': 9879},,,sample video 5 h264,5
+4506,1757380030,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4507,1757380087,ai.elimu.filamu,{'video_playback_position_ms': 29763},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4508,1757380196,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4509,1757380222,ai.elimu.filamu,{'video_playback_position_ms': 31602},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4510,1757380342,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4511,1757380347,ai.elimu.filamu,{'video_playback_position_ms': 20985},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
