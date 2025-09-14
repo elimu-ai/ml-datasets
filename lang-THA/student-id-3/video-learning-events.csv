@@ -1095,3 +1095,27 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 4699,1757641059,ai.elimu.filamu,{'video_playback_position_ms': 8192},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 4700,1757641075,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 4701,1757641122,ai.elimu.filamu,{'video_playback_position_ms': 1986},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4750,1757811660,ai.elimu.filamu,,,,sample video 5 h264,5
+4751,1757811685,ai.elimu.filamu,{'video_playback_position_ms': 42762},,,sample video 5 h264,5
+4752,1757811740,ai.elimu.filamu,,,,sample video 5 h264,5
+4753,1757811772,ai.elimu.filamu,{'video_playback_position_ms': 23307},,,sample video 5 h264,5
+4754,1757811884,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4755,1757811899,ai.elimu.filamu,{'video_playback_position_ms': 35228},,,sample video 7 - re-encodeed,7
+4756,1757811974,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4757,1757812013,ai.elimu.filamu,{'video_playback_position_ms': 4002},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4758,1757812075,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4759,1757812120,ai.elimu.filamu,{'video_playback_position_ms': 31354},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4760,1757812176,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4761,1757812202,ai.elimu.filamu,{'video_playback_position_ms': 28288},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4762,1757812263,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4763,1757812298,ai.elimu.filamu,{'video_playback_position_ms': 2364},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4764,1757812348,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4765,1757812379,ai.elimu.filamu,{'video_playback_position_ms': 12778},,,sample video 7 - re-encodeed,7
+4766,1757812496,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4767,1757812510,ai.elimu.filamu,{'video_playback_position_ms': 59389},,,sample video 7 - re-encodeed,7
+4768,1757812543,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4769,1757812593,ai.elimu.filamu,{'video_playback_position_ms': 21602},,,sample video 7 - re-encodeed,7
+4770,1757812653,ai.elimu.filamu,,,,test sample video,1
+4771,1757812673,ai.elimu.filamu,{'video_playback_position_ms': 9729},,,test sample video,1
+4772,1757812773,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+4773,1757812782,ai.elimu.filamu,{'video_playback_position_ms': 55064},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
