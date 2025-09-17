@@ -49,3 +49,12 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5809509,1754447509,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":5478}",0.0,0.0,[test] a test video,44
 5809510,1754447516,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,[test] a test video,44
 5809511,1754447524,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":5558}",0.0,0.0,[test] a test video,44
+5810654,1758097752,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,[test] a test video,44
+5810655,1758097758,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,[test] a test video,44
+5810656,1758097761,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,akili and me - letter i,33
+5810657,1758097763,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,akili and me - the rectangle song,13
+5810658,1758097764,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,akili and me - letter d,4
+5810659,1758097766,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,akili and me - letter d,4
+5810660,1758097768,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,akili and me - letter a,1
+5810661,1758097770,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,[test] a test video,44
+5810662,1758097773,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,[test] a test video,44
