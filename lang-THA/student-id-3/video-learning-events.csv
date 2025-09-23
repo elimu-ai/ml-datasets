@@ -1189,3 +1189,25 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 4939,1758155613,ai.elimu.filamu,{'video_playback_position_ms': 33131},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 4940,1758155646,ai.elimu.filamu,,,,sample video 5 h264,5
 4941,1758155685,ai.elimu.filamu,{'video_playback_position_ms': 39347},,,sample video 5 h264,5
+4994,1758586529,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4995,1758586540,ai.elimu.filamu,{'video_playback_position_ms': 36021},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+4996,1758586654,ai.elimu.filamu,,,,test sample video,1
+4997,1758586676,ai.elimu.filamu,{'video_playback_position_ms': 32992},,,test sample video,1
+4998,1758586788,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+4999,1758586820,ai.elimu.filamu,{'video_playback_position_ms': 7466},,,sample video 7 - re-encodeed,7
+5000,1758586874,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5001,1758586913,ai.elimu.filamu,{'video_playback_position_ms': 13742},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5002,1758586996,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5003,1758587039,ai.elimu.filamu,{'video_playback_position_ms': 32798},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5004,1758587084,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5005,1758587088,ai.elimu.filamu,{'video_playback_position_ms': 28095},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5006,1758587130,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+5007,1758587149,ai.elimu.filamu,{'video_playback_position_ms': 19701},,,sample video 7 - re-encodeed,7
+5008,1758587247,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5009,1758587292,ai.elimu.filamu,{'video_playback_position_ms': 32464},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5010,1758587347,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5011,1758587369,ai.elimu.filamu,{'video_playback_position_ms': 10614},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5012,1758587418,ai.elimu.filamu,,,,sample video 5 h264,5
+5013,1758587442,ai.elimu.filamu,{'video_playback_position_ms': 50214},,,sample video 5 h264,5
+5014,1758587509,ai.elimu.filamu,,,,sample video 5 h264,5
+5015,1758587524,ai.elimu.filamu,{'video_playback_position_ms': 48790},,,sample video 5 h264,5

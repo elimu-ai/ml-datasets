@@ -1021,3 +1021,23 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5810766,1758498010,ai.elimu.filamu,{'video_playback_position_ms': 46882},,,akili and me - the rectangle song,13
 5810767,1758498117,ai.elimu.filamu,,,,[test] a test video,44
 5810768,1758498146,ai.elimu.filamu,{'video_playback_position_ms': 34782},,,[test] a test video,44
+5810799,1758584967,ai.elimu.filamu,,,,akili and me - letter a,1
+5810800,1758585026,ai.elimu.filamu,{'video_playback_position_ms': 36340},,,akili and me - letter a,1
+5810801,1758585109,ai.elimu.filamu,,,,akili and me - letter c,3
+5810802,1758585111,ai.elimu.filamu,{'video_playback_position_ms': 12377},,,akili and me - letter c,3
+5810803,1758585225,ai.elimu.filamu,,,,akili and me - letter d,4
+5810804,1758585260,ai.elimu.filamu,{'video_playback_position_ms': 50717},,,akili and me - letter d,4
+5810805,1758585295,ai.elimu.filamu,,,,akili and me - letter c,3
+5810806,1758585306,ai.elimu.filamu,{'video_playback_position_ms': 43025},,,akili and me - letter c,3
+5810807,1758585405,ai.elimu.filamu,,,,akili and me - letter d,4
+5810808,1758585409,ai.elimu.filamu,{'video_playback_position_ms': 44419},,,akili and me - letter d,4
+5810809,1758585464,ai.elimu.filamu,,,,akili and me - letter b,2
+5810810,1758585514,ai.elimu.filamu,{'video_playback_position_ms': 50967},,,akili and me - letter b,2
+5810811,1758585534,ai.elimu.filamu,,,,akili and me - letter i,33
+5810812,1758585581,ai.elimu.filamu,{'video_playback_position_ms': 49107},,,akili and me - letter i,33
+5810813,1758585657,ai.elimu.filamu,,,,akili and me - letter i,33
+5810814,1758585664,ai.elimu.filamu,{'video_playback_position_ms': 27397},,,akili and me - letter i,33
+5810815,1758585753,ai.elimu.filamu,,,,akili and me - letter i,33
+5810816,1758585772,ai.elimu.filamu,{'video_playback_position_ms': 8906},,,akili and me - letter i,33
+5810817,1758585888,ai.elimu.filamu,,,,akili and me - letter c,3
+5810818,1758585895,ai.elimu.filamu,{'video_playback_position_ms': 26214},,,akili and me - letter c,3
