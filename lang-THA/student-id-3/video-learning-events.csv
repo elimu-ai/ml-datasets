@@ -1211,3 +1211,25 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5013,1758587442,ai.elimu.filamu,{'video_playback_position_ms': 50214},,,sample video 5 h264,5
 5014,1758587509,ai.elimu.filamu,,,,sample video 5 h264,5
 5015,1758587524,ai.elimu.filamu,{'video_playback_position_ms': 48790},,,sample video 5 h264,5
+5028,1758676723,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+5029,1758676770,ai.elimu.filamu,{'video_playback_position_ms': 22866},,,sample video 7 - re-encodeed,7
+5030,1758676853,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5031,1758676897,ai.elimu.filamu,{'video_playback_position_ms': 8831},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5032,1758676960,ai.elimu.filamu,,,,test sample video,1
+5033,1758677004,ai.elimu.filamu,{'video_playback_position_ms': 36285},,,test sample video,1
+5034,1758677041,ai.elimu.filamu,,,,test sample video,1
+5035,1758677071,ai.elimu.filamu,{'video_playback_position_ms': 55852},,,test sample video,1
+5036,1758677188,ai.elimu.filamu,,,,test sample video,1
+5037,1758677194,ai.elimu.filamu,{'video_playback_position_ms': 11835},,,test sample video,1
+5038,1758677286,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5039,1758677328,ai.elimu.filamu,{'video_playback_position_ms': 9775},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5040,1758677417,ai.elimu.filamu,,,,sample video 5 h264,5
+5041,1758677463,ai.elimu.filamu,{'video_playback_position_ms': 51860},,,sample video 5 h264,5
+5042,1758677493,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5043,1758677497,ai.elimu.filamu,{'video_playback_position_ms': 59922},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5044,1758677599,ai.elimu.filamu,,,,test sample video,1
+5045,1758677653,ai.elimu.filamu,{'video_playback_position_ms': 10745},,,test sample video,1
+5046,1758677729,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5047,1758677775,ai.elimu.filamu,{'video_playback_position_ms': 13431},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5048,1758677825,ai.elimu.filamu,,,,test sample video,1
+5049,1758677853,ai.elimu.filamu,{'video_playback_position_ms': 6588},,,test sample video,1
