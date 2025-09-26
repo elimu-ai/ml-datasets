@@ -81,3 +81,4 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 523,1751270136,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ang Aming Pamilya,2
 524,1751272265,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ang Aming Pamilya,2
 525,1751272322,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[10, 7, 8, 7, 6, 3, 5, 3, 2]""}",0.0,0.0,Ang Aming Pamilya,2
+526,1753945626,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Ang Araw at Gabi,128
