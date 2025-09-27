@@ -1059,3 +1059,7 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5810902,1758757521,ai.elimu.filamu,{'video_playback_position_ms': 47680},,,akili and me - letter a,1
 5810903,1758757573,ai.elimu.filamu,,,,akili and me - letter a,1
 5810904,1758757591,ai.elimu.filamu,{'video_playback_position_ms': 50919},,,akili and me - letter a,1
+5810934,1758842719,ai.elimu.filamu,,,,akili and me - letter b,2
+5810935,1758842723,ai.elimu.filamu,{'video_playback_position_ms': 57972},,,akili and me - letter b,2
+5810936,1758842837,ai.elimu.filamu,,,,[test] a test video,44
+5810937,1758842842,ai.elimu.filamu,{'video_playback_position_ms': 29034},,,[test] a test video,44
