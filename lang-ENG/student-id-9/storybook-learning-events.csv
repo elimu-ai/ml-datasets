@@ -3,3 +3,4 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 30904,1751353502,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ali’s Little Star ⭐,76
 30905,1751353511,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 0, 1, 2, 1]""}",0,1,Ali’s Little Star ⭐,76
 30906,1751353514,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Lara the Yellow Ladybird,61
+30912,1758888764,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,A Tiny Seed 🌱,77

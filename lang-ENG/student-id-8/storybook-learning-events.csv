@@ -91,3 +91,4 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 30908,1755697012,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Abcd a nature alphabet book,65.0
 30909,1758731312,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,A Tiny Seed 🌱,77.0
 30910,1758731328,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 13]""}",0.0,0.0,A Tiny Seed 🌱,77.0
+30911,1758888764,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,A Tiny Seed 🌱,77.0

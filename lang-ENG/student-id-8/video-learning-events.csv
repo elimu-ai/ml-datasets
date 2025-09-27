@@ -61,3 +61,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5810931,1758731335,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,akili and me - letter d,4
 5810932,1758731338,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,akili and me - letter d,4
 5810933,1758731342,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,[test] a test video,44
+5810952,1758807900,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0.0,0.0,[test] a test video,44
+5810953,1758807902,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0.0,0.0,[test] a test video,44
