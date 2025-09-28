@@ -678,3 +678,100 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 1246,1755525247,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
 1247,1755608916,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
 1248,1755689108,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
+1249,1755696509,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จืดกับเจ้าตึก,45.0
+1250,1755704682,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 421, 410, 4338, 2815, 16, 2]""}",0.0,1.0,จืดกับเจ้าตึก,45.0
+1251,1755704687,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ฉันจะช่วยเธอ,99.0
+1315,1755929761,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ฉันจะช่วยเธอ,99.0
+1316,1755934027,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,งานเทศกาลเสื้อกั๊ก,37.0
+1317,1755934577,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,จิ้งจอกน้อย,52.0
+1276,1756020237,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ฉันชอบอ่านหนังสือ,72.0
+1277,1756021511,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[25, 122, 34, 24, 45, 137, 189, 638]""}",0.0,1.0,ฉันชอบอ่านหนังสือ,72.0
+1278,1756021526,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ฉันแต่งตัวเองได้!,76.0
+1279,1756021637,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1280,1756021645,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผีเสื้อกับนกเงือก,33.0
+1281,1756021656,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ฉันแต่งตัวเองได้!,76.0
+1282,1756021658,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[]""}",0.0,1.0,ฉันแต่งตัวเองได้!,76.0
+1283,1756021795,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ฉับ,64.0
+1284,1756025451,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[2, 2, 2, 2, 1, 2, 2, 1, 1, 1, 2, 1, 2]""}",0.0,1.0,ฉับ,64.0
+1285,1756025457,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ฉับ,64.0
+1286,1756025475,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ชิมมะม่วง!,78.0
+1287,1756025478,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1]""}",0.0,1.0,ชิมมะม่วง!,78.0
+1288,1756025481,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ชิมมะม่วง!,78.0
+1289,1756025500,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ถนนของฉัน,71.0
+1290,1756025510,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]""}",0.0,1.0,ถนนของฉัน,71.0
+1291,1756025516,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ทำไมมันร้อนอย่างนี้นะ,103.0
+1292,1756025550,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ทำไมมันร้อนอย่างนี้นะ,103.0
+1293,1756037885,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ถนนของฉัน,71.0
+1294,1756037978,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[3, 0, 1, 0, 0, 0, 0, 1, 3, 1, 1]""}",0.0,1.0,ถนนของฉัน,71.0
+1295,1756037982,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ทำไมมันร้อนอย่างนี้นะ,103.0
+1296,1756038265,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ทำไมมันร้อนอย่างนี้นะ,103.0
+1297,1756038274,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ทำไมมันร้อนอย่างนี้นะ,103.0
+1298,1756106016,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ทำไมมันร้อนอย่างนี้นะ,103.0
+1299,1756110993,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ทำไมมันร้อนอย่างนี้นะ,103.0
+1300,1756118017,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ทำไมมันร้อนอย่างนี้นะ,103.0
+1301,1756129732,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ทำไมมันร้อนอย่างนี้นะ,103.0
+1302,1756129883,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นับเลขง่ายนิดเดียว,87.0
+1303,1756136562,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 3699, 118, 18, 18, 64, 62, 24, 1]""}",0.0,1.0,นับเลขง่ายนิดเดียว,87.0
+1304,1756136785,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นั่นเสียงของใคร,34.0
+1305,1756137198,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 31, 37, 38, 14, 10, 11, 17, 8, 23, 30, 77, 95, 2]""}",0.0,1.0,นั่นเสียงของใคร,34.0
+1318,1756207554,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดจอมขยัน,12.0
+1319,1756280144,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,บะหมี่จอมแสบ,84.0
+1320,1756288368,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นับเลขง่ายนิดเดียว,87.0
+1252,1756382087,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นับเลขง่ายนิดเดียว,87.0
+1253,1756383145,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นับเลขง่ายนิดเดียว,87.0
+1254,1756383225,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[9, 4, 4, 4, 4, 4, 6, 38, 2]""}",0.0,1.0,นับเลขง่ายนิดเดียว,87.0
+1255,1756383402,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นั่นเสียงของใคร,34.0
+1256,1756383824,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นั่นเสียงของใคร,34.0
+1257,1756384057,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นั่นเสียงของใคร,34.0
+1258,1756386299,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นั่นเสียงของใคร,34.0
+1259,1756386384,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นั่นเสียงของใคร,34.0
+1260,1756386428,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นั่นเสียงของใคร,34.0
+1261,1756390258,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นั่นเสียงของใคร,34.0
+1334,1756641968,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดจอมขยัน,12.0
+1262,1756822091,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดจอมขยัน,12.0
+1306,1756892482,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดจอมขยัน,12.0
+1307,1756909708,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดจอมขยัน,12.0
+1308,1756971131,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดจอมขยัน,12.0
+1263,1758029987,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดจอมขยัน,12.0
+1309,1758093842,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดจอมขยัน,12.0
+1321,1758213297,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดจอมขยัน,12.0
+1264,1758348983,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดน้อยในตู้จดหมาย,20.0
+1265,1758349269,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดน้อยในตู้จดหมาย,20.0
+1266,1758350811,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดน้อยในตู้จดหมาย,20.0
+1267,1758362583,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ร้องเพลงในสายฝน,4.0
+1268,1758362636,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,เราต่างก็เป็นสัตว์โลก,17.0
+1269,1758369360,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นิทานคำกลอน มดจอมขยัน,12.0
+1270,1758371096,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 32, 185, 254, 242, 107, 103, 477, 19, 20, 21, 39]""}",0.0,1.0,นิทานคำกลอน มดจอมขยัน,12.0
+1335,1758464095,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,บะหมี่จอมแสบ,84.0
+1336,1758467716,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[10, 55, 47, 75, 112, 59, 131, 66, 18, 7, 24, 111]""}",0.0,1.0,บะหมี่จอมแสบ,84.0
+1322,1758546972,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ปลาทองแสนฉลาด,66.0
+1323,1758546975,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผีเสื้อกับนกเงือก,33.0
+1324,1758547154,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ปลาทองแสนฉลาด,66.0
+1325,1758547197,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 2]""}",0.0,1.0,ปลาทองแสนฉลาด,66.0
+1326,1758547206,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ปลาทองแสนฉลาด,66.0
+1327,1758547230,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผีเสื้อกับนกเงือก,33.0
+1328,1758550154,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ปู่กะเจ้าจ๋อ,53.0
+1329,1758550724,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[160, 23, 60, 67, 13, 50, 64, 5]""}",0.0,1.0,ปู่กะเจ้าจ๋อ,53.0
+1337,1758615700,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ป้าของฉันขายปลา,80.0
+1338,1758637378,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ป้าของฉันขายปลา,80.0
+1330,1758704256,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,บีม่า เจ้าลาขี้เซา,13.0
+1331,1758724682,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ป้าของฉันขายปลา,80.0
+1332,1758729606,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ป้าของฉันขายปลา,80.0
+1333,1758730348,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 17, 20]""}",0.0,1.0,ป้าของฉันขายปลา,80.0
+1271,1758734399,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผีเสื้อกับนกเงือก,33.0
+1272,1758811527,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผีเสื้อกับนกเงือก,33.0
+1273,1758811556,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[5, 3, 6, 0, 0, 0, 0]""}",0.0,1.0,ผีเสื้อกับนกเงือก,33.0
+1274,1758811560,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ผีเสื้อกับนกเงือก,33.0
+1275,1758816918,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[317, 488, 2200, 10, 119, 8, 62]""}",0.0,1.0,ผีเสื้อกับนกเงือก,33.0
+1339,1758985640,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กลโกงเจ้าจิ้งจอก,31.0
+1340,1758985663,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กลโกงเจ้าจิ้งจอก,31.0
+1310,1759042937,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ฉับ,64.0
+1311,1759042948,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]""}",0.0,1.0,ฉับ,64.0
+1312,1759042955,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ถนนของฉัน,71.0
+1313,1759042969,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1]""}",0.0,1.0,ถนนของฉัน,71.0
+1314,1759042990,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,นับเลขง่ายนิดเดียว,87.0
+1341,1759060116,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,กาใจดี ไก่ใจดำ,43.0
+1342,1759063790,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,แม่ไก่กกไข่,16.0
+1343,1759064114,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,แม่ไก่กกไข่,16.0
+1344,1759075044,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวอีกาทำนาปลูกข้าว,81.0
+1345,1759075070,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,ครอบครัวอีกาทำนาปลูกข้าว,81.0
