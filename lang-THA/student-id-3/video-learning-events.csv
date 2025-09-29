@@ -1291,3 +1291,27 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5168,1759019178,ai.elimu.filamu,{'video_playback_position_ms': 54664},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 5169,1759019213,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 5170,1759019221,ai.elimu.filamu,{'video_playback_position_ms': 28579},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5219,1759106995,ai.elimu.filamu,,,,test sample video,1
+5220,1759107047,ai.elimu.filamu,{'video_playback_position_ms': 1051},,,test sample video,1
+5221,1759107070,ai.elimu.filamu,,,,test sample video,1
+5222,1759107085,ai.elimu.filamu,{'video_playback_position_ms': 51164},,,test sample video,1
+5223,1759107163,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+5224,1759107220,ai.elimu.filamu,{'video_playback_position_ms': 22717},,,sample video 7 - re-encodeed,7
+5225,1759107242,ai.elimu.filamu,,,,sample video 5 h264,5
+5226,1759107255,ai.elimu.filamu,{'video_playback_position_ms': 2874},,,sample video 5 h264,5
+5227,1759107273,ai.elimu.filamu,,,,sample video 5 h264,5
+5228,1759107319,ai.elimu.filamu,{'video_playback_position_ms': 55686},,,sample video 5 h264,5
+5229,1759107436,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5230,1759107486,ai.elimu.filamu,{'video_playback_position_ms': 39425},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5231,1759107537,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5232,1759107575,ai.elimu.filamu,{'video_playback_position_ms': 48793},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5233,1759107591,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5234,1759107610,ai.elimu.filamu,{'video_playback_position_ms': 37538},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5235,1759107710,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+5236,1759107762,ai.elimu.filamu,{'video_playback_position_ms': 38527},,,sample video 7 - re-encodeed,7
+5237,1759107785,ai.elimu.filamu,,,,sample video 5 h264,5
+5238,1759107825,ai.elimu.filamu,{'video_playback_position_ms': 42705},,,sample video 5 h264,5
+5239,1759107860,ai.elimu.filamu,,,,sample video 5 h264,5
+5240,1759107883,ai.elimu.filamu,{'video_playback_position_ms': 37125},,,sample video 5 h264,5
+5241,1759108001,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+5242,1759108049,ai.elimu.filamu,{'video_playback_position_ms': 40219},,,sample video 7 - re-encodeed,7
