@@ -1239,3 +1239,23 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5274,1759109603,ai.elimu.filamu,{'video_playback_position_ms': 16471},,,test sample video,1
 5275,1759109686,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 5276,1759109708,ai.elimu.filamu,{'video_playback_position_ms': 21012},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5311,1759196594,ai.elimu.filamu,,,,sample video 5 h264,5
+5312,1759196631,ai.elimu.filamu,{'video_playback_position_ms': 46416},,,sample video 5 h264,5
+5313,1759196677,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5314,1759196711,ai.elimu.filamu,{'video_playback_position_ms': 55619},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5319,1759270411,ai.elimu.filamu,,,,test sample video,1
+5320,1759270449,ai.elimu.filamu,{'video_playback_position_ms': 55451},,,test sample video,1
+5321,1759270478,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5322,1759270496,ai.elimu.filamu,{'video_playback_position_ms': 44801},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5323,1759270602,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5324,1759270639,ai.elimu.filamu,{'video_playback_position_ms': 13284},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5325,1759270740,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5326,1759270780,ai.elimu.filamu,{'video_playback_position_ms': 26400},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5327,1759270834,ai.elimu.filamu,,,,sample video 5 h264,5
+5328,1759270861,ai.elimu.filamu,{'video_playback_position_ms': 6470},,,sample video 5 h264,5
+5329,1759270905,ai.elimu.filamu,,,,sample video 5 h264,5
+5330,1759270914,ai.elimu.filamu,{'video_playback_position_ms': 7408},,,sample video 5 h264,5
+5331,1759270997,ai.elimu.filamu,,,,test sample video,1
+5332,1759271005,ai.elimu.filamu,{'video_playback_position_ms': 48951},,,test sample video,1
+5333,1759271106,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+5334,1759271154,ai.elimu.filamu,{'video_playback_position_ms': 25629},,,sample video 7 - re-encodeed,7
