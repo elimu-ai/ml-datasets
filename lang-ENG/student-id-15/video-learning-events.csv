@@ -1,0 +1,9 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,video_title,video_id
+5811228,1758095418,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,0,akili and me - letter d,4
+5811229,1758095536,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,0,[test] a test video,44
+5811230,1758095549,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":9794}",0,0,[test] a test video,44
+5811231,1758095550,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,0,akili and me - letter a,1
+5811232,1758095564,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0,0,akili and me - letter a,1
+5811233,1758095594,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,0,[test] a test video,44
+5811234,1758095598,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":1930}",0,0,[test] a test video,44
+5811235,1758095600,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0,0,akili and me - letter i,33

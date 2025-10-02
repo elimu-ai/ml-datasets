@@ -1,0 +1,8 @@
+id,timestamp,package_name,mastery_score,time_spent_ms,additional_data,research_experiment,experiment_group,number_value,number_id
+13,1758095837,ai.elimu.learndigits,0.0,2415,"{""numberSelected"":5}",0,0,8,
+14,1758095841,ai.elimu.learndigits,1.0,212,,0,0,1,
+15,1758095845,ai.elimu.learndigits,1.0,946,,0,0,1,
+16,1758095848,ai.elimu.learndigits,1.0,233,,0,0,6,
+17,1758095851,ai.elimu.learndigits,1.0,514,,0,0,4,
+18,1758095854,ai.elimu.learndigits,1.0,100,,0,0,6,
+19,1758095861,ai.elimu.learndigits,0.0,3348,"{""numberSelected"":0}",0,0,8,

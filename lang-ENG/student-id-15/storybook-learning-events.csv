@@ -1,0 +1,5 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+30913,1758095179,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,A Tiny Seed 🌱,77
+30914,1758095186,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 2]""}",0,0,A Tiny Seed 🌱,77
+30915,1758096019,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,A Tiny Seed 🌱,77
+30916,1758096029,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 3]""}",0,0,A Tiny Seed 🌱,77

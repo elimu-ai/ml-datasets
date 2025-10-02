@@ -1269,3 +1269,11 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5376,1759281596,ai.elimu.filamu,{'video_playback_position_ms': 45396},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 5377,1759281706,ai.elimu.filamu,,,,test sample video,1
 5378,1759281730,ai.elimu.filamu,{'video_playback_position_ms': 2426},,,test sample video,1
+5387,1759365036,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+5388,1759365045,ai.elimu.filamu,{'video_playback_position_ms': 50835},,,sample video 7 - re-encodeed,7
+5389,1759365074,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5390,1759365117,ai.elimu.filamu,{'video_playback_position_ms': 17896},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5391,1759365155,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+5392,1759365161,ai.elimu.filamu,{'video_playback_position_ms': 45851},,,sample video 7 - re-encodeed,7
+5393,1759365223,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5394,1759365247,ai.elimu.filamu,{'video_playback_position_ms': 58621},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
