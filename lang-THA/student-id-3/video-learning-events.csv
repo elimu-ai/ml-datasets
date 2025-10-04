@@ -1327,3 +1327,17 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5384,1759364918,ai.elimu.filamu,{'video_playback_position_ms': 28641},,,sample video 7 - re-encodeed,7
 5385,1759364956,ai.elimu.filamu,,,,test sample video,1
 5386,1759365002,ai.elimu.filamu,{'video_playback_position_ms': 21439},,,test sample video,1
+5431,1759541674,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+5432,1759541681,ai.elimu.filamu,{'video_playback_position_ms': 55678},,,sample video 7 - re-encodeed,7
+5433,1759541793,ai.elimu.filamu,,,,sample video 5 h264,5
+5434,1759541841,ai.elimu.filamu,{'video_playback_position_ms': 11054},,,sample video 5 h264,5
+5435,1759541898,ai.elimu.filamu,,,,test sample video,1
+5436,1759541937,ai.elimu.filamu,{'video_playback_position_ms': 33166},,,test sample video,1
+5437,1759541958,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+5438,1759541985,ai.elimu.filamu,{'video_playback_position_ms': 32981},,,sample video 7 - re-encodeed,7
+5439,1759542048,ai.elimu.filamu,,,,sample video 5 h264,5
+5440,1759542079,ai.elimu.filamu,{'video_playback_position_ms': 42676},,,sample video 5 h264,5
+5441,1759542172,ai.elimu.filamu,,,,sample video 5 h264,5
+5442,1759542174,ai.elimu.filamu,{'video_playback_position_ms': 59871},,,sample video 5 h264,5
+5443,1759542193,ai.elimu.filamu,,,,sample video 5 h264,5
+5444,1759542217,ai.elimu.filamu,{'video_playback_position_ms': 53492},,,sample video 5 h264,5
