@@ -2724,3 +2724,11 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,w
 5034,1759433569,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ของ,34.0
 5035,1759434586,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ฉัน,36.0
 5036,1759434589,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,นี่,200.0
+5042,1759577510,ai.elimu.maneno.debug,"{""spokenText"":""ที่""}",0.0,1.0,ที่,176.0
+5043,1759577527,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,คือ,93.0
+5044,1759577529,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ของ,34.0
+5045,1759577532,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ฉัน,36.0
+5038,1759832395,ai.elimu.maneno.debug,"{""spokenText"":""ที่""}",0.0,1.0,ที่,176.0
+5039,1759832406,ai.elimu.maneno.debug,"{""spokenText"":""ฉัน""}",0.0,1.0,ฉัน,36.0
+5040,1759832427,ai.elimu.maneno.debug,"{""spokenText"":""ไม่""}",0.0,1.0,ไม่,175.0
+5041,1759832538,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,หวาน,8.0
