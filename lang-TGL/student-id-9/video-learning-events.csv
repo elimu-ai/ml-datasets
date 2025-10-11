@@ -1443,3 +1443,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 4525933,1759970178,ai.elimu.filamu,{'video_playback_position_ms': 58775},,,piper,1
 4525934,1759970217,ai.elimu.filamu,,,,piper,1
 4525935,1759970251,ai.elimu.filamu,{'video_playback_position_ms': 46087},,,piper,1
+4525966,1760141273,ai.elimu.filamu,,,,piper,1
+4525967,1760141314,ai.elimu.filamu,{'video_playback_position_ms': 3216},,,piper,1

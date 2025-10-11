@@ -1433,3 +1433,11 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5814,1760059129,ai.elimu.filamu,{'video_playback_position_ms': 4948},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 5815,1760059156,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 5816,1760059178,ai.elimu.filamu,{'video_playback_position_ms': 44929},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+5885,1760143527,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+5886,1760143555,ai.elimu.filamu,{'video_playback_position_ms': 8036},,,sample video 7 - re-encodeed,7
+5887,1760143642,ai.elimu.filamu,,,,sample video 5 h264,5
+5888,1760143665,ai.elimu.filamu,{'video_playback_position_ms': 44398},,,sample video 5 h264,5
+5889,1760143738,ai.elimu.filamu,,,,sample video 5 h264,5
+5890,1760143783,ai.elimu.filamu,{'video_playback_position_ms': 23461},,,sample video 5 h264,5
+5891,1760143810,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+5892,1760143816,ai.elimu.filamu,{'video_playback_position_ms': 21565},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
