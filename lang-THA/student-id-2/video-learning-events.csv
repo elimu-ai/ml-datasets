@@ -1659,3 +1659,13 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 6392,1761187327,ai.elimu.filamu,{'video_playback_position_ms': 9284},,,test sample video,1
 6393,1761187402,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 6394,1761187422,ai.elimu.filamu,{'video_playback_position_ms': 54036},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6457,1761616755,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6458,1761616760,ai.elimu.filamu,{'video_playback_position_ms': 59433},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6459,1761616787,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+6460,1761616796,ai.elimu.filamu,{'video_playback_position_ms': 39402},,,sample video 7 - re-encodeed,7
+6461,1761616909,ai.elimu.filamu,,,,test sample video,1
+6462,1761616930,ai.elimu.filamu,{'video_playback_position_ms': 27477},,,test sample video,1
+6463,1761617012,ai.elimu.filamu,,,,sample video 5 h264,5
+6464,1761617015,ai.elimu.filamu,{'video_playback_position_ms': 50021},,,sample video 5 h264,5
+6465,1761617129,ai.elimu.filamu,,,,test sample video,1
+6466,1761617170,ai.elimu.filamu,{'video_playback_position_ms': 51736},,,test sample video,1
