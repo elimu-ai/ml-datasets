@@ -1601,3 +1601,27 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 6454,1761616562,ai.elimu.filamu,{'video_playback_position_ms': 38547},,,sample video 7 - re-encodeed,7
 6455,1761616675,ai.elimu.filamu,,,,sample video 5 h264,5
 6456,1761616716,ai.elimu.filamu,{'video_playback_position_ms': 34097},,,sample video 5 h264,5
+6505,1762390936,ai.elimu.filamu,,,,test sample video,1
+6506,1762390991,ai.elimu.filamu,{'video_playback_position_ms': 11667},,,test sample video,1
+6507,1762391043,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6508,1762391057,ai.elimu.filamu,{'video_playback_position_ms': 20783},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6509,1762391153,ai.elimu.filamu,,,,sample video 5 h264,5
+6510,1762391211,ai.elimu.filamu,{'video_playback_position_ms': 29735},,,sample video 5 h264,5
+6511,1762391284,ai.elimu.filamu,,,,test sample video,1
+6512,1762391308,ai.elimu.filamu,{'video_playback_position_ms': 40258},,,test sample video,1
+6513,1762391353,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+6514,1762391402,ai.elimu.filamu,{'video_playback_position_ms': 26350},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+6515,1762391425,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6516,1762391447,ai.elimu.filamu,{'video_playback_position_ms': 43423},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6517,1762391466,ai.elimu.filamu,,,,sample video 5 h264,5
+6518,1762391491,ai.elimu.filamu,{'video_playback_position_ms': 45550},,,sample video 5 h264,5
+6519,1762391554,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+6520,1762391585,ai.elimu.filamu,{'video_playback_position_ms': 7845},,,sample video 7 - re-encodeed,7
+6521,1762391673,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6522,1762391690,ai.elimu.filamu,{'video_playback_position_ms': 53457},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6523,1762391780,ai.elimu.filamu,,,,test sample video,1
+6524,1762391823,ai.elimu.filamu,{'video_playback_position_ms': 48212},,,test sample video,1
+6525,1762391874,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6526,1762391924,ai.elimu.filamu,{'video_playback_position_ms': 57584},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6527,1762392004,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6528,1762392040,ai.elimu.filamu,{'video_playback_position_ms': 3626},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10

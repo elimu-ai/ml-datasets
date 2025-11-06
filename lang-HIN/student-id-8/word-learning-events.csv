@@ -1,4 +1,5 @@
 id,timestamp,package_name,additional_data,research_experiment,experiment_group,word_text,word_id
+92462,1721976607,ai.elimu.maneno.debug,"{""spokenText"":""में""}",0.0,0.0,में,78.0
 92257,1742290800,ai.elimu.vitabu.debug,,,,विमान,
 92256,1742290804,ai.elimu.vitabu.debug,,,,आवाज़,
 92255,1742290805,ai.elimu.vitabu.debug,,,,यह,
