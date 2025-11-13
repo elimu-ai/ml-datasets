@@ -1703,3 +1703,23 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 6588,1762479885,ai.elimu.filamu,{'video_playback_position_ms': 42662},,,test sample video,1
 6589,1762479934,ai.elimu.filamu,,,,test sample video,1
 6590,1762479974,ai.elimu.filamu,{'video_playback_position_ms': 10759},,,test sample video,1
+6591,1762994389,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+6592,1762994438,ai.elimu.filamu,{'video_playback_position_ms': 21488},,,sample video 7 - re-encodeed,7
+6593,1762994511,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+6594,1762994536,ai.elimu.filamu,{'video_playback_position_ms': 55408},,,sample video 7 - re-encodeed,7
+6595,1762994649,ai.elimu.filamu,,,,sample video 5 h264,5
+6596,1762994681,ai.elimu.filamu,{'video_playback_position_ms': 32172},,,sample video 5 h264,5
+6597,1762994776,ai.elimu.filamu,,,,sample video 5 h264,5
+6598,1762994824,ai.elimu.filamu,{'video_playback_position_ms': 55889},,,sample video 5 h264,5
+6599,1762994902,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+6600,1762994921,ai.elimu.filamu,{'video_playback_position_ms': 53635},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+6601,1762994945,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+6602,1762994963,ai.elimu.filamu,{'video_playback_position_ms': 19977},,,sample video 7 - re-encodeed,7
+6603,1762994983,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+6604,1762994987,ai.elimu.filamu,{'video_playback_position_ms': 58682},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+6605,1762995086,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6606,1762995111,ai.elimu.filamu,{'video_playback_position_ms': 59865},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6607,1762995212,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+6608,1762995240,ai.elimu.filamu,{'video_playback_position_ms': 12206},,,sample video 7 - re-encodeed,7
+6609,1762995331,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+6610,1762995383,ai.elimu.filamu,{'video_playback_position_ms': 1019},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
