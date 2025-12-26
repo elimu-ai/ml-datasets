@@ -1767,3 +1767,39 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 7008,1765933974,ai.elimu.filamu,{'video_playback_position_ms': 5910},,,test sample video,1
 7009,1765934023,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 7010,1765934055,ai.elimu.filamu,{'video_playback_position_ms': 21987},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7021,1766108345,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7022,1766108359,ai.elimu.filamu,{'video_playback_position_ms': 33574},,,sample video 7 - re-encodeed,7
+7023,1766108391,ai.elimu.filamu,,,,sample video 5 h264,5
+7024,1766108408,ai.elimu.filamu,{'video_playback_position_ms': 23289},,,sample video 5 h264,5
+7025,1766108498,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7026,1766108524,ai.elimu.filamu,{'video_playback_position_ms': 53131},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7027,1766108591,ai.elimu.filamu,,,,sample video 5 h264,5
+7028,1766108613,ai.elimu.filamu,{'video_playback_position_ms': 56523},,,sample video 5 h264,5
+7029,1766108684,ai.elimu.filamu,,,,test sample video,1
+7030,1766108705,ai.elimu.filamu,{'video_playback_position_ms': 41892},,,test sample video,1
+7031,1766108815,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7032,1766108820,ai.elimu.filamu,{'video_playback_position_ms': 23326},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7033,1766108890,ai.elimu.filamu,,,,sample video 5 h264,5
+7034,1766108924,ai.elimu.filamu,{'video_playback_position_ms': 11788},,,sample video 5 h264,5
+7035,1766108991,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7036,1766109032,ai.elimu.filamu,{'video_playback_position_ms': 36921},,,sample video 7 - re-encodeed,7
+7037,1766109145,ai.elimu.filamu,,,,test sample video,1
+7038,1766109160,ai.elimu.filamu,{'video_playback_position_ms': 38527},,,test sample video,1
+7039,1766109258,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7040,1766109302,ai.elimu.filamu,{'video_playback_position_ms': 18600},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7041,1766109331,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7042,1766109347,ai.elimu.filamu,{'video_playback_position_ms': 47399},,,sample video 7 - re-encodeed,7
+7043,1766109363,ai.elimu.filamu,,,,test sample video,1
+7044,1766109368,ai.elimu.filamu,{'video_playback_position_ms': 27534},,,test sample video,1
+7045,1766109433,ai.elimu.filamu,,,,test sample video,1
+7046,1766109448,ai.elimu.filamu,{'video_playback_position_ms': 12746},,,test sample video,1
+7047,1766109481,ai.elimu.filamu,,,,sample video 5 h264,5
+7048,1766109511,ai.elimu.filamu,{'video_playback_position_ms': 14092},,,sample video 5 h264,5
+7049,1766109542,ai.elimu.filamu,,,,sample video 5 h264,5
+7050,1766109587,ai.elimu.filamu,{'video_playback_position_ms': 46490},,,sample video 5 h264,5
+7051,1766109669,ai.elimu.filamu,,,,sample video 5 h264,5
+7052,1766109698,ai.elimu.filamu,{'video_playback_position_ms': 58843},,,sample video 5 h264,5
+7053,1766109760,ai.elimu.filamu,,,,test sample video,1
+7054,1766109768,ai.elimu.filamu,{'video_playback_position_ms': 35906},,,test sample video,1
+7055,1766109784,ai.elimu.filamu,,,,test sample video,1
+7056,1766109798,ai.elimu.filamu,{'video_playback_position_ms': 21681},,,test sample video,1
