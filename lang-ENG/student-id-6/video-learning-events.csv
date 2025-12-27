@@ -1767,3 +1767,29 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5812603,1766187574,ai.elimu.filamu,{'video_playback_position_ms': 2020},,,akili and me - letter b,2
 5812604,1766187673,ai.elimu.filamu,,,,[test] a test video,44
 5812605,1766187680,ai.elimu.filamu,{'video_playback_position_ms': 38634},,,[test] a test video,44
+5812658,1766791784,ai.elimu.filamu,,,,[test] a test video,44
+5812659,1766791828,ai.elimu.filamu,{'video_playback_position_ms': 5199},,,[test] a test video,44
+5812660,1766791934,ai.elimu.filamu,,,,akili and me - letter d,4
+5812661,1766791986,ai.elimu.filamu,{'video_playback_position_ms': 22049},,,akili and me - letter d,4
+5812662,1766792097,ai.elimu.filamu,,,,akili and me - the rectangle song,13
+5812663,1766792150,ai.elimu.filamu,{'video_playback_position_ms': 14212},,,akili and me - the rectangle song,13
+5812664,1766792265,ai.elimu.filamu,,,,akili and me - the rectangle song,13
+5812665,1766792292,ai.elimu.filamu,{'video_playback_position_ms': 41801},,,akili and me - the rectangle song,13
+5812666,1766792335,ai.elimu.filamu,,,,akili and me - letter c,3
+5812667,1766792351,ai.elimu.filamu,{'video_playback_position_ms': 4779},,,akili and me - letter c,3
+5812668,1766792420,ai.elimu.filamu,,,,akili and me - letter b,2
+5812669,1766792448,ai.elimu.filamu,{'video_playback_position_ms': 24190},,,akili and me - letter b,2
+5812670,1766792558,ai.elimu.filamu,,,,akili and me - the rectangle song,13
+5812671,1766792595,ai.elimu.filamu,{'video_playback_position_ms': 44622},,,akili and me - the rectangle song,13
+5812672,1766792690,ai.elimu.filamu,,,,akili and me - letter c,3
+5812673,1766792746,ai.elimu.filamu,{'video_playback_position_ms': 52776},,,akili and me - letter c,3
+5812674,1766792796,ai.elimu.filamu,,,,akili and me - letter d,4
+5812675,1766792832,ai.elimu.filamu,{'video_playback_position_ms': 37383},,,akili and me - letter d,4
+5812676,1766792852,ai.elimu.filamu,,,,akili and me - the rectangle song,13
+5812677,1766792857,ai.elimu.filamu,{'video_playback_position_ms': 5477},,,akili and me - the rectangle song,13
+5812678,1766792940,ai.elimu.filamu,,,,akili and me - letter b,2
+5812679,1766792992,ai.elimu.filamu,{'video_playback_position_ms': 50432},,,akili and me - letter b,2
+5812680,1766793108,ai.elimu.filamu,,,,akili and me - letter c,3
+5812681,1766793153,ai.elimu.filamu,{'video_playback_position_ms': 53770},,,akili and me - letter c,3
+5812682,1766793273,ai.elimu.filamu,,,,[test] a test video,44
+5812683,1766793322,ai.elimu.filamu,{'video_playback_position_ms': 27076},,,[test] a test video,44
