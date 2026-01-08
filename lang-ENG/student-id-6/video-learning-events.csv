@@ -1793,3 +1793,7 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5812681,1766793153,ai.elimu.filamu,{'video_playback_position_ms': 53770},,,akili and me - letter c,3
 5812682,1766793273,ai.elimu.filamu,,,,[test] a test video,44
 5812683,1766793322,ai.elimu.filamu,{'video_playback_position_ms': 27076},,,[test] a test video,44
+5812720,1766878162,ai.elimu.filamu,,,,akili and me - letter c,3
+5812721,1766878169,ai.elimu.filamu,{'video_playback_position_ms': 50049},,,akili and me - letter c,3
+5812722,1766878250,ai.elimu.filamu,,,,[test] a test video,44
+5812723,1766878307,ai.elimu.filamu,{'video_playback_position_ms': 27806},,,[test] a test video,44
