@@ -1869,3 +1869,27 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 7200,1766884407,ai.elimu.filamu,{'video_playback_position_ms': 31094},,,sample video 5 h264,5
 7201,1766884448,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
 7202,1766884454,ai.elimu.filamu,{'video_playback_position_ms': 15995},,,sample video 7 - re-encodeed,7
+7233,1767919086,ai.elimu.filamu,,,,test sample video,1
+7234,1767919133,ai.elimu.filamu,{'video_playback_position_ms': 5978},,,test sample video,1
+7235,1767919226,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7236,1767919273,ai.elimu.filamu,{'video_playback_position_ms': 29585},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7237,1767919307,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7238,1767919328,ai.elimu.filamu,{'video_playback_position_ms': 45786},,,sample video 7 - re-encodeed,7
+7239,1767919363,ai.elimu.filamu,,,,sample video 5 h264,5
+7240,1767919392,ai.elimu.filamu,{'video_playback_position_ms': 38016},,,sample video 5 h264,5
+7241,1767919458,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7242,1767919492,ai.elimu.filamu,{'video_playback_position_ms': 35418},,,sample video 7 - re-encodeed,7
+7243,1767919528,ai.elimu.filamu,,,,test sample video,1
+7244,1767919583,ai.elimu.filamu,{'video_playback_position_ms': 54350},,,test sample video,1
+7245,1767919639,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7246,1767919697,ai.elimu.filamu,{'video_playback_position_ms': 17442},,,sample video 7 - re-encodeed,7
+7247,1767919735,ai.elimu.filamu,,,,test sample video,1
+7248,1767919778,ai.elimu.filamu,{'video_playback_position_ms': 57182},,,test sample video,1
+7249,1767919857,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7250,1767919874,ai.elimu.filamu,{'video_playback_position_ms': 12586},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7251,1767919919,ai.elimu.filamu,,,,test sample video,1
+7252,1767919927,ai.elimu.filamu,{'video_playback_position_ms': 46099},,,test sample video,1
+7253,1767920044,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7254,1767920058,ai.elimu.filamu,{'video_playback_position_ms': 17114},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7255,1767920169,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7256,1767920174,ai.elimu.filamu,{'video_playback_position_ms': 7893},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
