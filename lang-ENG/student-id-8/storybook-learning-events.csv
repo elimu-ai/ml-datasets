@@ -92,3 +92,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 30909,1758731312,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,A Tiny Seed 🌱,77.0
 30910,1758731328,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 13]""}",0.0,0.0,A Tiny Seed 🌱,77.0
 30911,1758888764,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,A Tiny Seed 🌱,77.0
+30917,1764594393,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Lara the Yellow Ladybird,61.0
+30918,1764594517,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,Abcd a nature alphabet book,65.0

@@ -63,3 +63,6 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5100,1758805213,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":1000}",0.0,1.0,sample video 5 h264,5
 5101,1758805214,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_OPENED""}",0.0,1.0,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 5102,1758805389,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":168660}",0.0,1.0,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7315,1767840268,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_OPENED""}",0.0,1.0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7316,1767840307,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":37958}",0.0,1.0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7317,1767840319,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_OPENED""}",0.0,1.0,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
