@@ -1657,3 +1657,7 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5812859,1770596095,ai.elimu.filamu,{'video_playback_position_ms': 52609},,,akili and me - letter a,1
 5812860,1770596213,ai.elimu.filamu,,,,akili and me - the rectangle song,13
 5812861,1770596250,ai.elimu.filamu,{'video_playback_position_ms': 55910},,,akili and me - the rectangle song,13
+5812948,1770827271,ai.elimu.filamu,,,,[test] a test video,44
+5812949,1770827297,ai.elimu.filamu,{'video_playback_position_ms': 55923},,,[test] a test video,44
+5812950,1770827404,ai.elimu.filamu,,,,akili and me - the rectangle song,13
+5812951,1770827463,ai.elimu.filamu,{'video_playback_position_ms': 44176},,,akili and me - the rectangle song,13
