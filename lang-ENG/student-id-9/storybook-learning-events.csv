@@ -4,3 +4,8 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 30905,1751353511,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 0, 1, 2, 1]""}",0,1,Ali’s Little Star ⭐,76
 30906,1751353514,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Lara the Yellow Ladybird,61
 30912,1758888764,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,A Tiny Seed 🌱,77
+30922,1771435379,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Abcd a nature alphabet book,65
+30923,1771496700,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ali’s Little Star ⭐,76
+30924,1771496718,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[10, 0, 0, 0, 0, 0, 0]""}",0,1,Ali’s Little Star ⭐,76
+30925,1771496749,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ali’s Little Star ⭐,76
+30926,1771496772,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 4, 1, 1, 1, 2, 3]""}",0,1,Ali’s Little Star ⭐,76

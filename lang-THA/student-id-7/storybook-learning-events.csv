@@ -1,0 +1,12 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+1369,1771620355,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ป้าของฉันขายปลา,80
+1370,1771620576,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กลโกงเจ้าจิ้งจอก,31
+1371,1771620597,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กะหล่ำปลีหายไปไหน,69
+1372,1771620611,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 1, 1, 1, 1, 2, 1, 1, 2]""}",0,0,กะหล่ำปลีหายไปไหน,69
+1373,1771620616,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กาใจดี ไก่ใจดำ,43
+1374,1771620638,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[3, 1, 1, 1, 1, 1, 1, 1, 5]""}",0,0,กาใจดี ไก่ใจดำ,43
+1375,1771620671,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
+1376,1771620691,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กลโกงเจ้าจิ้งจอก,31
+1377,1771621102,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
+1378,1771621125,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
+1379,1774458736,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กลโกงเจ้าจิ้งจอก,31

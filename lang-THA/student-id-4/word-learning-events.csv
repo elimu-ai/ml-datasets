@@ -2896,3 +2896,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,w
 5207,1768094238,ai.elimu.maneno.debug,"{""spokenText"":""ว่า""}",0.0,1.0,ว่า,19.0
 5208,1768119224,ai.elimu.maneno.debug,"{""spokenText"":""เป็น""}",0.0,1.0,เป็น,180.0
 5209,1768126824,ai.elimu.maneno.debug,"{""spokenText"":""ให้""}",0.0,1.0,ให้,181.0
+5210,1770311898,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ชอบ,87.0
+5211,1770311901,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0.0,1.0,ใจ,151.0

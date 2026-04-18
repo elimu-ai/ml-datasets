@@ -1,0 +1,9 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,word_text,word_id
+3,1767871540,ai.elimu.maneno.debug,"{""spokenText"":""và""}",0,0,và,14
+4,1767871549,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0,0,đi,19
+5,1770312458,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0,0,ba,1
+6,1770312462,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0,0,con,4
+7,1770312471,ai.elimu.vitabu.debug,"{""eventType"":""WORD_PRESSED""}",0,0,em,11
+8,1771515840,ai.elimu.maneno.debug,"{""spokenText"":""và""}",0,0,và,14
+9,1771515875,ai.elimu.maneno.debug,"{""spokenText"":""và""}",0,0,và,14
+10,1771516940,ai.elimu.maneno.debug,"{""spokenText"":""và""}",0,0,và,14

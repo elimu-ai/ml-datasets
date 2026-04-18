@@ -1,0 +1,8 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,video_title,video_id
+4528098,1771585812,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,piper,1
+4528099,1771585836,ai.elimu.filamu,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":24078}",0,1,piper,1
+4528100,1771872980,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,piper,1
+4528101,1771873005,ai.elimu.filamu,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":24078}",0,1,piper,1
+4528102,1771873014,ai.elimu.filamu,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":24078}",0,1,piper,1
+4528935,1773611093,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,piper,1
+4528936,1773611117,ai.elimu.filamu,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":24078}",0,1,piper,1

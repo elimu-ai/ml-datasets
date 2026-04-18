@@ -1,0 +1,10 @@
+id,timestamp,package_name,mastery_score,time_spent_ms,additional_data,research_experiment,experiment_group,word_text,word_id
+280,1771873221,ai.elimu.kukariri,0.0,3604,,0,1,pulang,412
+281,1771873224,ai.elimu.kukariri,1.0,2736,,0,1,isda,107
+282,1773610896,ai.elimu.kukariri,1.0,27758,,0,1,mata,347
+283,1773610898,ai.elimu.kukariri,0.0,2968,,0,1,pulang,412
+284,1773610902,ai.elimu.kukariri,1.0,3439,,0,1,isda,107
+285,1773610905,ai.elimu.kukariri,0.0,2993,,0,1,paa,113
+286,1773610908,ai.elimu.kukariri,1.0,3299,,0,1,kamatis,270
+287,1773610911,ai.elimu.kukariri,0.0,2302,,0,1,pulang,412
+288,1773610913,ai.elimu.kukariri,0.0,1905,,0,1,paa,113

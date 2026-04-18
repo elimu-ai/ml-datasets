@@ -1,0 +1,9 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+528,1771585943,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Aaloo-Maaloo-Kaaloo,68
+529,1771872665,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Alimango at Isda ay Magkaibigan,63
+530,1771872819,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Alimango at Isda ay Magkaibigan,63
+531,1773610928,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Aaloo-Maaloo-Kaaloo,68
+532,1773610941,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Aaloo-Maaloo-Kaaloo,68
+533,1773611040,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[27, 38, 14, 3, 1, 1, 1]""}",0,1,Aaloo-Maaloo-Kaaloo,68
+534,1774193143,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Langgam at Tinapay,14
+535,1774193151,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 4, 0]""}",0,1,Ang Langgam at Tinapay,14

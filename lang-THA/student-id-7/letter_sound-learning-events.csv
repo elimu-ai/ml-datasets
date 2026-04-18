@@ -1,0 +1,57 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,letter_sound_letters,letter_sound_sounds,letter_sound_id
+1562,1771620329,ai.elimu.herufi,,0,0,[น],[n],7
+1563,1771620331,ai.elimu.herufi,,0,0,[า],[aː],13
+1564,1774458724,ai.elimu.herufi,,0,0,[น],[n],7
+1565,1774458726,ai.elimu.herufi,,0,0,[า],[aː],13
+1566,1775168060,ai.elimu.herufi,,0,0,[น],[n],7
+1567,1775168064,ai.elimu.herufi,,0,0,[า],[aː],13
+1568,1775168066,ai.elimu.herufi,,0,0,[◌่],[∅],116
+1569,1775168068,ai.elimu.herufi,,0,0,[◌้],[∅],117
+1570,1775168071,ai.elimu.herufi,,0,0,[ก],[k],3
+1571,1775168073,ai.elimu.herufi,,0,0,[ม],[m],12
+1572,1775168075,ai.elimu.herufi,,0,0,[ง],[ŋ],4
+1573,1775168077,ai.elimu.herufi,,0,0,[◌ั],[a],34
+1574,1775168079,ai.elimu.herufi,,0,0,[◌ี],[iː],16
+1575,1775168082,ai.elimu.herufi,,0,0,[ล],[l],22
+1576,1775168086,ai.elimu.herufi,,0,0,[ด],[d],5
+1577,1775168088,ai.elimu.herufi,,0,0,[ว],[w],18
+1578,1775168092,ai.elimu.herufi,,0,0,[จ],[tɕ],24
+1579,1775168096,ai.elimu.herufi,,0,0,[จ],[tɕ],24
+1580,1775168100,ai.elimu.herufi,,0,0,"[◌, อ]",[ɔː],31
+1581,1775168103,ai.elimu.herufi,,0,0,"[◌, อ]",[ɔː],31
+1582,1775168105,ai.elimu.herufi,,0,0,[ท],[tʰ],43
+1583,1775168108,ai.elimu.herufi,,0,0,[ป],[p],8
+1584,1775168112,ai.elimu.herufi,,0,0,[◌ู],[uː],17
+1585,1775168116,ai.elimu.herufi,,0,0,[ร],[r],27
+1586,1775168121,ai.elimu.herufi,,0,0,"[ไ, ◌, ◌]","[a, j]",121
+1587,1775168129,ai.elimu.herufi,,0,0,[ต],[t],48
+1588,1775168141,ai.elimu.herufi,,0,0,[ต],[t],48
+1589,1775168148,ai.elimu.herufi,,0,0,[ย],[y],14
+1590,1775168150,ai.elimu.herufi,,0,0,[ย],[y],14
+1591,1775168158,ai.elimu.herufi,,0,0,[ข],[kʰ],38
+1592,1775168162,ai.elimu.herufi,,0,0,[ข],[kʰ],38
+1593,1775168167,ai.elimu.herufi,,0,0,[ข],[kʰ],38
+1594,1775168169,ai.elimu.herufi,,0,0,[ข],[kʰ],38
+1595,1775168171,ai.elimu.herufi,,0,0,[ข],[kʰ],38
+1596,1775168179,ai.elimu.herufi,,0,0,[ข],[kʰ],38
+1597,1775168182,ai.elimu.herufi,,0,0,[ข],[kʰ],38
+1598,1775168186,ai.elimu.herufi,,0,0,"[แ, ◌, ◌]",[ɛː],80
+1599,1775168188,ai.elimu.herufi,,0,0,"[แ, ◌, ◌]",[ɛː],80
+1600,1775168190,ai.elimu.herufi,,0,0,"[แ, ◌, ◌]",[ɛː],80
+1601,1775168194,ai.elimu.herufi,,0,0,"[แ, ◌, ◌]",[ɛː],80
+1602,1775168196,ai.elimu.herufi,,0,0,[ะ],[a],61
+1603,1775168201,ai.elimu.herufi,,0,0,"[ไ, ◌]","[a, j]",40
+1604,1775168206,ai.elimu.herufi,,0,0,[ห],[h],19
+1605,1775168215,ai.elimu.herufi,,0,0,[ค],[kʰ],25
+1606,1775168224,ai.elimu.herufi,,0,0,[ส],[s],32
+1607,1775168229,ai.elimu.herufi,,0,0,"[เ, ◌็]",[e],108
+1608,1775168233,ai.elimu.herufi,,0,0,"[เ, ◌็]",[e],108
+1609,1775168240,ai.elimu.herufi,,0,0,[◌ึ],[ɯ],94
+1610,1775168243,ai.elimu.herufi,,0,0,[◌ึ],[ɯ],94
+1611,1775168245,ai.elimu.herufi,,0,0,[บ],[b],1
+1612,1775168247,ai.elimu.herufi,,0,0,[บ],[b],1
+1613,1775168250,ai.elimu.herufi,,0,0,[บ],[p],2
+1614,1775168254,ai.elimu.herufi,,0,0,"[อ, ย]",[y],97
+1615,1775168258,ai.elimu.herufi,,0,0,[ฉ],[tɕʰ],44
+1616,1775168261,ai.elimu.herufi,,0,0,[ฉ],[tɕʰ],44
+1617,1775168265,ai.elimu.herufi,,0,0,"[เ, ◌, อ]",[ɤː],72

@@ -1,0 +1,3 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+158,1767871540,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
+159,1770312445,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0,0,Chuyến  phiêu lưu vẻ vang của Ghum Ghum,128

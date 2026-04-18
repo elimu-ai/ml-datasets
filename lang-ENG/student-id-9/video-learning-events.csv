@@ -1,1 +1,16 @@
 id,timestamp,package_name,additional_data,research_experiment,experiment_group,video_title,video_id
+5813224,1771496786,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,akili and me - letter a,1
+5813225,1771496789,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0,1,akili and me - letter a,1
+5813226,1771496790,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,akili and me - letter b,2
+5813227,1771496791,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0,1,akili and me - letter b,2
+5813228,1771496792,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,akili and me - letter c,3
+5813229,1771496793,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0,1,akili and me - letter c,3
+5813230,1771496795,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0,1,akili and me - letter d,4
+5813231,1771496797,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0,1,akili and me - the rectangle song,13
+5813232,1771496798,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0,1,akili and me - letter i,33
+5813233,1771496799,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,[test] a test video,44
+5813234,1771496824,ai.elimu.filamu,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":30526}",0,1,[test] a test video,44
+5813235,1771497882,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,akili and me - letter a,1
+5813236,1771497885,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":0}",0,1,akili and me - letter a,1
+5813237,1771497886,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,[test] a test video,44
+5813238,1771497890,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":2972}",0,1,[test] a test video,44

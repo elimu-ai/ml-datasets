@@ -1,0 +1,9 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,letter_sound_letters,letter_sound_sounds,letter_sound_id
+10,1774458078,ai.elimu.herufi,,0,0,[◌̀],[∅],24
+11,1774458079,ai.elimu.herufi,,0,0,[a],[a],1
+12,1774458081,ai.elimu.herufi,,0,0,[c],[k],6
+13,1774458082,ai.elimu.herufi,,0,0,[◌́],[∅],29
+14,1774458084,ai.elimu.herufi,,0,0,[n],[n],7
+15,1774458086,ai.elimu.herufi,,0,0,[m],[m],17
+16,1774458087,ai.elimu.herufi,,0,0,"[n, g]",[ŋ],36
+17,1774458089,ai.elimu.herufi,,0,0,[i],[i],10

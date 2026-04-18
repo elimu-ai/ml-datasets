@@ -1,0 +1,6 @@
+id,timestamp,package_name,mastery_score,time_spent_ms,additional_data,research_experiment,experiment_group,number_value,number_id
+4,1773611133,ai.elimu.learndigits,1.0,1024,,0,1,0,
+5,1773611137,ai.elimu.learndigits,1.0,415,,0,1,5,
+6,1773611139,ai.elimu.learndigits,0.0,149,"{""numberSelected"":7}",0,1,2,
+7,1773611144,ai.elimu.learndigits,1.0,507,,0,1,5,
+8,1773611147,ai.elimu.learndigits,1.0,593,,0,1,0,

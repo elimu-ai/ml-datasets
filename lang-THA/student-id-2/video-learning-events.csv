@@ -1969,3 +1969,737 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 7527,1770861907,ai.elimu.filamu,{'video_playback_position_ms': 25500},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 7528,1770861961,ai.elimu.filamu,,,,test sample video,1
 7529,1770861971,ai.elimu.filamu,{'video_playback_position_ms': 23086},,,test sample video,1
+7560,1771115400,ai.elimu.filamu,,,,test sample video,1
+7561,1771115422,ai.elimu.filamu,{'video_playback_position_ms': 12205},,,test sample video,1
+7562,1771115469,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7563,1771115485,ai.elimu.filamu,{'video_playback_position_ms': 58213},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7564,1771115524,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7565,1771115582,ai.elimu.filamu,{'video_playback_position_ms': 50643},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7566,1771115701,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7567,1771115751,ai.elimu.filamu,{'video_playback_position_ms': 54816},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7568,1771115796,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7569,1771115815,ai.elimu.filamu,{'video_playback_position_ms': 1810},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7570,1771115841,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7571,1771115845,ai.elimu.filamu,{'video_playback_position_ms': 22135},,,sample video 7 - re-encodeed,7
+7608,1771204023,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7609,1771204044,ai.elimu.filamu,{'video_playback_position_ms': 16187},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7610,1771204114,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7611,1771204121,ai.elimu.filamu,{'video_playback_position_ms': 28390},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7612,1771204183,ai.elimu.filamu,,,,sample video 5 h264,5
+7613,1771204197,ai.elimu.filamu,{'video_playback_position_ms': 30387},,,sample video 5 h264,5
+7614,1771204239,ai.elimu.filamu,,,,sample video 5 h264,5
+7615,1771204283,ai.elimu.filamu,{'video_playback_position_ms': 43977},,,sample video 5 h264,5
+7616,1771204376,ai.elimu.filamu,,,,sample video 5 h264,5
+7617,1771204426,ai.elimu.filamu,{'video_playback_position_ms': 48457},,,sample video 5 h264,5
+7618,1771204518,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7619,1771204544,ai.elimu.filamu,{'video_playback_position_ms': 40861},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7620,1771204582,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7621,1771204619,ai.elimu.filamu,{'video_playback_position_ms': 32432},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7622,1771204673,ai.elimu.filamu,,,,test sample video,1
+7623,1771204708,ai.elimu.filamu,{'video_playback_position_ms': 32592},,,test sample video,1
+7624,1771204815,ai.elimu.filamu,,,,test sample video,1
+7625,1771204859,ai.elimu.filamu,{'video_playback_position_ms': 12981},,,test sample video,1
+7626,1771204886,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7627,1771204914,ai.elimu.filamu,{'video_playback_position_ms': 5812},,,sample video 7 - re-encodeed,7
+7628,1771204958,ai.elimu.filamu,,,,sample video 5 h264,5
+7629,1771205011,ai.elimu.filamu,{'video_playback_position_ms': 37895},,,sample video 5 h264,5
+7630,1771205054,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7631,1771205066,ai.elimu.filamu,{'video_playback_position_ms': 10904},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7666,1771296137,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7667,1771296172,ai.elimu.filamu,{'video_playback_position_ms': 24158},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7668,1771296210,ai.elimu.filamu,,,,sample video 5 h264,5
+7669,1771296221,ai.elimu.filamu,{'video_playback_position_ms': 41761},,,sample video 5 h264,5
+7670,1771296324,ai.elimu.filamu,,,,test sample video,1
+7671,1771296380,ai.elimu.filamu,{'video_playback_position_ms': 48166},,,test sample video,1
+7672,1771296471,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7673,1771296491,ai.elimu.filamu,{'video_playback_position_ms': 18445},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7674,1771296528,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7675,1771296552,ai.elimu.filamu,{'video_playback_position_ms': 38440},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7676,1771296649,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7677,1771296667,ai.elimu.filamu,{'video_playback_position_ms': 22624},,,sample video 7 - re-encodeed,7
+7678,1771296696,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7679,1771296739,ai.elimu.filamu,{'video_playback_position_ms': 2068},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7680,1771296783,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7681,1771296835,ai.elimu.filamu,{'video_playback_position_ms': 44998},,,sample video 7 - re-encodeed,7
+7682,1771296872,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7683,1771296883,ai.elimu.filamu,{'video_playback_position_ms': 48829},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7684,1771296975,ai.elimu.filamu,,,,test sample video,1
+7685,1771297031,ai.elimu.filamu,{'video_playback_position_ms': 57102},,,test sample video,1
+7686,1771297119,ai.elimu.filamu,,,,test sample video,1
+7687,1771297147,ai.elimu.filamu,{'video_playback_position_ms': 59546},,,test sample video,1
+7688,1771297246,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7689,1771297298,ai.elimu.filamu,{'video_playback_position_ms': 43733},,,sample video 7 - re-encodeed,7
+7690,1771297341,ai.elimu.filamu,,,,test sample video,1
+7691,1771297397,ai.elimu.filamu,{'video_playback_position_ms': 22636},,,test sample video,1
+7692,1771297480,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7693,1771297508,ai.elimu.filamu,{'video_playback_position_ms': 31334},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7694,1771376604,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7695,1771376646,ai.elimu.filamu,{'video_playback_position_ms': 41922},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7696,1771376711,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7697,1771376716,ai.elimu.filamu,{'video_playback_position_ms': 54603},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7698,1771376801,ai.elimu.filamu,,,,sample video 5 h264,5
+7699,1771376837,ai.elimu.filamu,{'video_playback_position_ms': 33662},,,sample video 5 h264,5
+7700,1771376936,ai.elimu.filamu,,,,test sample video,1
+7701,1771376993,ai.elimu.filamu,{'video_playback_position_ms': 39956},,,test sample video,1
+7702,1771377010,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7703,1771377067,ai.elimu.filamu,{'video_playback_position_ms': 51872},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7704,1771377141,ai.elimu.filamu,,,,test sample video,1
+7705,1771377166,ai.elimu.filamu,{'video_playback_position_ms': 2721},,,test sample video,1
+7706,1771377255,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7707,1771377266,ai.elimu.filamu,{'video_playback_position_ms': 39758},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7708,1771377360,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7709,1771377419,ai.elimu.filamu,{'video_playback_position_ms': 52637},,,sample video 7 - re-encodeed,7
+7710,1771377513,ai.elimu.filamu,,,,sample video 5 h264,5
+7711,1771377555,ai.elimu.filamu,{'video_playback_position_ms': 15278},,,sample video 5 h264,5
+7712,1771377659,ai.elimu.filamu,,,,test sample video,1
+7713,1771377709,ai.elimu.filamu,{'video_playback_position_ms': 4910},,,test sample video,1
+7740,1771465994,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7741,1771466027,ai.elimu.filamu,{'video_playback_position_ms': 14626},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7742,1771466079,ai.elimu.filamu,,,,test sample video,1
+7743,1771466094,ai.elimu.filamu,{'video_playback_position_ms': 45738},,,test sample video,1
+7744,1771466141,ai.elimu.filamu,,,,sample video 5 h264,5
+7745,1771466180,ai.elimu.filamu,{'video_playback_position_ms': 5035},,,sample video 5 h264,5
+7746,1771466220,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7747,1771466235,ai.elimu.filamu,{'video_playback_position_ms': 5915},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7748,1771466301,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7749,1771466322,ai.elimu.filamu,{'video_playback_position_ms': 15989},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7750,1771466439,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7751,1771466462,ai.elimu.filamu,{'video_playback_position_ms': 53112},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7752,1771466515,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7753,1771466549,ai.elimu.filamu,{'video_playback_position_ms': 12456},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7754,1771466586,ai.elimu.filamu,,,,test sample video,1
+7755,1771466604,ai.elimu.filamu,{'video_playback_position_ms': 48642},,,test sample video,1
+7756,1771551613,ai.elimu.filamu,,,,test sample video,1
+7757,1771551652,ai.elimu.filamu,{'video_playback_position_ms': 8869},,,test sample video,1
+7758,1771551749,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7759,1771551792,ai.elimu.filamu,{'video_playback_position_ms': 56471},,,sample video 7 - re-encodeed,7
+7760,1771551818,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7761,1771551853,ai.elimu.filamu,{'video_playback_position_ms': 47953},,,sample video 7 - re-encodeed,7
+7762,1771551873,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7763,1771551926,ai.elimu.filamu,{'video_playback_position_ms': 7614},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7764,1771551947,ai.elimu.filamu,,,,sample video 5 h264,5
+7765,1771551970,ai.elimu.filamu,{'video_playback_position_ms': 31620},,,sample video 5 h264,5
+7766,1771551997,ai.elimu.filamu,,,,sample video 5 h264,5
+7767,1771552056,ai.elimu.filamu,{'video_playback_position_ms': 43170},,,sample video 5 h264,5
+7768,1771552124,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7769,1771552178,ai.elimu.filamu,{'video_playback_position_ms': 46176},,,sample video 7 - re-encodeed,7
+7770,1771552246,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7771,1771552294,ai.elimu.filamu,{'video_playback_position_ms': 18238},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7772,1771552366,ai.elimu.filamu,,,,test sample video,1
+7773,1771552413,ai.elimu.filamu,{'video_playback_position_ms': 33520},,,test sample video,1
+7774,1771552431,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7775,1771552464,ai.elimu.filamu,{'video_playback_position_ms': 56985},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7776,1771552484,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7777,1771552519,ai.elimu.filamu,{'video_playback_position_ms': 31417},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7778,1771552628,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7779,1771552677,ai.elimu.filamu,{'video_playback_position_ms': 12474},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7816,1771725626,ai.elimu.filamu,,,,sample video 5 h264,5
+7817,1771725653,ai.elimu.filamu,{'video_playback_position_ms': 14064},,,sample video 5 h264,5
+7818,1771725771,ai.elimu.filamu,,,,sample video 5 h264,5
+7819,1771725821,ai.elimu.filamu,{'video_playback_position_ms': 38697},,,sample video 5 h264,5
+7820,1771725891,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7821,1771725903,ai.elimu.filamu,{'video_playback_position_ms': 40914},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7822,1771725922,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7823,1771725948,ai.elimu.filamu,{'video_playback_position_ms': 36626},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7824,1771726033,ai.elimu.filamu,,,,sample video 5 h264,5
+7825,1771726075,ai.elimu.filamu,{'video_playback_position_ms': 22257},,,sample video 5 h264,5
+7826,1771726169,ai.elimu.filamu,,,,sample video 5 h264,5
+7827,1771726222,ai.elimu.filamu,{'video_playback_position_ms': 42103},,,sample video 5 h264,5
+7828,1771726324,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7829,1771726355,ai.elimu.filamu,{'video_playback_position_ms': 31373},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7830,1771726451,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7831,1771726506,ai.elimu.filamu,{'video_playback_position_ms': 50411},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7832,1771726528,ai.elimu.filamu,,,,sample video 5 h264,5
+7833,1771726570,ai.elimu.filamu,{'video_playback_position_ms': 11920},,,sample video 5 h264,5
+7898,1771979547,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7899,1771979606,ai.elimu.filamu,{'video_playback_position_ms': 46682},,,sample video 7 - re-encodeed,7
+7900,1771979668,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7901,1771979675,ai.elimu.filamu,{'video_playback_position_ms': 2356},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7902,1771979768,ai.elimu.filamu,,,,test sample video,1
+7903,1771979793,ai.elimu.filamu,{'video_playback_position_ms': 16901},,,test sample video,1
+7904,1771979900,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7905,1771979939,ai.elimu.filamu,{'video_playback_position_ms': 57118},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7906,1771979984,ai.elimu.filamu,,,,test sample video,1
+7907,1771980026,ai.elimu.filamu,{'video_playback_position_ms': 27024},,,test sample video,1
+7908,1771980133,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7909,1771980187,ai.elimu.filamu,{'video_playback_position_ms': 39328},,,sample video 7 - re-encodeed,7
+7910,1771980305,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7911,1771980310,ai.elimu.filamu,{'video_playback_position_ms': 8391},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7912,1771980416,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7913,1771980444,ai.elimu.filamu,{'video_playback_position_ms': 35935},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7914,1771980507,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7915,1771980566,ai.elimu.filamu,{'video_playback_position_ms': 20630},,,sample video 7 - re-encodeed,7
+7916,1771980658,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7917,1771980686,ai.elimu.filamu,{'video_playback_position_ms': 18494},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7918,1771980790,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7919,1771980815,ai.elimu.filamu,{'video_playback_position_ms': 35781},,,sample video 7 - re-encodeed,7
+7920,1771980871,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7921,1771980927,ai.elimu.filamu,{'video_playback_position_ms': 38421},,,sample video 7 - re-encodeed,7
+7922,1771981010,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7923,1771981022,ai.elimu.filamu,{'video_playback_position_ms': 58907},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7924,1771981075,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7925,1771981086,ai.elimu.filamu,{'video_playback_position_ms': 50015},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+7926,1771981127,ai.elimu.filamu,,,,test sample video,1
+7927,1771981138,ai.elimu.filamu,{'video_playback_position_ms': 1870},,,test sample video,1
+7928,1771981209,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7929,1771981215,ai.elimu.filamu,{'video_playback_position_ms': 55993},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7992,1772412795,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+7993,1772412799,ai.elimu.filamu,{'video_playback_position_ms': 12979},,,sample video 7 - re-encodeed,7
+7994,1772412863,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7995,1772412922,ai.elimu.filamu,{'video_playback_position_ms': 9968},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7996,1772412995,ai.elimu.filamu,,,,sample video 5 h264,5
+7997,1772413033,ai.elimu.filamu,{'video_playback_position_ms': 2363},,,sample video 5 h264,5
+7998,1772413085,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+7999,1772413132,ai.elimu.filamu,{'video_playback_position_ms': 25186},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8000,1772413160,ai.elimu.filamu,,,,sample video 5 h264,5
+8001,1772413181,ai.elimu.filamu,{'video_playback_position_ms': 18964},,,sample video 5 h264,5
+8002,1772413209,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8003,1772413230,ai.elimu.filamu,{'video_playback_position_ms': 49869},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8004,1772413258,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8005,1772413311,ai.elimu.filamu,{'video_playback_position_ms': 53202},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8006,1772413372,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8007,1772413414,ai.elimu.filamu,{'video_playback_position_ms': 26212},,,sample video 7 - re-encodeed,7
+8008,1772413500,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8009,1772413532,ai.elimu.filamu,{'video_playback_position_ms': 37911},,,sample video 7 - re-encodeed,7
+8010,1772413556,ai.elimu.filamu,,,,test sample video,1
+8011,1772413598,ai.elimu.filamu,{'video_playback_position_ms': 1901},,,test sample video,1
+8012,1772413650,ai.elimu.filamu,,,,test sample video,1
+8013,1772413665,ai.elimu.filamu,{'video_playback_position_ms': 53521},,,test sample video,1
+8014,1772413725,ai.elimu.filamu,,,,sample video 5 h264,5
+8015,1772413768,ai.elimu.filamu,{'video_playback_position_ms': 20961},,,sample video 5 h264,5
+8016,1772413790,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8017,1772413821,ai.elimu.filamu,{'video_playback_position_ms': 4193},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8018,1772413930,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8019,1772413976,ai.elimu.filamu,{'video_playback_position_ms': 20374},,,sample video 7 - re-encodeed,7
+8020,1772414011,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8021,1772414040,ai.elimu.filamu,{'video_playback_position_ms': 48010},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8060,1772500443,ai.elimu.filamu,,,,sample video 5 h264,5
+8061,1772500493,ai.elimu.filamu,{'video_playback_position_ms': 11733},,,sample video 5 h264,5
+8062,1772500511,ai.elimu.filamu,,,,sample video 5 h264,5
+8063,1772500537,ai.elimu.filamu,{'video_playback_position_ms': 24562},,,sample video 5 h264,5
+8090,1772587334,ai.elimu.filamu,,,,sample video 5 h264,5
+8091,1772587354,ai.elimu.filamu,{'video_playback_position_ms': 3806},,,sample video 5 h264,5
+8092,1772587425,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8093,1772587474,ai.elimu.filamu,{'video_playback_position_ms': 22070},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8094,1772587499,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8095,1772587552,ai.elimu.filamu,{'video_playback_position_ms': 11154},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8096,1772587569,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8097,1772587607,ai.elimu.filamu,{'video_playback_position_ms': 27635},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8098,1772587666,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8099,1772587671,ai.elimu.filamu,{'video_playback_position_ms': 57562},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8100,1772587734,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8101,1772587741,ai.elimu.filamu,{'video_playback_position_ms': 36410},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8102,1772587829,ai.elimu.filamu,,,,test sample video,1
+8103,1772587848,ai.elimu.filamu,{'video_playback_position_ms': 27052},,,test sample video,1
+8104,1772587896,ai.elimu.filamu,,,,test sample video,1
+8105,1772587943,ai.elimu.filamu,{'video_playback_position_ms': 36585},,,test sample video,1
+8106,1772588012,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8107,1772588039,ai.elimu.filamu,{'video_playback_position_ms': 32812},,,sample video 7 - re-encodeed,7
+8108,1772588057,ai.elimu.filamu,,,,test sample video,1
+8109,1772588086,ai.elimu.filamu,{'video_playback_position_ms': 52318},,,test sample video,1
+8110,1772588178,ai.elimu.filamu,,,,test sample video,1
+8111,1772588228,ai.elimu.filamu,{'video_playback_position_ms': 57344},,,test sample video,1
+8112,1772588346,ai.elimu.filamu,,,,test sample video,1
+8113,1772588389,ai.elimu.filamu,{'video_playback_position_ms': 20553},,,test sample video,1
+8154,1772673688,ai.elimu.filamu,,,,sample video 5 h264,5
+8155,1772673691,ai.elimu.filamu,{'video_playback_position_ms': 11718},,,sample video 5 h264,5
+8156,1772673765,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8157,1772673813,ai.elimu.filamu,{'video_playback_position_ms': 34476},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8158,1772673905,ai.elimu.filamu,,,,test sample video,1
+8159,1772673932,ai.elimu.filamu,{'video_playback_position_ms': 57943},,,test sample video,1
+8160,1772674040,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8161,1772674050,ai.elimu.filamu,{'video_playback_position_ms': 53368},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8162,1772674150,ai.elimu.filamu,,,,sample video 5 h264,5
+8163,1772674192,ai.elimu.filamu,{'video_playback_position_ms': 17412},,,sample video 5 h264,5
+8200,1772763333,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8201,1772763362,ai.elimu.filamu,{'video_playback_position_ms': 29092},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8202,1772763390,ai.elimu.filamu,,,,sample video 5 h264,5
+8203,1772763407,ai.elimu.filamu,{'video_playback_position_ms': 10988},,,sample video 5 h264,5
+8232,1772845114,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8233,1772845119,ai.elimu.filamu,{'video_playback_position_ms': 52347},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8234,1772845236,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8235,1772845284,ai.elimu.filamu,{'video_playback_position_ms': 14683},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8236,1772845299,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8237,1772845348,ai.elimu.filamu,{'video_playback_position_ms': 57653},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8238,1772845413,ai.elimu.filamu,,,,test sample video,1
+8239,1772845436,ai.elimu.filamu,{'video_playback_position_ms': 45606},,,test sample video,1
+8240,1772845498,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8241,1772845505,ai.elimu.filamu,{'video_playback_position_ms': 40062},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8242,1772845558,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8243,1772845612,ai.elimu.filamu,{'video_playback_position_ms': 43124},,,sample video 7 - re-encodeed,7
+8244,1772845724,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8245,1772845729,ai.elimu.filamu,{'video_playback_position_ms': 49446},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8246,1772845778,ai.elimu.filamu,,,,sample video 5 h264,5
+8247,1772845809,ai.elimu.filamu,{'video_playback_position_ms': 8805},,,sample video 5 h264,5
+8286,1772933476,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8287,1772933534,ai.elimu.filamu,{'video_playback_position_ms': 46200},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8288,1772933568,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8289,1772933622,ai.elimu.filamu,{'video_playback_position_ms': 2863},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8290,1772933640,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8291,1772933671,ai.elimu.filamu,{'video_playback_position_ms': 48305},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8292,1772933771,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8293,1772933775,ai.elimu.filamu,{'video_playback_position_ms': 54083},,,sample video 7 - re-encodeed,7
+8366,1773536785,ai.elimu.filamu,,,,sample video 5 h264,5
+8367,1773536817,ai.elimu.filamu,{'video_playback_position_ms': 4183},,,sample video 5 h264,5
+8368,1773536871,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8369,1773536926,ai.elimu.filamu,{'video_playback_position_ms': 43851},,,sample video 7 - re-encodeed,7
+8370,1773536946,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8371,1773536966,ai.elimu.filamu,{'video_playback_position_ms': 54041},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8372,1773536997,ai.elimu.filamu,,,,sample video 5 h264,5
+8373,1773537055,ai.elimu.filamu,{'video_playback_position_ms': 54692},,,sample video 5 h264,5
+8374,1773537131,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8375,1773537178,ai.elimu.filamu,{'video_playback_position_ms': 22221},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8376,1773537210,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8377,1773537251,ai.elimu.filamu,{'video_playback_position_ms': 2693},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8378,1773537309,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8379,1773537332,ai.elimu.filamu,{'video_playback_position_ms': 30110},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8380,1773537445,ai.elimu.filamu,,,,sample video 5 h264,5
+8381,1773537463,ai.elimu.filamu,{'video_playback_position_ms': 58593},,,sample video 5 h264,5
+8382,1773537569,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8383,1773537610,ai.elimu.filamu,{'video_playback_position_ms': 34461},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8384,1773537725,ai.elimu.filamu,,,,test sample video,1
+8385,1773537730,ai.elimu.filamu,{'video_playback_position_ms': 17056},,,test sample video,1
+8386,1773537821,ai.elimu.filamu,,,,sample video 5 h264,5
+8387,1773537832,ai.elimu.filamu,{'video_playback_position_ms': 16390},,,sample video 5 h264,5
+8388,1773537910,ai.elimu.filamu,,,,sample video 5 h264,5
+8389,1773537943,ai.elimu.filamu,{'video_playback_position_ms': 4736},,,sample video 5 h264,5
+8390,1773537971,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8391,1773537997,ai.elimu.filamu,{'video_playback_position_ms': 30368},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8392,1773538016,ai.elimu.filamu,,,,test sample video,1
+8393,1773538053,ai.elimu.filamu,{'video_playback_position_ms': 44478},,,test sample video,1
+8394,1773538149,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8395,1773538193,ai.elimu.filamu,{'video_playback_position_ms': 36766},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8396,1773538232,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8397,1773538275,ai.elimu.filamu,{'video_playback_position_ms': 48164},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8398,1773538298,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8399,1773538358,ai.elimu.filamu,{'video_playback_position_ms': 51437},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8400,1773538464,ai.elimu.filamu,,,,sample video 5 h264,5
+8401,1773538481,ai.elimu.filamu,{'video_playback_position_ms': 48545},,,sample video 5 h264,5
+8422,1773797274,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8423,1773797334,ai.elimu.filamu,{'video_playback_position_ms': 55325},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8424,1773797379,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8425,1773797423,ai.elimu.filamu,{'video_playback_position_ms': 54682},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8426,1773797525,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8427,1773797581,ai.elimu.filamu,{'video_playback_position_ms': 35581},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8428,1773797655,ai.elimu.filamu,,,,sample video 5 h264,5
+8429,1773797680,ai.elimu.filamu,{'video_playback_position_ms': 58943},,,sample video 5 h264,5
+8430,1773797718,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8431,1773797773,ai.elimu.filamu,{'video_playback_position_ms': 58518},,,sample video 7 - re-encodeed,7
+8432,1773797836,ai.elimu.filamu,,,,test sample video,1
+8433,1773797890,ai.elimu.filamu,{'video_playback_position_ms': 26200},,,test sample video,1
+8434,1773797939,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8435,1773797956,ai.elimu.filamu,{'video_playback_position_ms': 56817},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8436,1773797976,ai.elimu.filamu,,,,test sample video,1
+8437,1773798012,ai.elimu.filamu,{'video_playback_position_ms': 33693},,,test sample video,1
+8438,1773798111,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8439,1773798122,ai.elimu.filamu,{'video_playback_position_ms': 5641},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8440,1773798228,ai.elimu.filamu,,,,test sample video,1
+8441,1773798239,ai.elimu.filamu,{'video_playback_position_ms': 17938},,,test sample video,1
+8442,1773798267,ai.elimu.filamu,,,,sample video 5 h264,5
+8443,1773798278,ai.elimu.filamu,{'video_playback_position_ms': 9148},,,sample video 5 h264,5
+8444,1773798364,ai.elimu.filamu,,,,sample video 5 h264,5
+8445,1773798403,ai.elimu.filamu,{'video_playback_position_ms': 57558},,,sample video 5 h264,5
+8446,1773798503,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8447,1773798535,ai.elimu.filamu,{'video_playback_position_ms': 40122},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8448,1773798587,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8449,1773798634,ai.elimu.filamu,{'video_playback_position_ms': 26882},,,sample video 7 - re-encodeed,7
+8450,1773798722,ai.elimu.filamu,,,,sample video 5 h264,5
+8451,1773798756,ai.elimu.filamu,{'video_playback_position_ms': 38398},,,sample video 5 h264,5
+8452,1773798801,ai.elimu.filamu,,,,test sample video,1
+8453,1773798843,ai.elimu.filamu,{'video_playback_position_ms': 30692},,,test sample video,1
+8454,1773798938,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8455,1773798942,ai.elimu.filamu,{'video_playback_position_ms': 35132},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8456,1773799012,ai.elimu.filamu,,,,sample video 5 h264,5
+8457,1773799050,ai.elimu.filamu,{'video_playback_position_ms': 28823},,,sample video 5 h264,5
+8458,1773799065,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8459,1773799100,ai.elimu.filamu,{'video_playback_position_ms': 18148},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8516,1773886377,ai.elimu.filamu,,,,sample video 5 h264,5
+8517,1773886405,ai.elimu.filamu,{'video_playback_position_ms': 37278},,,sample video 5 h264,5
+8518,1773886434,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8519,1773886477,ai.elimu.filamu,{'video_playback_position_ms': 7584},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8520,1773886595,ai.elimu.filamu,,,,test sample video,1
+8521,1773886622,ai.elimu.filamu,{'video_playback_position_ms': 49825},,,test sample video,1
+8522,1773886679,ai.elimu.filamu,,,,sample video 5 h264,5
+8523,1773886686,ai.elimu.filamu,{'video_playback_position_ms': 1797},,,sample video 5 h264,5
+8524,1773886750,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8525,1773886762,ai.elimu.filamu,{'video_playback_position_ms': 35869},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8526,1773886804,ai.elimu.filamu,,,,sample video 5 h264,5
+8527,1773886859,ai.elimu.filamu,{'video_playback_position_ms': 59954},,,sample video 5 h264,5
+8528,1773886881,ai.elimu.filamu,,,,sample video 5 h264,5
+8529,1773886886,ai.elimu.filamu,{'video_playback_position_ms': 51849},,,sample video 5 h264,5
+8530,1773886955,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8531,1773887003,ai.elimu.filamu,{'video_playback_position_ms': 20139},,,sample video 7 - re-encodeed,7
+8532,1773887064,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8533,1773887099,ai.elimu.filamu,{'video_playback_position_ms': 49575},,,sample video 7 - re-encodeed,7
+8534,1773887192,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8535,1773887239,ai.elimu.filamu,{'video_playback_position_ms': 51809},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8536,1773887330,ai.elimu.filamu,,,,sample video 5 h264,5
+8537,1773887336,ai.elimu.filamu,{'video_playback_position_ms': 26393},,,sample video 5 h264,5
+8564,1773967596,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8565,1773967609,ai.elimu.filamu,{'video_playback_position_ms': 36783},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8566,1773967629,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8567,1773967657,ai.elimu.filamu,{'video_playback_position_ms': 9270},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8568,1773967676,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8569,1773967727,ai.elimu.filamu,{'video_playback_position_ms': 7296},,,sample video 7 - re-encodeed,7
+8570,1773967778,ai.elimu.filamu,,,,test sample video,1
+8571,1773967781,ai.elimu.filamu,{'video_playback_position_ms': 23066},,,test sample video,1
+8646,1774230367,ai.elimu.filamu,,,,sample video 5 h264,5
+8647,1774230393,ai.elimu.filamu,{'video_playback_position_ms': 42275},,,sample video 5 h264,5
+8648,1774230431,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8649,1774230448,ai.elimu.filamu,{'video_playback_position_ms': 32917},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8650,1774230500,ai.elimu.filamu,,,,sample video 5 h264,5
+8651,1774230513,ai.elimu.filamu,{'video_playback_position_ms': 39664},,,sample video 5 h264,5
+8652,1774230598,ai.elimu.filamu,,,,sample video 5 h264,5
+8653,1774230646,ai.elimu.filamu,{'video_playback_position_ms': 23596},,,sample video 5 h264,5
+8654,1774230673,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8655,1774230676,ai.elimu.filamu,{'video_playback_position_ms': 2238},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8656,1774230699,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8657,1774230704,ai.elimu.filamu,{'video_playback_position_ms': 42866},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8658,1774230732,ai.elimu.filamu,,,,test sample video,1
+8659,1774230763,ai.elimu.filamu,{'video_playback_position_ms': 41814},,,test sample video,1
+8660,1774230784,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8661,1774230789,ai.elimu.filamu,{'video_playback_position_ms': 40039},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8662,1774230834,ai.elimu.filamu,,,,sample video 5 h264,5
+8663,1774230843,ai.elimu.filamu,{'video_playback_position_ms': 47586},,,sample video 5 h264,5
+8664,1774400279,ai.elimu.filamu,,,,sample video 5 h264,5
+8665,1774400324,ai.elimu.filamu,{'video_playback_position_ms': 5888},,,sample video 5 h264,5
+8666,1774400366,ai.elimu.filamu,,,,test sample video,1
+8667,1774400373,ai.elimu.filamu,{'video_playback_position_ms': 48177},,,test sample video,1
+8668,1774400401,ai.elimu.filamu,,,,sample video 5 h264,5
+8669,1774400410,ai.elimu.filamu,{'video_playback_position_ms': 57046},,,sample video 5 h264,5
+8670,1774400526,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8671,1774400530,ai.elimu.filamu,{'video_playback_position_ms': 36416},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8672,1774400648,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8673,1774400676,ai.elimu.filamu,{'video_playback_position_ms': 19899},,,sample video 7 - re-encodeed,7
+8674,1774400742,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8675,1774400765,ai.elimu.filamu,{'video_playback_position_ms': 16520},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8676,1774400819,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8677,1774400846,ai.elimu.filamu,{'video_playback_position_ms': 57345},,,sample video 7 - re-encodeed,7
+8678,1774400911,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8679,1774400923,ai.elimu.filamu,{'video_playback_position_ms': 48804},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8742,1774492175,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8743,1774492212,ai.elimu.filamu,{'video_playback_position_ms': 17262},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8744,1774492314,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8745,1774492334,ai.elimu.filamu,{'video_playback_position_ms': 21449},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8746,1774492384,ai.elimu.filamu,,,,test sample video,1
+8747,1774492409,ai.elimu.filamu,{'video_playback_position_ms': 38274},,,test sample video,1
+8748,1774492506,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8749,1774492537,ai.elimu.filamu,{'video_playback_position_ms': 36344},,,sample video 7 - re-encodeed,7
+8750,1774492650,ai.elimu.filamu,,,,test sample video,1
+8751,1774492666,ai.elimu.filamu,{'video_playback_position_ms': 30040},,,test sample video,1
+8752,1774492733,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8753,1774492757,ai.elimu.filamu,{'video_playback_position_ms': 14754},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8754,1774492804,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8755,1774492817,ai.elimu.filamu,{'video_playback_position_ms': 59845},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8756,1774492833,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8757,1774492863,ai.elimu.filamu,{'video_playback_position_ms': 57468},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8758,1774492937,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8759,1774492985,ai.elimu.filamu,{'video_playback_position_ms': 41260},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8760,1774493022,ai.elimu.filamu,,,,test sample video,1
+8761,1774493028,ai.elimu.filamu,{'video_playback_position_ms': 28347},,,test sample video,1
+8762,1774493063,ai.elimu.filamu,,,,sample video 5 h264,5
+8763,1774493086,ai.elimu.filamu,{'video_playback_position_ms': 50507},,,sample video 5 h264,5
+8764,1774493103,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8765,1774493145,ai.elimu.filamu,{'video_playback_position_ms': 9072},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8766,1774493253,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8767,1774493309,ai.elimu.filamu,{'video_playback_position_ms': 10016},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8798,1774575938,ai.elimu.filamu,,,,test sample video,1
+8799,1774575996,ai.elimu.filamu,{'video_playback_position_ms': 16394},,,test sample video,1
+8800,1774576017,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8801,1774576046,ai.elimu.filamu,{'video_playback_position_ms': 19170},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8802,1774576107,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8803,1774576143,ai.elimu.filamu,{'video_playback_position_ms': 29873},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8804,1774576243,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8805,1774576259,ai.elimu.filamu,{'video_playback_position_ms': 53702},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8806,1774576311,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8807,1774576331,ai.elimu.filamu,{'video_playback_position_ms': 40143},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8808,1774576370,ai.elimu.filamu,,,,sample video 5 h264,5
+8809,1774576402,ai.elimu.filamu,{'video_playback_position_ms': 48168},,,sample video 5 h264,5
+8810,1774576473,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8811,1774576488,ai.elimu.filamu,{'video_playback_position_ms': 4105},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8812,1774576550,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8813,1774576591,ai.elimu.filamu,{'video_playback_position_ms': 37030},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8814,1774576683,ai.elimu.filamu,,,,sample video 5 h264,5
+8815,1774576732,ai.elimu.filamu,{'video_playback_position_ms': 30435},,,sample video 5 h264,5
+8816,1774576763,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8817,1774576766,ai.elimu.filamu,{'video_playback_position_ms': 27229},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8818,1774576804,ai.elimu.filamu,,,,sample video 5 h264,5
+8819,1774576812,ai.elimu.filamu,{'video_playback_position_ms': 44405},,,sample video 5 h264,5
+8820,1774576927,ai.elimu.filamu,,,,test sample video,1
+8821,1774576934,ai.elimu.filamu,{'video_playback_position_ms': 39642},,,test sample video,1
+8822,1774577018,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8823,1774577049,ai.elimu.filamu,{'video_playback_position_ms': 25243},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8824,1774577096,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8825,1774577124,ai.elimu.filamu,{'video_playback_position_ms': 29704},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8826,1774577169,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8827,1774577203,ai.elimu.filamu,{'video_playback_position_ms': 27319},,,sample video 7 - re-encodeed,7
+8828,1774577322,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8829,1774577341,ai.elimu.filamu,{'video_playback_position_ms': 8243},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8858,1774660518,ai.elimu.filamu,,,,test sample video,1
+8859,1774660567,ai.elimu.filamu,{'video_playback_position_ms': 38620},,,test sample video,1
+8860,1774660593,ai.elimu.filamu,,,,test sample video,1
+8861,1774660636,ai.elimu.filamu,{'video_playback_position_ms': 38773},,,test sample video,1
+8862,1774660691,ai.elimu.filamu,,,,test sample video,1
+8863,1774660727,ai.elimu.filamu,{'video_playback_position_ms': 43881},,,test sample video,1
+8864,1774660751,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+8865,1774660798,ai.elimu.filamu,{'video_playback_position_ms': 3836},,,sample video 7 - re-encodeed,7
+8866,1774660873,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8867,1774660881,ai.elimu.filamu,{'video_playback_position_ms': 28654},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8868,1774660995,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8869,1774661016,ai.elimu.filamu,{'video_playback_position_ms': 7927},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8870,1774661060,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8871,1774661073,ai.elimu.filamu,{'video_playback_position_ms': 11276},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8872,1774661115,ai.elimu.filamu,,,,test sample video,1
+8873,1774661120,ai.elimu.filamu,{'video_playback_position_ms': 26305},,,test sample video,1
+8874,1774661194,ai.elimu.filamu,,,,test sample video,1
+8875,1774661198,ai.elimu.filamu,{'video_playback_position_ms': 4083},,,test sample video,1
+8876,1774661290,ai.elimu.filamu,,,,sample video 5 h264,5
+8877,1774661330,ai.elimu.filamu,{'video_playback_position_ms': 42861},,,sample video 5 h264,5
+8878,1774661404,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8879,1774661455,ai.elimu.filamu,{'video_playback_position_ms': 34275},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8880,1774661563,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8881,1774661595,ai.elimu.filamu,{'video_playback_position_ms': 7873},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8882,1774661637,ai.elimu.filamu,,,,sample video 5 h264,5
+8883,1774661690,ai.elimu.filamu,{'video_playback_position_ms': 15002},,,sample video 5 h264,5
+8884,1774661802,ai.elimu.filamu,,,,test sample video,1
+8885,1774661847,ai.elimu.filamu,{'video_playback_position_ms': 36947},,,test sample video,1
+8886,1774661959,ai.elimu.filamu,,,,test sample video,1
+8887,1774661990,ai.elimu.filamu,{'video_playback_position_ms': 37713},,,test sample video,1
+8888,1774662041,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8889,1774662069,ai.elimu.filamu,{'video_playback_position_ms': 21527},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8890,1774662158,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8891,1774662177,ai.elimu.filamu,{'video_playback_position_ms': 40993},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8892,1774662226,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8893,1774662272,ai.elimu.filamu,{'video_playback_position_ms': 13181},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8894,1774662311,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8895,1774662334,ai.elimu.filamu,{'video_playback_position_ms': 10370},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9030,1775009506,ai.elimu.filamu,,,,test sample video,1
+9031,1775009554,ai.elimu.filamu,{'video_playback_position_ms': 4162},,,test sample video,1
+9032,1775009655,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9033,1775009674,ai.elimu.filamu,{'video_playback_position_ms': 6527},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9034,1775009780,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9035,1775009824,ai.elimu.filamu,{'video_playback_position_ms': 42558},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9036,1775009850,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9037,1775009903,ai.elimu.filamu,{'video_playback_position_ms': 43345},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9038,1775010022,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9039,1775010028,ai.elimu.filamu,{'video_playback_position_ms': 53850},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9040,1775010069,ai.elimu.filamu,,,,sample video 5 h264,5
+9041,1775010082,ai.elimu.filamu,{'video_playback_position_ms': 36898},,,sample video 5 h264,5
+9042,1775010124,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9043,1775010178,ai.elimu.filamu,{'video_playback_position_ms': 20383},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9044,1775010220,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9045,1775010269,ai.elimu.filamu,{'video_playback_position_ms': 58438},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9046,1775010389,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9047,1775010412,ai.elimu.filamu,{'video_playback_position_ms': 40376},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9048,1775010518,ai.elimu.filamu,,,,sample video 5 h264,5
+9049,1775010535,ai.elimu.filamu,{'video_playback_position_ms': 41590},,,sample video 5 h264,5
+9050,1775010622,ai.elimu.filamu,,,,test sample video,1
+9051,1775010627,ai.elimu.filamu,{'video_playback_position_ms': 24324},,,test sample video,1
+9052,1775010659,ai.elimu.filamu,,,,sample video 5 h264,5
+9053,1775010702,ai.elimu.filamu,{'video_playback_position_ms': 25985},,,sample video 5 h264,5
+9054,1775010720,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9055,1775010743,ai.elimu.filamu,{'video_playback_position_ms': 38665},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9056,1775010811,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9057,1775010842,ai.elimu.filamu,{'video_playback_position_ms': 39719},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9058,1775010925,ai.elimu.filamu,,,,test sample video,1
+9059,1775010983,ai.elimu.filamu,{'video_playback_position_ms': 2921},,,test sample video,1
+9060,1775011068,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9061,1775011110,ai.elimu.filamu,{'video_playback_position_ms': 51773},,,sample video 7 - re-encodeed,7
+9096,1775178884,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9097,1775178932,ai.elimu.filamu,{'video_playback_position_ms': 56065},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9098,1775178991,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9099,1775179025,ai.elimu.filamu,{'video_playback_position_ms': 14661},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9100,1775179134,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9101,1775179180,ai.elimu.filamu,{'video_playback_position_ms': 31869},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9102,1775179256,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9103,1775179263,ai.elimu.filamu,{'video_playback_position_ms': 42051},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9104,1775179338,ai.elimu.filamu,,,,test sample video,1
+9105,1775179357,ai.elimu.filamu,{'video_playback_position_ms': 51759},,,test sample video,1
+9106,1775179406,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9107,1775179450,ai.elimu.filamu,{'video_playback_position_ms': 55720},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9108,1775179530,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9109,1775179565,ai.elimu.filamu,{'video_playback_position_ms': 40240},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9110,1775179599,ai.elimu.filamu,,,,sample video 5 h264,5
+9111,1775179648,ai.elimu.filamu,{'video_playback_position_ms': 37437},,,sample video 5 h264,5
+9112,1775179725,ai.elimu.filamu,,,,sample video 5 h264,5
+9113,1775179767,ai.elimu.filamu,{'video_playback_position_ms': 13669},,,sample video 5 h264,5
+9114,1775179804,ai.elimu.filamu,,,,sample video 5 h264,5
+9115,1775179858,ai.elimu.filamu,{'video_playback_position_ms': 15253},,,sample video 5 h264,5
+9116,1775179881,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9117,1775179892,ai.elimu.filamu,{'video_playback_position_ms': 59618},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9142,1775266237,ai.elimu.filamu,,,,test sample video,1
+9143,1775266268,ai.elimu.filamu,{'video_playback_position_ms': 1985},,,test sample video,1
+9144,1775266317,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9145,1775266362,ai.elimu.filamu,{'video_playback_position_ms': 44046},,,sample video 7 - re-encodeed,7
+9146,1775266434,ai.elimu.filamu,,,,sample video 5 h264,5
+9147,1775266469,ai.elimu.filamu,{'video_playback_position_ms': 29742},,,sample video 5 h264,5
+9148,1775266574,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9149,1775266603,ai.elimu.filamu,{'video_playback_position_ms': 53175},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9150,1775266699,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9151,1775266708,ai.elimu.filamu,{'video_playback_position_ms': 8966},,,sample video 7 - re-encodeed,7
+9152,1775266756,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9153,1775266788,ai.elimu.filamu,{'video_playback_position_ms': 46367},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9154,1775266813,ai.elimu.filamu,,,,test sample video,1
+9155,1775266834,ai.elimu.filamu,{'video_playback_position_ms': 59260},,,test sample video,1
+9156,1775266893,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9157,1775266907,ai.elimu.filamu,{'video_playback_position_ms': 52636},,,sample video 7 - re-encodeed,7
+9214,1775441837,ai.elimu.filamu,,,,sample video 5 h264,5
+9215,1775441841,ai.elimu.filamu,{'video_playback_position_ms': 34255},,,sample video 5 h264,5
+9216,1775441870,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9217,1775441920,ai.elimu.filamu,{'video_playback_position_ms': 23211},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9218,1775442008,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9219,1775442062,ai.elimu.filamu,{'video_playback_position_ms': 6155},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9220,1775442079,ai.elimu.filamu,,,,sample video 5 h264,5
+9221,1775442125,ai.elimu.filamu,{'video_playback_position_ms': 47258},,,sample video 5 h264,5
+9222,1775442214,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9223,1775442257,ai.elimu.filamu,{'video_playback_position_ms': 35234},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9224,1775442292,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9225,1775442323,ai.elimu.filamu,{'video_playback_position_ms': 28141},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9226,1775442370,ai.elimu.filamu,,,,test sample video,1
+9227,1775442398,ai.elimu.filamu,{'video_playback_position_ms': 37787},,,test sample video,1
+9228,1775442435,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9229,1775442440,ai.elimu.filamu,{'video_playback_position_ms': 57510},,,sample video 7 - re-encodeed,7
+9230,1775442506,ai.elimu.filamu,,,,sample video 5 h264,5
+9231,1775442522,ai.elimu.filamu,{'video_playback_position_ms': 47815},,,sample video 5 h264,5
+9232,1775442629,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9233,1775442636,ai.elimu.filamu,{'video_playback_position_ms': 20181},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9234,1775442716,ai.elimu.filamu,,,,test sample video,1
+9235,1775442740,ai.elimu.filamu,{'video_playback_position_ms': 59336},,,test sample video,1
+9236,1775442845,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9237,1775442904,ai.elimu.filamu,{'video_playback_position_ms': 26298},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9238,1775442954,ai.elimu.filamu,,,,sample video 5 h264,5
+9239,1775442975,ai.elimu.filamu,{'video_playback_position_ms': 34354},,,sample video 5 h264,5
+9240,1775443067,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9241,1775443109,ai.elimu.filamu,{'video_playback_position_ms': 38268},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9242,1775443215,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9243,1775443266,ai.elimu.filamu,{'video_playback_position_ms': 37989},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9244,1775443329,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9245,1775443372,ai.elimu.filamu,{'video_playback_position_ms': 2826},,,sample video 7 - re-encodeed,7
+9246,1775443399,ai.elimu.filamu,,,,sample video 5 h264,5
+9247,1775443448,ai.elimu.filamu,{'video_playback_position_ms': 20942},,,sample video 5 h264,5
+9290,1775523100,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9291,1775523115,ai.elimu.filamu,{'video_playback_position_ms': 5018},,,sample video 7 - re-encodeed,7
+9292,1775523149,ai.elimu.filamu,,,,test sample video,1
+9293,1775523172,ai.elimu.filamu,{'video_playback_position_ms': 14031},,,test sample video,1
+9294,1775523244,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9295,1775523296,ai.elimu.filamu,{'video_playback_position_ms': 31608},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9296,1775523362,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9297,1775523418,ai.elimu.filamu,{'video_playback_position_ms': 14548},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9298,1775523487,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9299,1775523492,ai.elimu.filamu,{'video_playback_position_ms': 32293},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9300,1775523572,ai.elimu.filamu,,,,sample video 5 h264,5
+9301,1775523624,ai.elimu.filamu,{'video_playback_position_ms': 56053},,,sample video 5 h264,5
+9302,1775523708,ai.elimu.filamu,,,,test sample video,1
+9303,1775523764,ai.elimu.filamu,{'video_playback_position_ms': 8553},,,test sample video,1
+9304,1775698710,ai.elimu.filamu,,,,sample video 5 h264,5
+9305,1775698738,ai.elimu.filamu,{'video_playback_position_ms': 37855},,,sample video 5 h264,5
+9306,1775698839,ai.elimu.filamu,,,,sample video 5 h264,5
+9307,1775698866,ai.elimu.filamu,{'video_playback_position_ms': 29589},,,sample video 5 h264,5
+9308,1775698981,ai.elimu.filamu,,,,sample video 5 h264,5
+9309,1775699033,ai.elimu.filamu,{'video_playback_position_ms': 57026},,,sample video 5 h264,5
+9310,1775699048,ai.elimu.filamu,,,,test sample video,1
+9311,1775699094,ai.elimu.filamu,{'video_playback_position_ms': 34314},,,test sample video,1
+9312,1775699213,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9313,1775699226,ai.elimu.filamu,{'video_playback_position_ms': 44341},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9314,1775699300,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9315,1775699314,ai.elimu.filamu,{'video_playback_position_ms': 4798},,,sample video 7 - re-encodeed,7
+9316,1775699407,ai.elimu.filamu,,,,sample video 5 h264,5
+9317,1775699441,ai.elimu.filamu,{'video_playback_position_ms': 29482},,,sample video 5 h264,5
+9318,1775699530,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9319,1775699544,ai.elimu.filamu,{'video_playback_position_ms': 4587},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9320,1775699579,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9321,1775699624,ai.elimu.filamu,{'video_playback_position_ms': 7426},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9372,1775871379,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9373,1775871388,ai.elimu.filamu,{'video_playback_position_ms': 15095},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9374,1775871417,ai.elimu.filamu,,,,test sample video,1
+9375,1775871444,ai.elimu.filamu,{'video_playback_position_ms': 7692},,,test sample video,1
+9376,1775871553,ai.elimu.filamu,,,,test sample video,1
+9377,1775871563,ai.elimu.filamu,{'video_playback_position_ms': 25269},,,test sample video,1
+9378,1775871660,ai.elimu.filamu,,,,test sample video,1
+9379,1775871695,ai.elimu.filamu,{'video_playback_position_ms': 28891},,,test sample video,1
+9380,1775871710,ai.elimu.filamu,,,,test sample video,1
+9381,1775871731,ai.elimu.filamu,{'video_playback_position_ms': 47734},,,test sample video,1
+9382,1775871767,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9383,1775871807,ai.elimu.filamu,{'video_playback_position_ms': 53442},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9384,1775871846,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9385,1775871871,ai.elimu.filamu,{'video_playback_position_ms': 14573},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9386,1775871954,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9387,1775871992,ai.elimu.filamu,{'video_playback_position_ms': 59067},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9388,1775872100,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9389,1775872148,ai.elimu.filamu,{'video_playback_position_ms': 10122},,,sample video 7 - re-encodeed,7
+9390,1775872259,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9391,1775872284,ai.elimu.filamu,{'video_playback_position_ms': 50102},,,sample video 7 - re-encodeed,7
+9392,1775872344,ai.elimu.filamu,,,,test sample video,1
+9393,1775872396,ai.elimu.filamu,{'video_playback_position_ms': 49835},,,test sample video,1
+9394,1775872504,ai.elimu.filamu,,,,sample video 5 h264,5
+9395,1775872524,ai.elimu.filamu,{'video_playback_position_ms': 15964},,,sample video 5 h264,5
+9396,1775872574,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9397,1775872628,ai.elimu.filamu,{'video_playback_position_ms': 27144},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9448,1775958877,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9449,1775958882,ai.elimu.filamu,{'video_playback_position_ms': 21379},,,sample video 7 - re-encodeed,7
+9450,1775958959,ai.elimu.filamu,,,,sample video 5 h264,5
+9451,1775958986,ai.elimu.filamu,{'video_playback_position_ms': 15959},,,sample video 5 h264,5
+9452,1775959033,ai.elimu.filamu,,,,sample video 5 h264,5
+9453,1775959085,ai.elimu.filamu,{'video_playback_position_ms': 10912},,,sample video 5 h264,5
+9454,1775959134,ai.elimu.filamu,,,,sample video 5 h264,5
+9455,1775959171,ai.elimu.filamu,{'video_playback_position_ms': 11404},,,sample video 5 h264,5
+9456,1775959213,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9457,1775959270,ai.elimu.filamu,{'video_playback_position_ms': 43516},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9458,1775959337,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9459,1775959345,ai.elimu.filamu,{'video_playback_position_ms': 55596},,,sample video 7 - re-encodeed,7
+9460,1775959420,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9461,1775959425,ai.elimu.filamu,{'video_playback_position_ms': 30308},,,sample video 7 - re-encodeed,7
+9462,1775959469,ai.elimu.filamu,,,,test sample video,1
+9463,1775959482,ai.elimu.filamu,{'video_playback_position_ms': 51487},,,test sample video,1
+9546,1776305038,ai.elimu.filamu,,,,test sample video,1
+9547,1776305046,ai.elimu.filamu,{'video_playback_position_ms': 23853},,,test sample video,1
+9548,1776305069,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9549,1776305094,ai.elimu.filamu,{'video_playback_position_ms': 31291},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9550,1776305126,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9551,1776305147,ai.elimu.filamu,{'video_playback_position_ms': 5634},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9552,1776305250,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9553,1776305305,ai.elimu.filamu,{'video_playback_position_ms': 14827},,,sample video 7 - re-encodeed,7
+9554,1776305376,ai.elimu.filamu,,,,test sample video,1
+9555,1776305435,ai.elimu.filamu,{'video_playback_position_ms': 7919},,,test sample video,1
+9556,1776305504,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9557,1776305542,ai.elimu.filamu,{'video_playback_position_ms': 6425},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9558,1776305570,ai.elimu.filamu,,,,test sample video,1
+9559,1776305624,ai.elimu.filamu,{'video_playback_position_ms': 53886},,,test sample video,1
+9560,1776305736,ai.elimu.filamu,,,,test sample video,1
+9561,1776305773,ai.elimu.filamu,{'video_playback_position_ms': 2499},,,test sample video,1
+9562,1776305815,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9563,1776305861,ai.elimu.filamu,{'video_playback_position_ms': 21470},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9564,1776305901,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9565,1776305940,ai.elimu.filamu,{'video_playback_position_ms': 17425},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9566,1776306008,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9567,1776306011,ai.elimu.filamu,{'video_playback_position_ms': 29004},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9568,1776306076,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9569,1776306088,ai.elimu.filamu,{'video_playback_position_ms': 41347},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9570,1776306204,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9571,1776306244,ai.elimu.filamu,{'video_playback_position_ms': 34726},,,sample video 7 - re-encodeed,7
+9636,1776478478,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9637,1776478512,ai.elimu.filamu,{'video_playback_position_ms': 40578},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+9638,1776478626,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9639,1776478653,ai.elimu.filamu,{'video_playback_position_ms': 35907},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9640,1776478672,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9641,1776478712,ai.elimu.filamu,{'video_playback_position_ms': 8937},,,sample video 7 - re-encodeed,7
+9642,1776478760,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9643,1776478799,ai.elimu.filamu,{'video_playback_position_ms': 49046},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9644,1776478916,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9645,1776478965,ai.elimu.filamu,{'video_playback_position_ms': 47317},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9646,1776478987,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9647,1776479009,ai.elimu.filamu,{'video_playback_position_ms': 21062},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9648,1776479073,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9649,1776479121,ai.elimu.filamu,{'video_playback_position_ms': 6684},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9650,1776479141,ai.elimu.filamu,,,,sample video 5 h264,5
+9651,1776479146,ai.elimu.filamu,{'video_playback_position_ms': 18205},,,sample video 5 h264,5
+9652,1776479253,ai.elimu.filamu,,,,test sample video,1
+9653,1776479301,ai.elimu.filamu,{'video_playback_position_ms': 40551},,,test sample video,1
+9654,1776479351,ai.elimu.filamu,,,,test sample video,1
+9655,1776479405,ai.elimu.filamu,{'video_playback_position_ms': 26642},,,test sample video,1
+9656,1776479428,ai.elimu.filamu,,,,test sample video,1
+9657,1776479481,ai.elimu.filamu,{'video_playback_position_ms': 24335},,,test sample video,1
+9658,1776479502,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+9659,1776479540,ai.elimu.filamu,{'video_playback_position_ms': 31550},,,sample video 7 - re-encodeed,7
+9660,1776479655,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9661,1776479658,ai.elimu.filamu,{'video_playback_position_ms': 51950},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9

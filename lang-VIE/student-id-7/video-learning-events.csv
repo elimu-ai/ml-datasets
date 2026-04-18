@@ -1,0 +1,3 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,video_title,video_id
+454079,1767871555,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_OPENED""}",0,0,piper,1
+454080,1767871559,ai.elimu.filamu.debug,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":2842}",0,0,piper,1

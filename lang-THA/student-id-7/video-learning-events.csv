@@ -1,0 +1,5 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,video_title,video_id
+8114,1771621068,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,0,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8115,1771621072,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":1251}",0,0,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+8116,1771621074,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+8117,1771621077,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":2174}",0,0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
