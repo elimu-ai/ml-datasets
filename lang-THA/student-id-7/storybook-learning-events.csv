@@ -10,3 +10,13 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 1377,1771621102,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
 1378,1771621125,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
 1379,1774458736,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กลโกงเจ้าจิ้งจอก,31
+1380,1774819894,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กลโกงเจ้าจิ้งจอก,31
+1381,1774819991,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[51, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]""}",0,0,กลโกงเจ้าจิ้งจอก,31
+1382,1774820000,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กลโกงเจ้าจิ้งจอก,31
+1383,1775168327,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กะหล่ำปลีหายไปไหน,69
+1384,1775168638,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[53, 62, 56, 94, 10, 7, 7, 7, 5]""}",0,0,กะหล่ำปลีหายไปไหน,69
+1385,1776521171,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
+1386,1776523808,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กาใจดี ไก่ใจดำ,43
+1387,1776523901,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[5, 6, 8, 5, 18, 12, 11, 10, 11]""}",0,0,กาใจดี ไก่ใจดำ,43
+1388,1776523920,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
+1389,1776524059,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[13, 13, 13, 11, 16, 17, 13, 39]""}",0,0,ขนหางของเจ้านกยูง,35

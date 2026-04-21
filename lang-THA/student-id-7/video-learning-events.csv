@@ -3,3 +3,9 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 8115,1771621072,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":1251}",0,0,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 8116,1771621074,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 8117,1771621077,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":2174}",0,0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9662,1775168714,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9663,1775168718,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":3773}",0,0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9664,1775168814,ai.elimu.filamu,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":95179}",0,0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9665,1775168827,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":8754}",0,0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9666,1776522580,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+9667,1776522676,ai.elimu.filamu,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":95179}",0,0,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
