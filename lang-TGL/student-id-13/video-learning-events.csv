@@ -6,3 +6,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 4528102,1771873014,ai.elimu.filamu,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":24078}",0,1,piper,1
 4528935,1773611093,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,piper,1
 4528936,1773611117,ai.elimu.filamu,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":24078}",0,1,piper,1
+4529625,1775157680,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,piper,1
+4529626,1775157705,ai.elimu.filamu,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":24078}",0,1,piper,1

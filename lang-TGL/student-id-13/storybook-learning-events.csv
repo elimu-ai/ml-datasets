@@ -7,3 +7,10 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 533,1773611040,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[27, 38, 14, 3, 1, 1, 1]""}",0,1,Aaloo-Maaloo-Kaaloo,68
 534,1774193143,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Langgam at Tinapay,14
 535,1774193151,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 4, 0]""}",0,1,Ang Langgam at Tinapay,14
+536,1774820797,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Alimango at Isda ay Magkaibigan,63
+537,1774820930,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[7, 19, 13, 9, 7, 6, 13, 11, 18, 5]""}",0,1,Ang Alimango at Isda ay Magkaibigan,63
+538,1775157208,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Araw at Gabi,128
+539,1775157566,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 43, 25, 8, 10, 9, 11, 6, 12, 12]""}",0,1,Ang Araw at Gabi,128
+540,1775157586,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Prinsesa ng Siyudad ng Usok,49
+541,1775157645,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[2, 1, 1, 1, 1, 3, 2, 5, 1, 3, 2, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1]""}",0,1,Prinsesa ng Siyudad ng Usok,49
+542,1775157652,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ano ang Kinatatakutan nina  Anopol at ni Tang-id,53
