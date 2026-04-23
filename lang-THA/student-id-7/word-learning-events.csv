@@ -55,3 +55,7 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,w
 5265,1776521275,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,มัน,62
 5266,1776523865,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,อีก,127
 5267,1776523985,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,ใน,51
+5268,1776888869,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,ใจ,151
+5269,1776888870,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,ดี,48
+5270,1776888872,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,เจอ,166
+5271,1776888874,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,ใจ,151
