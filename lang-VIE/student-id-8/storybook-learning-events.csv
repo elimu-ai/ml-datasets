@@ -1,1 +1,8 @@
 id,timestamp,package_name,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+162,1774457395,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
+163,1774457729,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
+164,1774457750,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
+165,1774457801,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
+166,1774457884,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[14, 21, 5, 4, 3, 8, 8, 4, 3, 2, 5]""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
+167,1774458098,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
+168,1774458265,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[38, 10, 76, 17, 13, 2, 1, 1, 0, 0, 0]""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
