@@ -2787,3 +2787,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5815064,1777038119,ai.elimu.filamu,{'video_playback_position_ms': 52162},,,[test] a test video,44
 5815065,1777038190,ai.elimu.filamu,,,,akili and me - the rectangle song,13
 5815066,1777038212,ai.elimu.filamu,{'video_playback_position_ms': 11508},,,akili and me - the rectangle song,13
+5815083,1777076830,ai.elimu.filamu,,,,[test] a test video,44
+5815084,1777076860,ai.elimu.filamu,{'video_playback_position_ms': 40333},,,[test] a test video,44
