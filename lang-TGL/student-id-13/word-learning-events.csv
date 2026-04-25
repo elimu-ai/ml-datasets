@@ -84,3 +84,16 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,w
 2410,1776809095,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,tutulong,57
 2411,1776809098,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,tutulong,57
 2412,1776809100,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,tutulong,57
+2413,1776977880,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,mga,143
+2414,1776977882,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,pulang,412
+2415,1776977884,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,kamatis,270
+2416,1776977892,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,siya,23
+2417,1776977939,ai.elimu.maneno,"{""spokenText"":""ang""}",0,1,ang,1
+2418,1776977951,ai.elimu.maneno,"{""spokenText"":""mga""}",0,1,mga,143
+2419,1776977962,ai.elimu.maneno,"{""spokenText"":""ito""}",0,1,ito,227
+2420,1776977993,ai.elimu.maneno,"{""spokenText"":""may""}",0,1,may,90
+2421,1776978919,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,araw,26
+2422,1776978920,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,ang,1
+2423,1777045212,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,nakalilipad,171
+2424,1777045215,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,ang,1
+2425,1777045216,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,1,batubato,17
