@@ -2847,3 +2847,23 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 10079,1777256263,ai.elimu.filamu,{'video_playback_position_ms': 7710},,,test sample video,1
 10080,1777256329,ai.elimu.filamu,,,,sample video 5 h264,5
 10081,1777256371,ai.elimu.filamu,{'video_playback_position_ms': 3021},,,sample video 5 h264,5
+10112,1777425232,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+10113,1777425290,ai.elimu.filamu,{'video_playback_position_ms': 28295},,,sample video 7 - re-encodeed,7
+10114,1777425334,ai.elimu.filamu,,,,sample video 5 h264,5
+10115,1777425367,ai.elimu.filamu,{'video_playback_position_ms': 2323},,,sample video 5 h264,5
+10116,1777425484,ai.elimu.filamu,,,,sample video 5 h264,5
+10117,1777425507,ai.elimu.filamu,{'video_playback_position_ms': 26187},,,sample video 5 h264,5
+10118,1777425529,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+10119,1777425555,ai.elimu.filamu,{'video_playback_position_ms': 9778},,,sample video 7 - re-encodeed,7
+10120,1777425615,ai.elimu.filamu,,,,test sample video,1
+10121,1777425664,ai.elimu.filamu,{'video_playback_position_ms': 35058},,,test sample video,1
+10122,1777425715,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+10123,1777425775,ai.elimu.filamu,{'video_playback_position_ms': 4513},,,sample video 7 - re-encodeed,7
+10124,1777425799,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+10125,1777425810,ai.elimu.filamu,{'video_playback_position_ms': 49085},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+10126,1777425827,ai.elimu.filamu,,,,test sample video,1
+10127,1777425867,ai.elimu.filamu,{'video_playback_position_ms': 30678},,,test sample video,1
+10128,1777425910,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+10129,1777425936,ai.elimu.filamu,{'video_playback_position_ms': 5713},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+10130,1777426005,ai.elimu.filamu,,,,sample video 5 h264,5
+10131,1777426061,ai.elimu.filamu,{'video_playback_position_ms': 33957},,,sample video 5 h264,5
