@@ -2857,3 +2857,9 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5815372,1777508649,ai.elimu.filamu,{'video_playback_position_ms': 17483},,,akili and me - letter b,2
 5815373,1777508686,ai.elimu.filamu,,,,akili and me - letter i,33
 5815374,1777508732,ai.elimu.filamu,{'video_playback_position_ms': 29114},,,akili and me - letter i,33
+5815375,1777594291,ai.elimu.filamu,,,,akili and me - letter a,1
+5815376,1777594303,ai.elimu.filamu,{'video_playback_position_ms': 39551},,,akili and me - letter a,1
+5815377,1777594367,ai.elimu.filamu,,,,akili and me - letter b,2
+5815378,1777594421,ai.elimu.filamu,{'video_playback_position_ms': 12649},,,akili and me - letter b,2
+5815379,1777594536,ai.elimu.filamu,,,,akili and me - letter c,3
+5815380,1777594548,ai.elimu.filamu,{'video_playback_position_ms': 40370},,,akili and me - letter c,3
