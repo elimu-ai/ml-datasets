@@ -29,3 +29,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,w
 38,1774458141,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,chơi,82
 39,1774458142,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,ngày,70
 40,1774458228,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,không,45
+41,1776970539,ai.elimu.maneno,"{""spokenText"":""và""}",0,0,và,14
+42,1776970553,ai.elimu.maneno,"{""spokenText"":""là""}",0,0,là,16
