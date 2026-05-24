@@ -2615,3 +2615,25 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5816206,1779325101,ai.elimu.filamu,{'video_playback_position_ms': 37809},,,akili and me - letter b,2
 5816207,1779325217,ai.elimu.filamu,,,,akili and me - letter a,1
 5816208,1779325227,ai.elimu.filamu,{'video_playback_position_ms': 48245},,,akili and me - letter a,1
+5816235,1779497400,ai.elimu.filamu,,,,akili and me - letter c,3
+5816236,1779497450,ai.elimu.filamu,{'video_playback_position_ms': 4774},,,akili and me - letter c,3
+5816237,1779497511,ai.elimu.filamu,,,,[test] a test video,44
+5816238,1779497547,ai.elimu.filamu,{'video_playback_position_ms': 10320},,,[test] a test video,44
+5816239,1779497566,ai.elimu.filamu,,,,akili and me - letter b,2
+5816240,1779497592,ai.elimu.filamu,{'video_playback_position_ms': 29848},,,akili and me - letter b,2
+5816241,1779497696,ai.elimu.filamu,,,,akili and me - letter b,2
+5816242,1779497756,ai.elimu.filamu,{'video_playback_position_ms': 8960},,,akili and me - letter b,2
+5816243,1779497808,ai.elimu.filamu,,,,akili and me - letter c,3
+5816244,1779497848,ai.elimu.filamu,{'video_playback_position_ms': 49506},,,akili and me - letter c,3
+5816245,1779497886,ai.elimu.filamu,,,,akili and me - letter d,4
+5816246,1779497922,ai.elimu.filamu,{'video_playback_position_ms': 35625},,,akili and me - letter d,4
+5816247,1779498007,ai.elimu.filamu,,,,akili and me - letter b,2
+5816248,1779498043,ai.elimu.filamu,{'video_playback_position_ms': 21308},,,akili and me - letter b,2
+5816249,1779498128,ai.elimu.filamu,,,,[test] a test video,44
+5816250,1779498133,ai.elimu.filamu,{'video_playback_position_ms': 6538},,,[test] a test video,44
+5816251,1779498175,ai.elimu.filamu,,,,akili and me - letter a,1
+5816252,1779498188,ai.elimu.filamu,{'video_playback_position_ms': 49998},,,akili and me - letter a,1
+5816253,1779498288,ai.elimu.filamu,,,,[test] a test video,44
+5816254,1779498311,ai.elimu.filamu,{'video_playback_position_ms': 54724},,,[test] a test video,44
+5816255,1779498397,ai.elimu.filamu,,,,[test] a test video,44
+5816256,1779498442,ai.elimu.filamu,{'video_playback_position_ms': 30645},,,[test] a test video,44
