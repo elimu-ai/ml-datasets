@@ -3419,3 +3419,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 12053,1782006678,ai.elimu.filamu,{'video_playback_position_ms': 46696},,,test sample video,1
 12054,1782006706,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 12055,1782006714,ai.elimu.filamu,{'video_playback_position_ms': 52931},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+12092,1782095792,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+12093,1782095840,ai.elimu.filamu,{'video_playback_position_ms': 58934},,,sample video 7 - re-encodeed,7
