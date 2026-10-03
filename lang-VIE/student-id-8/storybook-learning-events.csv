@@ -8,3 +8,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 168,1774458265,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[38, 10, 76, 17, 13, 2, 1, 1, 0, 0, 0]""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
 169,1776970658,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
 170,1776970769,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[15, 83, 2, 1, 0, 1, 1, 1, 0, 0, 1]""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
+171,1790852783,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,Quả cà chua,38
+172,1790853242,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[16, 10, 4, 11, 7, 7, 98, 140, 5, 12, 12, 114]""}",0,0,Quả cà chua,38

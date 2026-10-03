@@ -31,3 +31,8 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,w
 40,1774458228,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,không,45
 41,1776970539,ai.elimu.maneno,"{""spokenText"":""và""}",0,0,và,14
 42,1776970553,ai.elimu.maneno,"{""spokenText"":""là""}",0,0,là,16
+43,1790852812,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,ơi,71
+44,1790852813,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,ơi,71
+45,1790852814,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,nào,68
+46,1790852893,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,lên,42
+47,1790852896,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,lên,42

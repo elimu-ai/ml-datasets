@@ -15,3 +15,7 @@ id,timestamp,package_name,mastery_score,time_spent_ms,additional_data,research_e
 17,1776977917,ai.elimu.learndigits,0.0,259,"{""numberSelected"":1}",0,1,8,
 18,1776977921,ai.elimu.learndigits,1.0,859,,0,1,0,
 19,1776977926,ai.elimu.learndigits,1.0,1316,,0,1,6,
+20,1781092588,ai.elimu.learndigits,0.0,3036,"{""numberSelected"":5}",0,1,1,
+21,1781092592,ai.elimu.learndigits,0.0,396,"{""numberSelected"":7}",0,1,4,
+22,1781092601,ai.elimu.learndigits,0.0,4682,"{""numberSelected"":0}",0,1,7,
+23,1781092606,ai.elimu.learndigits,1.0,388,,0,1,1,
