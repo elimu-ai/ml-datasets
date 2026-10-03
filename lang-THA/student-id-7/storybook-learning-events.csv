@@ -21,3 +21,28 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 1388,1776523920,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
 1389,1776524059,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[13, 13, 13, 11, 16, 17, 13, 39]""}",0,0,ขนหางของเจ้านกยูง,35
 1390,1776888574,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กาใจดี ไก่ใจดำ,43
+1391,1787825538,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กลโกงเจ้าจิ้งจอก,31
+1392,1787825563,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
+1393,1787844527,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กาใจดี ไก่ใจดำ,43
+1394,1787929977,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กาใจดี ไก่ใจดำ,43
+1395,1787929984,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กาใจดี ไก่ใจดำ,43
+1396,1787972982,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กลโกงเจ้าจิ้งจอก,31
+1397,1788003521,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กาใจดี ไก่ใจดำ,43
+1398,1788004114,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[40, 346, 74, 37, 23, 16, 11, 9, 11]""}",0,0,กาใจดี ไก่ใจดำ,43
+1399,1788104920,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
+1400,1788105598,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[179, 17, 13, 17, 23, 157, 30, 16]""}",0,0,ขนหางของเจ้านกยูง,35
+1401,1788105746,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
+1402,1788105768,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[3, 0, 0, 0, 1, 8, 1, 4]""}",0,0,ขนหางของเจ้านกยูง,35
+1403,1788105772,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
+1404,1788105781,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 0, 0, 0, 0, 3]""}",0,0,ขนหางของเจ้านกยูง,35
+1405,1788192738,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ครอบครัวกลมเกลียว,21
+1406,1788192800,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 5, 5, 5, 4, 3, 6]""}",0,0,ครอบครัวกลมเกลียว,21
+1407,1788261784,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ครอบครัวอีกาทำนาปลูกข้าว,81
+1408,1788271537,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ครอบครัวอีกาทำนาปลูกข้าว,81
+1409,1788271554,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 3, 1]""}",0,0,ครอบครัวอีกาทำนาปลูกข้าว,81
+1410,1788271557,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ครอบครัวอีกาทำนาปลูกข้าว,81
+1411,1788274244,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,คุณแม่ในดวงใจ,75
+1412,1788274253,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 0, 1, 0, 0, 0]""}",0,0,คุณแม่ในดวงใจ,75
+1413,1788274258,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,จิ้งจอกน้อย,52
+1414,1788274272,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 0, 1, 1, 1, 1, 1, 1, 2, 1, 1]""}",0,0,จิ้งจอกน้อย,52
+1415,1788274279,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,จืดกับเจ้าตึก,45
