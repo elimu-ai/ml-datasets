@@ -4447,3 +4447,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 14409,1789355082,ai.elimu.filamu,{'video_playback_position_ms': 33875},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 14410,1789355197,ai.elimu.filamu,,,,sample video 5 h264,5
 14411,1789355235,ai.elimu.filamu,{'video_playback_position_ms': 10212},,,sample video 5 h264,5
+14486,1791015511,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+14487,1791015545,ai.elimu.filamu,{'video_playback_position_ms': 47198},,,sample video 7 - re-encodeed,7
