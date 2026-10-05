@@ -46,3 +46,20 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 1413,1788274258,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,จิ้งจอกน้อย,52
 1414,1788274272,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 0, 1, 1, 1, 1, 1, 1, 2, 1, 1]""}",0,0,จิ้งจอกน้อย,52
 1415,1788274279,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,จืดกับเจ้าตึก,45
+1416,1788532401,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,คุณแม่ในดวงใจ,75
+1417,1788532517,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,คุณแม่ในดวงใจ,75
+1418,1788532573,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 9, 8, 9, 8, 12, 6]""}",0,0,คุณแม่ในดวงใจ,75
+1419,1788696126,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กลโกงเจ้าจิ้งจอก,31
+1420,1788696988,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กะหล่ำปลีหายไปไหน,69
+1421,1788697024,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[4, 1, 1, 1, 1, 1, 1, 1, 2]""}",0,0,กะหล่ำปลีหายไปไหน,69
+1422,1788697051,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,กาใจดี ไก่ใจดำ,43
+1423,1788697198,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[8, 13, 8, 9, 23, 9, 14, 11, 24]""}",0,0,กาใจดี ไก่ใจดำ,43
+1424,1789310462,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,จิ้งจอกน้อย,52
+1425,1789310631,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[25, 36, 21, 13, 17, 12, 6, 12, 7, 9, 5]""}",0,0,จิ้งจอกน้อย,52
+1426,1790587868,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,งานเทศกาลเสื้อกั๊ก,37
+1427,1790672294,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
+1428,1790674121,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ขนหางของเจ้านกยูง,35
+1429,1790674133,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,เพื่อนที่ดีที่สุดของฉัน,24
+1430,1790674141,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,เพื่อนที่ดีที่สุดของฉัน,24
+1431,1790674558,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,วันนี้ฉันเป็น...,25
+1432,1790930610,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ฉันจะช่วยเธอ,99
