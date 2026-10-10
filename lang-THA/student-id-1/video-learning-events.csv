@@ -4359,3 +4359,9 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 14663,1791436155,ai.elimu.filamu,{'video_playback_position_ms': 5466},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 14664,1791436207,ai.elimu.filamu,,,,test sample video,1
 14665,1791436233,ai.elimu.filamu,{'video_playback_position_ms': 56339},,,test sample video,1
+14720,1791519589,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+14721,1791519612,ai.elimu.filamu,{'video_playback_position_ms': 53383},,,sample video 7 - re-encodeed,7
+14722,1791519727,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+14723,1791519743,ai.elimu.filamu,{'video_playback_position_ms': 15542},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+14724,1791519828,ai.elimu.filamu,,,,test sample video,1
+14725,1791519865,ai.elimu.filamu,{'video_playback_position_ms': 34111},,,test sample video,1
