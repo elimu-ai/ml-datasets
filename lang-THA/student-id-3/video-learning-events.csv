@@ -4383,3 +4383,23 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 14765,1791689273,ai.elimu.filamu,{'video_playback_position_ms': 5738},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 14766,1791689295,ai.elimu.filamu,,,,sample video 5 h264,5
 14767,1791689320,ai.elimu.filamu,{'video_playback_position_ms': 7047},,,sample video 5 h264,5
+14806,1791777732,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+14807,1791777737,ai.elimu.filamu,{'video_playback_position_ms': 53222},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+14808,1791777795,ai.elimu.filamu,,,,test sample video,1
+14809,1791777848,ai.elimu.filamu,{'video_playback_position_ms': 35097},,,test sample video,1
+14810,1791777914,ai.elimu.filamu,,,,test sample video,1
+14811,1791777919,ai.elimu.filamu,{'video_playback_position_ms': 33392},,,test sample video,1
+14812,1791777942,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+14813,1791777957,ai.elimu.filamu,{'video_playback_position_ms': 9279},,,sample video 7 - re-encodeed,7
+14814,1791778000,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+14815,1791778024,ai.elimu.filamu,{'video_playback_position_ms': 48763},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+14816,1791778089,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+14817,1791778149,ai.elimu.filamu,{'video_playback_position_ms': 49983},,,sample video 7 - re-encodeed,7
+14818,1791778215,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+14819,1791778266,ai.elimu.filamu,{'video_playback_position_ms': 58985},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+14820,1791778331,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+14821,1791778367,ai.elimu.filamu,{'video_playback_position_ms': 35025},,,sample video 7 - re-encodeed,7
+14822,1791778457,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+14823,1791778490,ai.elimu.filamu,{'video_playback_position_ms': 57124},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+14824,1791778544,ai.elimu.filamu,,,,test sample video,1
+14825,1791778603,ai.elimu.filamu,{'video_playback_position_ms': 16235},,,test sample video,1
