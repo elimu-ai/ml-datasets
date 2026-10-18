@@ -4437,3 +4437,25 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 14901,1792120314,ai.elimu.filamu,{'video_playback_position_ms': 5882},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
 14902,1792120410,ai.elimu.filamu,,,,sample video 5 h264,5
 14903,1792120429,ai.elimu.filamu,{'video_playback_position_ms': 11594},,,sample video 5 h264,5
+14946,1792206199,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+14947,1792206232,ai.elimu.filamu,{'video_playback_position_ms': 42702},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+14948,1792206284,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+14949,1792206320,ai.elimu.filamu,{'video_playback_position_ms': 46919},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+14950,1792206340,ai.elimu.filamu,,,,test sample video,1
+14951,1792206380,ai.elimu.filamu,{'video_playback_position_ms': 31534},,,test sample video,1
+14952,1792206489,ai.elimu.filamu,,,,test sample video,1
+14953,1792206532,ai.elimu.filamu,{'video_playback_position_ms': 51694},,,test sample video,1
+14954,1792206578,ai.elimu.filamu,,,,test sample video,1
+14955,1792206634,ai.elimu.filamu,{'video_playback_position_ms': 40522},,,test sample video,1
+14956,1792206747,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+14957,1792206767,ai.elimu.filamu,{'video_playback_position_ms': 22390},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+14958,1792206801,ai.elimu.filamu,,,,sample video 5 h264,5
+14959,1792206830,ai.elimu.filamu,{'video_playback_position_ms': 4244},,,sample video 5 h264,5
+14960,1792206930,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+14961,1792206980,ai.elimu.filamu,{'video_playback_position_ms': 16650},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+14962,1792207036,ai.elimu.filamu,,,,test sample video,1
+14963,1792207092,ai.elimu.filamu,{'video_playback_position_ms': 4047},,,test sample video,1
+14964,1792207149,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+14965,1792207197,ai.elimu.filamu,{'video_playback_position_ms': 25837},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+14966,1792207259,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+14967,1792207271,ai.elimu.filamu,{'video_playback_position_ms': 57048},,,sample video 7 - re-encodeed,7
