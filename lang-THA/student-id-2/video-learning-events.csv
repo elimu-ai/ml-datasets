@@ -4643,3 +4643,13 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 14995,1792208593,ai.elimu.filamu,{'video_playback_position_ms': 46386},,,test sample video,1
 14996,1792208692,ai.elimu.filamu,,,,sample video 5 h264,5
 14997,1792208750,ai.elimu.filamu,{'video_playback_position_ms': 40542},,,sample video 5 h264,5
+15008,1792292123,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+15009,1792292147,ai.elimu.filamu,{'video_playback_position_ms': 34992},,,sample video 7 - re-encodeed,7
+15010,1792292204,ai.elimu.filamu,,,,test sample video,1
+15011,1792292234,ai.elimu.filamu,{'video_playback_position_ms': 27746},,,test sample video,1
+15012,1792292260,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+15013,1792292294,ai.elimu.filamu,{'video_playback_position_ms': 22960},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+15014,1792292383,ai.elimu.filamu,,,,sample video 5 h264,5
+15015,1792292426,ai.elimu.filamu,{'video_playback_position_ms': 56615},,,sample video 5 h264,5
+15016,1792292487,ai.elimu.filamu,,,,test sample video,1
+15017,1792292517,ai.elimu.filamu,{'video_playback_position_ms': 3271},,,test sample video,1
