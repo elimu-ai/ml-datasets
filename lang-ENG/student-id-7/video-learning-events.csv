@@ -4197,3 +4197,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5821582,1792200552,ai.elimu.filamu,{'video_playback_position_ms': 12843},,,akili and me - letter i,33
 5821625,1792460624,ai.elimu.filamu,,,,akili and me - letter d,4
 5821626,1792460630,ai.elimu.filamu,{'video_playback_position_ms': 35597},,,akili and me - letter d,4
+5821645,1792548027,ai.elimu.filamu,,,,[test] a test video,44
+5821646,1792548039,ai.elimu.filamu,{'video_playback_position_ms': 37476},,,[test] a test video,44
