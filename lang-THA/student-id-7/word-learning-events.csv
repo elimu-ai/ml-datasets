@@ -148,3 +148,9 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,w
 5358,1791788209,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,เด็ก,196
 5359,1791788211,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,ที่,176
 5360,1791788262,ai.elimu.maneno,"{""spokenText"":""ที่""}",0,0,ที่,176
+5361,1792414537,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,นอน,29
+5362,1792414544,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,ดี,48
+5363,1792414558,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,แม่,187
+5364,1792414566,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,แล้ว,178
+5365,1792414582,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,เหมือน,142
+5366,1792414584,ai.elimu.vitabu,"{""eventType"":""WORD_PRESSED""}",0,0,กัน,61

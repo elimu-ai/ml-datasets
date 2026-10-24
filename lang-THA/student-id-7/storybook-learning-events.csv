@@ -68,3 +68,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 1435,1791788189,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,จืดกับเจ้าตึก,45
 1436,1791788222,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,จืดกับเจ้าตึก,45
 1437,1791788285,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,จืดกับเจ้าตึก,45
+1438,1792414518,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,ฉันชอบอ่านหนังสือ,72
+1439,1792414598,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[6, 5, 7, 11, 12, 10, 12, 11]""}",0,0,ฉันชอบอ่านหนังสือ,72
