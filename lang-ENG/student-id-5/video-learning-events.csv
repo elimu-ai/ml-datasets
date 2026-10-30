@@ -5107,3 +5107,9 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 5821814,1792977940,ai.elimu.filamu,{'video_playback_position_ms': 53259},,,akili and me - the rectangle song,13
 5821815,1792978057,ai.elimu.filamu,,,,akili and me - letter b,2
 5821816,1792978067,ai.elimu.filamu,{'video_playback_position_ms': 38203},,,akili and me - letter b,2
+5821911,1793241316,ai.elimu.filamu,,,,akili and me - letter i,33
+5821912,1793241359,ai.elimu.filamu,{'video_playback_position_ms': 18938},,,akili and me - letter i,33
+5821913,1793241389,ai.elimu.filamu,,,,akili and me - letter a,1
+5821914,1793241432,ai.elimu.filamu,{'video_playback_position_ms': 11733},,,akili and me - letter a,1
+5821915,1793241485,ai.elimu.filamu,,,,[test] a test video,44
+5821916,1793241508,ai.elimu.filamu,{'video_playback_position_ms': 54227},,,[test] a test video,44
