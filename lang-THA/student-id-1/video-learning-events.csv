@@ -4611,3 +4611,7 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 15651,1793436814,ai.elimu.filamu,{'video_playback_position_ms': 30959},,,test sample video,1
 15652,1793436880,ai.elimu.filamu,,,,test sample video,1
 15653,1793436893,ai.elimu.filamu,{'video_playback_position_ms': 22355},,,test sample video,1
+15670,1793504952,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+15671,1793505010,ai.elimu.filamu,{'video_playback_position_ms': 57252},,,sample video 7 - re-encodeed,7
+15672,1793505094,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+15673,1793505125,ai.elimu.filamu,{'video_playback_position_ms': 33792},,,sample video 7 - re-encodeed,7
