@@ -4649,3 +4649,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 15729,1793596141,ai.elimu.filamu,{'video_playback_position_ms': 30923},,,sample video 7 - re-encodeed,7
 15730,1793596167,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
 15731,1793596215,ai.elimu.filamu,{'video_playback_position_ms': 42991},,,sample video 7 - re-encodeed,7
+15744,1793681966,ai.elimu.filamu,,,,test sample video,1
+15745,1793681987,ai.elimu.filamu,{'video_playback_position_ms': 50532},,,test sample video,1
