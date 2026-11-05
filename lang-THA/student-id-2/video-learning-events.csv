@@ -4911,3 +4911,29 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 15773,1793683415,ai.elimu.filamu,{'video_playback_position_ms': 45056},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 15774,1793683509,ai.elimu.filamu,,,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
 15775,1793683524,ai.elimu.filamu,{'video_playback_position_ms': 30586},,,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,10
+15804,1793767366,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+15805,1793767423,ai.elimu.filamu,{'video_playback_position_ms': 32698},,,sample video 7 - re-encodeed,7
+15806,1793767542,ai.elimu.filamu,,,,sample video 5 h264,5
+15807,1793767573,ai.elimu.filamu,{'video_playback_position_ms': 9548},,,sample video 5 h264,5
+15808,1793767618,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+15809,1793767649,ai.elimu.filamu,{'video_playback_position_ms': 10969},,,sample video 7 - re-encodeed,7
+15810,1793767694,ai.elimu.filamu,,,,sample video 5 h264,5
+15811,1793767724,ai.elimu.filamu,{'video_playback_position_ms': 7071},,,sample video 5 h264,5
+15812,1793767795,ai.elimu.filamu,,,,test sample video,1
+15813,1793767829,ai.elimu.filamu,{'video_playback_position_ms': 15185},,,test sample video,1
+15814,1793767868,ai.elimu.filamu,,,,test sample video,1
+15815,1793767873,ai.elimu.filamu,{'video_playback_position_ms': 27805},,,test sample video,1
+15816,1793767986,ai.elimu.filamu,,,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+15817,1793768039,ai.elimu.filamu,{'video_playback_position_ms': 3968},,,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,9
+15818,1793768138,ai.elimu.filamu,,,,sample video 5 h264,5
+15819,1793768145,ai.elimu.filamu,{'video_playback_position_ms': 57364},,,sample video 5 h264,5
+15820,1793768223,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+15821,1793768226,ai.elimu.filamu,{'video_playback_position_ms': 27999},,,sample video 7 - re-encodeed,7
+15822,1793768341,ai.elimu.filamu,,,,test sample video,1
+15823,1793768348,ai.elimu.filamu,{'video_playback_position_ms': 48288},,,test sample video,1
+15824,1793768384,ai.elimu.filamu,,,,sample video 7 - re-encodeed,7
+15825,1793768405,ai.elimu.filamu,{'video_playback_position_ms': 31353},,,sample video 7 - re-encodeed,7
+15826,1793768475,ai.elimu.filamu,,,,test sample video,1
+15827,1793768515,ai.elimu.filamu,{'video_playback_position_ms': 18970},,,test sample video,1
+15828,1793768598,ai.elimu.filamu,,,,test sample video,1
+15829,1793768655,ai.elimu.filamu,{'video_playback_position_ms': 58449},,,test sample video,1
