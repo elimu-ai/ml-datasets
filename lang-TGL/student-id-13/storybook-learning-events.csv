@@ -16,3 +16,18 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 542,1775157652,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ano ang Kinatatakutan nina  Anopol at ni Tang-id,53
 543,1776804853,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Aming Pamilya,2
 544,1776809092,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Aming Pamilya,2
+545,1776977878,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Aaloo-Maaloo-Kaaloo,68
+546,1776978648,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Araw at Gabi,128
+547,1776978916,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Araw at Gabi,128
+548,1777045206,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Batubato,9
+549,1778225455,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Araw at Gabi,128
+550,1779293642,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Sapatos ni Tatay,114
+551,1779293677,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ganito Lumiwanag ang Aking Mukha,42
+552,1779293688,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[0, 0, 0, 0, 0, 0, 0, 1, 0, 2]""}",0,1,Ganito Lumiwanag ang Aking Mukha,42
+553,1781091341,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Aaloo-Maaloo-Kaaloo,68
+554,1781405000,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Alimango at Isda ay Magkaibigan,63
+555,1781405340,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[1, 58, 23, 25, 97, 11, 11, 11, 64, 26]""}",0,1,Ang Alimango at Isda ay Magkaibigan,63
+556,1781405351,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Munting Matsing at ang Isda,62
+557,1781405664,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang mga Mabituing Hiling ni Palaka,20
+558,1793634882,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,Ang Araw at Gabi,128
+559,1793635046,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[9, 12, 22, 19, 25, 16, 8, 13, 7, 20, 1]""}",0,1,Ang Araw at Gabi,128

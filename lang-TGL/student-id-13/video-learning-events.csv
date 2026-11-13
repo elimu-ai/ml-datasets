@@ -8,3 +8,9 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,v
 4528936,1773611117,ai.elimu.filamu,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":24078}",0,1,piper,1
 4529625,1775157680,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,piper,1
 4529626,1775157705,ai.elimu.filamu,"{""eventType"":""VIDEO_COMPLETED"",""video_playback_position_ms"":24078}",0,1,piper,1
+4535249,1776977900,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,piper,1
+4535250,1776977903,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":1203}",0,1,piper,1
+4535251,1779134357,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,piper,1
+4535252,1779134360,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":2139}",0,1,piper,1
+4535253,1781092547,ai.elimu.filamu,"{""eventType"":""VIDEO_OPENED""}",0,1,piper,1
+4535254,1781092551,ai.elimu.filamu,"{""eventType"":""VIDEO_CLOSED_BEFORE_COMPLETION"",""video_playback_position_ms"":2532}",0,1,piper,1
