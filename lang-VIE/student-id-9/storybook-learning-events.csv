@@ -1,2 +1,5 @@
 id,timestamp,package_name,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
 177,1794293871,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,Ai có thể giúp mình nhỉ?,92
+178,1794474679,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
+179,1794474723,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10
+180,1794474923,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[14, 22, 15, 18, 15, 13, 22, 19, 9, 22, 14]""}",0,0,"""Cá của tớ!"" ""Không, cá của tớ chứ!",10

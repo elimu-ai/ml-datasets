@@ -1,1 +1,38 @@
 id,timestamp,package_name,additional_data,research_experiment,experiment_group,letter_sound_letters,letter_sound_sounds,letter_sound_id
+23,1794474929,ai.elimu.herufi,,0,0,[a],[a],1
+24,1794474931,ai.elimu.herufi,,0,0,[◌́],[∅],29
+25,1794474933,ai.elimu.herufi,,0,0,[c],[k],6
+26,1794474937,ai.elimu.herufi,,0,0,[n],[n],7
+27,1794474939,ai.elimu.herufi,,0,0,[i],[i],10
+28,1794474941,ai.elimu.herufi,,0,0,[◌̣],[∅],33
+29,1794474942,ai.elimu.herufi,,0,0,[m],[m],17
+30,1794474944,ai.elimu.herufi,,0,0,"[n, g]",[ŋ],36
+31,1794474946,ai.elimu.herufi,,0,0,[u],[u],30
+32,1794474947,ai.elimu.herufi,,0,0,[t],[t],11
+33,1794474948,ai.elimu.herufi,,0,0,[i],[j],12
+34,1794474950,ai.elimu.herufi,,0,0,[ơ],[ə],34
+35,1794474952,ai.elimu.herufi,,0,0,[ô],[o],26
+36,1794474953,ai.elimu.herufi,,0,0,[đ],[ɗ],32
+37,1794474955,ai.elimu.herufi,,0,0,[o],[ɔː],5
+38,1794474956,ai.elimu.herufi,,0,0,[ư],[ɯ],42
+39,1794474958,ai.elimu.herufi,,0,0,[◌̉],[∅],31
+40,1794474959,ai.elimu.herufi,,0,0,"[n, h]",[ɲ],2
+41,1794474961,ai.elimu.herufi,,0,0,[â],[ɤ̆],43
+42,1794474963,ai.elimu.herufi,,0,0,[l],[l],27
+43,1794474964,ai.elimu.herufi,,0,0,[v],[v],23
+44,1794474966,ai.elimu.herufi,,0,0,"[c, h]",[tɕ],4
+45,1794474968,ai.elimu.herufi,,0,0,[b],[ɓ],15
+46,1794474970,ai.elimu.herufi,,0,0,[y],[j],21
+47,1794474972,ai.elimu.herufi,,0,0,[◌̃],[∅],25
+48,1794474973,ai.elimu.herufi,,0,0,[o],[ɔ],28
+49,1794474974,ai.elimu.herufi,,0,0,[à],[a],3
+50,1794474975,ai.elimu.herufi,,0,0,[e],[ɛ],20
+51,1794474977,ai.elimu.herufi,,0,0,"[k, h]",[x],9
+52,1794474978,ai.elimu.herufi,,0,0,[r],[z],8
+53,1794474981,ai.elimu.herufi,,0,0,"[t, h]",[tʰ],38
+54,1794474983,ai.elimu.herufi,,0,0,"[t, h]",[tʰ],38
+55,1794474984,ai.elimu.herufi,,0,0,[s],[s],19
+56,1794474986,ai.elimu.herufi,,0,0,[u],[w],16
+57,1794474987,ai.elimu.herufi,,0,0,"[t, r]",[tɕ],39
+58,1794474989,ai.elimu.herufi,,0,0,[ă],[ă],40
+59,1794474990,ai.elimu.herufi,,0,0,[h],[h],13
