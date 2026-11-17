@@ -1,0 +1,10 @@
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+43943,1794735952,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,अद्भुत कीड़े,37
+43945,1794760268,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,अद्भुत कीड़े,37
+43946,1794760409,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,स्वतंत्रता की ओर,23
+43947,1794760442,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,अद्भुत कीड़े,37
+43948,1794760498,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,अद्भुत कीड़े,37
+43949,1794760617,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"अभी नहीं, अभी नहीं!",1
+43950,1794813540,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,अद्भुत कीड़े,37
+43951,1794813606,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[5, 5, 6, 5, 5, 6, 5, 5, 5, 5, 1]""}",0,0,अद्भुत कीड़े,37
+43952,1794813611,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"अभी नहीं, अभी नहीं!",1
